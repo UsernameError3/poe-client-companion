@@ -1,0 +1,62 @@
+{
+  "name": "poe-client-companion",
+  "version": "1.0.0",
+  "description": "native web app with companion features for path of exile.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsernameError3/poe-client-companion.git"
+  },
+  "keywords": [
+    "node",
+    "template"
+  ],
+  "author": "Alex Fleming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UsernameError3/poe-client-companion/issues"
+  },
+  "homepage": "https://github.com/UsernameError3/poe-client-companion#readme",
+  "scripts": {
+    "build": "gulp build",
+    "build-message": "echo \"Linting & Building Files...\" && exit 0",
+    "format": "npx eslint --fix \"./*.js\"",
+    "test": "node index.js",
+    "start": "node index.js",
+    "stop": "node index.js",
+    "coverage": "nyc npm run test"
+  },
+  "pre-commit": [
+    "build-message",
+    "build"
+  ],
+  "nyc": {
+    "check-coverage": true,
+    "reporter": [
+      "text",
+      "text-summary",
+      "html"
+    ],
+    "report-dir": "./coverage/",
+    "exclude": [
+      "**/*.spec.js"
+    ],
+    "statements": 100,
+    "branches": 100,
+    "functions": 100,
+    "lines": 100
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "nyc": "^15.1.0",
+    "pre-commit": "^1.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
