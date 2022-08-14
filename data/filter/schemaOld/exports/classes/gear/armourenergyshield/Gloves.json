@@ -1,0 +1,1222 @@
+[
+    {
+        "itemModHeader": "+# to Armour, +# to maximum Energy Shield",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Blessed",
+            "Anointed",
+            "Sanctified",
+            "Hallowed"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: BaseLocalDefencesAndLife",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Oyster's",
+            "Urchin's",
+            "Monk's",
+            "Prior's",
+            "Acolyte's",
+            "Deacon's"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Cold Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Frosted",
+            "Chilled",
+            "Icy",
+            "Frigid",
+            "Freezing",
+            "Frozen"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Armour and Energy Shield",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Infixed",
+            "Ingrained",
+            "Instilled",
+            "Infused",
+            "Inculcated",
+            "Interpolated",
+            "Inspired"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Armour and Energy Shield, #% increased Stun and Block Recovery",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Pixie's",
+            "Gremlin's",
+            "Boggart's",
+            "Naga's",
+            "Djinn's",
+            "Seraphim's"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Fire Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Heated",
+            "Smouldering",
+            "Smoking",
+            "Burning",
+            "Flaming",
+            "Scorching"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedLife",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hale",
+            "Healthy",
+            "Sanguine",
+            "Stalwart",
+            "Stout",
+            "Robust",
+            "Rotund",
+            "Virile",
+            "Athlete's"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedMana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Beryl",
+            "Cobalt",
+            "Azure",
+            "Sapphire",
+            "Cerulean",
+            "Aqua",
+            "Opalescent",
+            "Gentian",
+            "Chalybeous",
+            "Mazarine",
+            "Blue",
+            "Zaffre"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Rarity of Items found",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Magpie's",
+            "Pirate's"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Attack Damage Leeched as Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Remora's"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Lightning Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Humming",
+            "Buzzing",
+            "Snapping",
+            "Crackling",
+            "Sparking",
+            "Arcing"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Attack Damage Leeched as Mana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Thirsty"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Physical Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Glinting",
+            "Burnished",
+            "Polished",
+            "Honed"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Chaos Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Lost",
+            "of Banishment",
+            "of Eviction",
+            "of Expulsion",
+            "of Exile",
+            "of Bameth"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Inuit",
+            "of the Seal",
+            "of the Penguin",
+            "of the Yeti",
+            "of the Walrus",
+            "of the Polar Bear",
+            "of the Ice",
+            "of Haast"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Mongoose",
+            "of the Lynx",
+            "of the Fox",
+            "of the Falcon",
+            "of the Panther",
+            "of the Leopard",
+            "of the Jaguar",
+            "of the Phantom",
+            "of the Wind",
+            "of the Blur"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Energy Shield Recharge Rate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Allaying",
+            "of Diffusion",
+            "of Dispersal",
+            "of Buffering",
+            "of Ardour"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Whelpling",
+            "of the Salamander",
+            "of the Drake",
+            "of the Kiln",
+            "of the Furnace",
+            "of the Volcano",
+            "of the Magma",
+            "of Tzteosh"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Accuracy Rating",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Steadiness",
+            "of Precision",
+            "of the Sniper",
+            "of the Marksman",
+            "of the Ranger",
+            "of Lioneye"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedAttackSpeed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Skill",
+            "of Ease",
+            "of Ease",
+            "of Mastery",
+            "of Grandmastery"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Cast Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Nimbleness"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Pupil",
+            "of the Student",
+            "of the Prodigy",
+            "of the Augur",
+            "of the Philosopher",
+            "of the Sage",
+            "of the Savant",
+            "of the Virtuoso",
+            "of the Genius"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Rarity of Items found",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Plunder",
+            "of Raiding"
+        ]
+    },
+    {
+        "itemModHeader": "+# Life gained on Kill",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Success",
+            "of Victory",
+            "of Triumph"
+        ]
+    },
+    {
+        "itemModHeader": "+# Life gained for each Enemy hit by your Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Rejuvenation"
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate # Life per second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Newt",
+            "of the Lizard",
+            "of the Flatworm",
+            "of the Starfish",
+            "of the Hydra",
+            "of the Troll",
+            "of Ryslatha",
+            "of the Phoenix"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Life Regeneration rate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Esprit",
+            "of Perpetuity",
+            "of Vivification",
+            "of Youth",
+            "of Everlasting"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Cloud",
+            "of the Squall",
+            "of the Storm",
+            "of the Thunderhead",
+            "of the Tempest",
+            "of the Maelstrom",
+            "of the Lightning",
+            "of Ephij"
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Attribute Requirements",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Worthy",
+            "of the Apt"
+        ]
+    },
+    {
+        "itemModHeader": "+# Mana gained on Kill",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Absorption",
+            "of Osmosis",
+            "of Consumption"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Brute",
+            "of the Wrestler",
+            "of the Bear",
+            "of the Lion",
+            "of the Gorilla",
+            "of the Goliath",
+            "of the Leviathan",
+            "of the Titan",
+            "of the Gods"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to gain a Frenzy Charge on Kill",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "The Elder's",
+            "The Elder's"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Projectile Speed, Socketed Gems are supported by Level # Faster Projectiles",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "The Elder's",
+            "The Elder's",
+            "The Elder's"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage with Bleeding, Socketed Gems are Supported by Level # Chance To Bleed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elder",
+            "of the Elder",
+            "of the Elder"
+        ]
+    },
+    {
+        "itemModHeader": "#% Chance to Block Attack Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elder",
+            "of the Elder"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: DamageOverTimeMultiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elder",
+            "of the Elder",
+            "of the Elder",
+            "of the Elder"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedAccuracyPercent",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elder",
+            "of the Elder",
+            "of the Elder"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedAttackSpeed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elder",
+            "of the Elder",
+            "of the Elder",
+            "of the Elder",
+            "of the Elder",
+            "of the Elder"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Melee Damage, +# to Melee Strike Range",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elder"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage with Poison, Socketed Gems are Supported by Level # Chance to Poison",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elder",
+            "of the Elder",
+            "of the Elder"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SocketedCriticalMultiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elder",
+            "of the Elder",
+            "of the Elder"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Projectile Damage, Socketed Gems are Supported by Level # Slower Projectiles",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "The Shaper's",
+            "The Shaper's",
+            "The Shaper's"
+        ]
+    },
+    {
+        "itemModHeader": "Socketed Gems are Supported by Level # Mana Leech",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "The Shaper's"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid interruption from Stuns while Casting",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shaping",
+            "of Shaping",
+            "of Shaping"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: BlindOnHit",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shaping",
+            "of Shaping",
+            "of Shaping"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: DamageOverTimeMultiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedAttackSpeed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shaping",
+            "of Shaping",
+            "of Shaping"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SocketedCriticalMultiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shaping",
+            "of Shaping",
+            "of Shaping"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: TrapSupported",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping",
+            "of Shaping"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Damage Converted to Cold Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Crusader's",
+            "Crusader's"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Damage Converted to Fire Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Crusader's",
+            "Crusader's"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Damage Converted to Lightning Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Crusader's",
+            "Crusader's"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: MaximumLeechRate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Crusader's",
+            "Crusader's"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid interruption from Stuns while Casting",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Crusade",
+            "of the Crusade",
+            "of the Crusade"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: CriticalStrikeChanceIncrease",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Crusade",
+            "of the Crusade",
+            "of the Crusade"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to maximum Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Crusade",
+            "of the Crusade"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Cold Damage if you've dealt a Critical Strike Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Redeemer's",
+            "Redeemer's"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Fire Damage if you've dealt a Critical Strike Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Redeemer's",
+            "Redeemer's"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Lightning Damage if you've dealt a Critical Strike Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Redeemer's",
+            "Redeemer's"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Physical Damage if you've dealt a Critical Strike Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Redeemer's",
+            "Redeemer's"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to gain a Frenzy Charge on Kill",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Redeemer's",
+            "Redeemer's"
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal #% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Redeemer's",
+            "Redeemer's",
+            "Redeemer's"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: BlindOnHit",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Redemption",
+            "of Redemption"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedAccuracyPercent",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Redemption",
+            "of Redemption"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Intimidate Enemies for # seconds on Hit",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hunter's"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Unnerve Enemies for # seconds on Hit",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hunter's"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Impale Enemies on Hit with Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hunter's",
+            "Hunter's"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Duration of Ailments on Enemies",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hunter's",
+            "Hunter's"
+        ]
+    },
+    {
+        "itemModHeader": "Strike Skills target # additional nearby Enemy",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hunter's"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: DamageOverTimeMultiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Hunt",
+            "of the Hunt",
+            "of the Hunt",
+            "of the Hunt",
+            "of the Hunt",
+            "of the Hunt",
+            "of the Hunt",
+            "of the Hunt"
+        ]
+    },
+    {
+        "itemModHeader": "+# Mana gained for each Enemy hit by your Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Hunt"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Hunt",
+            "of the Hunt"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage over Time",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Warlord's",
+            "Warlord's",
+            "Warlord's"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Maximum Frenzy Charges",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Warlord's"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Melee Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Warlord's",
+            "Warlord's",
+            "Warlord's"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Projectile Attack Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Warlord's",
+            "Warlord's",
+            "Warlord's"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Spell Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Warlord's",
+            "Warlord's",
+            "Warlord's"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Stunned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Conquest"
+        ]
+    },
+    {
+        "itemModHeader": "#% Chance to Block Attack Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Conquest",
+            "of the Conquest"
+        ]
+    },
+    {
+        "itemModHeader": "Culling Strike",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Conquest"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Melee Strike Range",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Conquest"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: BaseLocalDefencesAndLife",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Damage Converted to Cold Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Damage Converted to Fire Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Damage Converted to Lightning Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage during any Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Brinerot"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage while Leeching",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Vorici's"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedLife",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: IncreasedMana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Melee Strike Range, +# to Level of Socketed Melee Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "#% additional Physical Damage Reduction while Focused",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "Projectiles Pierce an additional Target, +# to Level of Socketed Projectile Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Area of Effect, +# to Level of Socketed AoE Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chosen"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Attack and Cast Speed while Focused",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Brand Attachment range",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Cold and Chaos Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: CriticalStrikeChanceIncrease",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order",
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage with Non-Vaal Skills during Soul Gain Prevention",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Dexterity and Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire and Chaos Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "You have Onslaught during Soul Gain Prevention",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Lightning and Chaos Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "Minions Recover #% of their Life when you Focus, Focus has #% increased Cooldown Recovery Rate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength and Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength and Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "Attacks have +#% to Critical Strike Chance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AdditionalCriticalStrikeChanceWithAttacks"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Spell Critical Strike Chance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AdditionalCriticalStrikeChanceWithSpells"
+        ]
+    },
+    {
+        "itemModHeader": "Curse Enemies with Despair on Hit, with #% increased Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CurseOnHitDespair"
+        ]
+    },
+    {
+        "itemModHeader": "Curse Enemies with Enfeeble on Hit, with #% increased Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CurseOnHitEnfeeble"
+        ]
+    },
+    {
+        "itemModHeader": "Curse Enemies with Elemental Weakness on Hit, with #% increased Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CurseOnHitLevelElementalWeakness"
+        ]
+    },
+    {
+        "itemModHeader": "Curse Enemies with Temporal Chains on Hit, with #% increased Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CurseOnHitLevelTemporalChains"
+        ]
+    },
+    {
+        "itemModHeader": "Curse Enemies with Vulnerability on Hit, with #% increased Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CurseOnHitLevelVulnerability"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Attack Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedAttackSpeed"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Cast Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedCastSpeed"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Level of Socketed AoE Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedSocketedAoEGemLevel"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Level of Socketed Trap or Mine Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedSocketedTrapOrMineGemLevel"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Level of Socketed Aura Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "LocalIncreaseSocketedAuraLevelCorrupted"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Level of Socketed Curse Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "LocalIncreaseSocketedCurseLevelCorrupted"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Level of Socketed Duration Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreaseSocketedDurationGemLevel"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Level of Socketed Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "LocalIncreaseSocketedGemLevel"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Level of Socketed Projectile Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "LocalIncreaseSocketedProjectileLevelCorrupted"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Level of Socketed Warcry Gems",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "LocalSocketedWarcryGemLevel"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased maximum Energy Shield",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "MaximumEnergyShieldPercent"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Maximum Frenzy Charges",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "MaximumFrenzyCharges"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased maximum Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "MaximumLifeIncreasePercent"
+        ]
+    }
+]

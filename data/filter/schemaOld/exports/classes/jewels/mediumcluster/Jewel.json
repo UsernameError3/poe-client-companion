@@ -1,0 +1,181 @@
+[
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Armour",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Lacquered",
+            "Studded",
+            "Ribbed"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: #% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Harmful",
+            "Hazardous",
+            "Dangerous"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Maximum Energy Shield",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Shining",
+            "Glimmering",
+            "Glowing"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Evasion",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Agile",
+            "Dancer's",
+            "Acrobat's"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Maximum Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hale",
+            "Healthy",
+            "Sanguine"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Maximum Mana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Beryl",
+            "Cobalt",
+            "Azure"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills have #% increased Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Potent",
+            "Powerful"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to All Attributes",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Cloud",
+            "of the Sky",
+            "of the Meteor"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Chaos Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Lost",
+            "of Banishment",
+            "of Eviction"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Inuit",
+            "of the Seal",
+            "of the Penguin"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Mongoose",
+            "of the Lynx",
+            "of the Fox"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Elemental Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Crystal",
+            "of the Prism",
+            "of the Kaleidoscope"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Whelpling",
+            "of the Salamander",
+            "of the Drake"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Pupil",
+            "of the Student",
+            "of the Prodigy"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: Regenerate #% of Life per Second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Newt",
+            "of the Lizard",
+            "of the Flatworm"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Cloud",
+            "of the Squall",
+            "of the Storm"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: #% increased Mana Regeneration Rate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Excitement",
+            "of Joy",
+            "of Elation"
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Strength",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Brute",
+            "of the Wrestler",
+            "of the Bear"
+        ]
+    }
+]

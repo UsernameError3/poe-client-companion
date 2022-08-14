@@ -1,0 +1,262 @@
+[
+    {
+        "itemModHeader": "#% reduced Charges per use",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Apprentice's",
+            "Scholar's",
+            "Practitioner's",
+            "Brewer's",
+            "Chemist's"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Maximum Charges",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Wide",
+            "Plentiful",
+            "Bountiful",
+            "Abundant",
+            "Ample"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskRechargeRate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Medic's",
+            "Physician's",
+            "Doctor's",
+            "Specialist's",
+            "Surgeon's",
+            "Delinquent's",
+            "Transgressor's",
+            "Sinner's",
+            "Masochist's",
+            "Flagellant's",
+            "Constant",
+            "Continuous",
+            "Endless",
+            "Bottomless",
+            "Perpetual",
+            "Doled",
+            "Provisioned",
+            "Measured",
+            "Allocated",
+            "Rationed"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskRecoverySpeed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Abecedarian's",
+            "Dabbler's",
+            "Alchemist's",
+            "Investigator's",
+            "Analyst's",
+            "Examiner's",
+            "Clinician's",
+            "Experimenter's"
+        ]
+    },
+    {
+        "itemModHeader": "Immunity to Bleeding and Corrupted Blood during Flask Effect, #% less Duration",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Lizard",
+            "of the Skink",
+            "of the Iguana"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskBuffWhileHealing",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Abalone",
+            "of the Tortoise",
+            "of the Pangolin",
+            "of the Armadillo",
+            "of Bloodshed",
+            "of Gore",
+            "of Carnage",
+            "of Butchery",
+            "of Bloodletting",
+            "of the Falcon",
+            "of the Eagle",
+            "of the Dove",
+            "of the Orca",
+            "of the Sea Lion",
+            "of the Narwhal",
+            "of the Beluga",
+            "of the Seal",
+            "of the Guppy",
+            "of the Goldfish",
+            "of the Carp",
+            "of the Catfish",
+            "of the Sunfish",
+            "of Tree Moss",
+            "of Turf Moss",
+            "of Tooth Moss",
+            "of Plume Moss",
+            "of Bog Moss",
+            "of Composure",
+            "of Surefootedness",
+            "of Persistence",
+            "of Relentlessness",
+            "of Tenaciousness",
+            "of the Albatross",
+            "of the Hummingbird",
+            "of the Horsefly",
+            "of the Rabbit",
+            "of the Cat",
+            "of the Fox",
+            "of the Sable",
+            "of the Bear",
+            "of Stinging",
+            "of Piercing",
+            "of Rupturing",
+            "of Penetrating",
+            "of Incision",
+            "of the Petrel",
+            "of the Mockingbird",
+            "of the Curlew",
+            "of the Kakapo",
+            "of the Owl",
+            "of the Gazelle",
+            "of the Antelope",
+            "of the Ibex",
+            "of the Impala",
+            "of Foisting",
+            "of Imposing",
+            "of Wreaking",
+            "of Infliction",
+            "of the Hare",
+            "of the Lynx",
+            "of the Cheetah",
+            "of the Crystal",
+            "of the Prism",
+            "of the Kaleidoscope",
+            "of Variegation",
+            "of the Rainbow",
+            "of the Plover",
+            "of the Sandpiper",
+            "of the Cormorant",
+            "of the Sanderling",
+            "of the Heron",
+            "of Diverting",
+            "of Depletion",
+            "of Tapping",
+            "of Siphoning",
+            "of Draining",
+            "of Stiffness",
+            "of Bracing",
+            "of Ballast",
+            "of Counterpoise",
+            "of Stabilisation"
+        ]
+    },
+    {
+        "itemModHeader": "Immunity to Freeze and Chill during Flask Effect, #% less Duration",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Deer",
+            "of the Walrus",
+            "of the Penguin"
+        ]
+    },
+    {
+        "itemModHeader": "Immunity to Ignite during Flask effect Removes Burning on use, #% less Duration",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Urchin",
+            "of the Mussel",
+            "of the Starfish"
+        ]
+    },
+    {
+        "itemModHeader": "Immunity to Poison during Flask Effect, #% less Duration",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Skunk",
+            "of the Hedgehog",
+            "of the Opossum"
+        ]
+    },
+    {
+        "itemModHeader": "Immunity to Shock during Flask Effect, #% less Duration",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Conger",
+            "of the Moray",
+            "of the Eel"
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Reflected Damage taken during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% Chance to Avoid being Stunned during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Critical Strike Chance during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Rarity of Items found during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Damage Taken from Hits is Leeched as Life during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate #% of Life per second during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Mana Cost of Skills during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    }
+]

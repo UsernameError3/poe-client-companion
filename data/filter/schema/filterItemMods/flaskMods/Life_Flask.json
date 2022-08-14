@@ -1,0 +1,277 @@
+[
+    {
+        "itemModHeader": "Instant Recovery, #% reduced Amount Recovered",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Seething"
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Charges per use",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Apprentice's",
+            "Scholar's",
+            "Practitioner's",
+            "Brewer's",
+            "Chemist's"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Amount Recovered, #% increased Charges per use",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Nitrate",
+            "Dolomite",
+            "Kieserite",
+            "Kainite",
+            "Gypsum"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Maximum Charges",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Wide",
+            "Plentiful",
+            "Bountiful",
+            "Abundant",
+            "Ample"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskRechargeRate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Medic's",
+            "Physician's",
+            "Doctor's",
+            "Specialist's",
+            "Surgeon's",
+            "Delinquent's",
+            "Transgressor's",
+            "Sinner's",
+            "Masochist's",
+            "Flagellant's",
+            "Constant",
+            "Continuous",
+            "Endless",
+            "Bottomless",
+            "Perpetual"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskRecoveryAmount",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Impairing",
+            "Dizzying",
+            "Depleting",
+            "Vitiating",
+            "Sapping",
+            "Substantial",
+            "Opaque",
+            "Full bodied",
+            "Concentrated",
+            "Saturated",
+            "Prudent",
+            "Prepared",
+            "Wary",
+            "Careful",
+            "Cautious"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskRecoverySpeed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Undiluted",
+            "Thickened",
+            "Viscous",
+            "Condensed",
+            "Catalysed",
+            "Startled",
+            "Frightened",
+            "Alarmed",
+            "Terrified",
+            "Panicked",
+            "Simmering",
+            "Ebullient",
+            "Effusive",
+            "Effervescent",
+            "Bubbling"
+        ]
+    },
+    {
+        "itemModHeader": "Removes Curses on use",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Warding"
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Ignite for # seconds if used while Ignited Removes all Burning when used",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Damping",
+            "of Quashing",
+            "of Quelling",
+            "of Quenching"
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Chill for # seconds if used while Chilled Grants Immunity to Freeze for # seconds if used while Frozen",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Convection",
+            "of Thermodynamics",
+            "of Entropy",
+            "of Thawing"
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Poison for # seconds if used while Poisoned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Antitoxin",
+            "of the Remedy",
+            "of the Cure",
+            "of the Antidote"
+        ]
+    },
+    {
+        "itemModHeader": "Grants #% of Life Recovery to Minions",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Novice",
+            "of the Acolyte",
+            "of the Summoner",
+            "of the Conjurer",
+            "of the Necromancer"
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Bleeding for # seconds if used while Bleeding Grants Immunity to Corrupted Blood for # seconds if used while affected by Corrupted Blood",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Sealing",
+            "of Alleviation",
+            "of Allaying",
+            "of Assuaging"
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Shock for # seconds if used while Shocked",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Earthing",
+            "of Grounding",
+            "of Insulation",
+            "of the Dielectric"
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Hinder for # seconds if used while Hindered, Grants Immunity to Maim for # seconds if used while Maimed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Movement",
+            "of Motion",
+            "of Freedom",
+            "of Liberation"
+        ]
+    },
+    {
+        "itemModHeader": "Recover an additional #% of Flask's Life Recovery Amount over # seconds if used while not on Full Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Abundance",
+            "of Plenty",
+            "of Bounty",
+            "of Incessance",
+            "of Perenniality"
+        ]
+    },
+    {
+        "itemModHeader": "Hinders nearby Enemies with #% reduced Movement Speed if used while not on Full Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Interference",
+            "of Obstruction",
+            "of Occlusion",
+            "of Restraint"
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Reflected Damage taken during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% Chance to Avoid being Stunned during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Critical Strike Chance during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Rarity of Items found during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Damage Taken from Hits is Leeched as Life during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate #% of Life per second during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Mana Cost of Skills during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ]
+    }
+]

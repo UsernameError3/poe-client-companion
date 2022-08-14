@@ -1,0 +1,968 @@
+[
+    {
+        "itemModHeader": "+# to maximum Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hale",
+            "Healthy",
+            "Sanguine",
+            "Stalwart"
+        ]
+    },
+    {
+        "itemModHeader": "+# to maximum Mana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Beryl",
+            "Cobalt",
+            "Azure",
+            "Sapphire"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Cooldown Recovery Rate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Facilitating",
+            "Expediting"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Effect of your Curses",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Murmuring",
+            "Foul tongued"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage over Time while Dual Wielding",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Degenerative",
+            "Deleterious"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage over Time while holding a Shield",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Degenerative",
+            "Deleterious"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage over Time while wielding a Two Handed Weapon",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Degenerative",
+            "Deleterious"
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate # Energy Shield per second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Captivating",
+            "Beautiful",
+            "Breathtaking"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Impale Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Skewering",
+            "Lancing"
+        ]
+    },
+    {
+        "itemModHeader": "+# to maximum Energy Shield",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Shining",
+            "Seething",
+            "Incandescent",
+            "Resplendent"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Evasion Rating",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Agile",
+            "Fleet",
+            "Vaporous",
+            "Beclouded"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Armour",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Lacquered",
+            "Fortified",
+            "Carapaced",
+            "Encased"
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate # Life per second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Youthful",
+            "Spirited",
+            "Vivacious"
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate # Mana per second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Energising",
+            "Inspirational",
+            "Resonating"
+        ]
+    },
+    {
+        "itemModHeader": "#% of Damage taken Recouped as Mana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Spurring",
+            "Motivating"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SpecificWeaponChaosDamage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Tainted",
+            "Clouded",
+            "Darkened",
+            "Malignant",
+            "Vile",
+            "Tainted",
+            "Clouded",
+            "Darkened",
+            "Malignant",
+            "Vile"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SpecificWeaponColdDamage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Frosted",
+            "Freezing",
+            "Frozen",
+            "Glaciated",
+            "Polar",
+            "Entombing",
+            "Frosted",
+            "Freezing",
+            "Frozen",
+            "Glaciated",
+            "Polar",
+            "Entombing",
+            "Frosted",
+            "Freezing",
+            "Frozen",
+            "Glaciated",
+            "Polar",
+            "Entombing",
+            "Frosted",
+            "Freezing",
+            "Frozen",
+            "Glaciated",
+            "Polar",
+            "Entombing",
+            "Frosted",
+            "Freezing",
+            "Frozen",
+            "Glaciated",
+            "Polar",
+            "Entombing",
+            "Frosted",
+            "Freezing",
+            "Frozen",
+            "Glaciated",
+            "Polar",
+            "Entombing"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SpecificWeaponFireDamage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Heated",
+            "Flaming",
+            "Scorching",
+            "Incinerating",
+            "Blasting",
+            "Cremating",
+            "Heated",
+            "Flaming",
+            "Scorching",
+            "Incinerating",
+            "Blasting",
+            "Cremating",
+            "Heated",
+            "Flaming",
+            "Scorching",
+            "Incinerating",
+            "Blasting",
+            "Cremating",
+            "Heated",
+            "Flaming",
+            "Scorching",
+            "Incinerating",
+            "Blasting",
+            "Cremating",
+            "Heated",
+            "Flaming",
+            "Scorching",
+            "Incinerating",
+            "Blasting",
+            "Cremating",
+            "Heated",
+            "Flaming",
+            "Scorching",
+            "Incinerating",
+            "Blasting",
+            "Cremating"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SpecificWeaponLightningDamage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Humming",
+            "Sparking",
+            "Arcing",
+            "Shocking",
+            "Discharging",
+            "Electrocuting",
+            "Humming",
+            "Sparking",
+            "Arcing",
+            "Shocking",
+            "Discharging",
+            "Electrocuting",
+            "Humming",
+            "Sparking",
+            "Arcing",
+            "Shocking",
+            "Discharging",
+            "Electrocuting",
+            "Humming",
+            "Sparking",
+            "Arcing",
+            "Shocking",
+            "Discharging",
+            "Electrocuting",
+            "Humming",
+            "Sparking",
+            "Arcing",
+            "Shocking",
+            "Discharging",
+            "Electrocuting",
+            "Humming",
+            "Sparking",
+            "Arcing",
+            "Shocking",
+            "Discharging",
+            "Electrocuting"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SpecificWeaponPhysicalDamage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Glinting",
+            "Gleaming",
+            "Tempered",
+            "Flaring",
+            "Acuminate",
+            "Glinting",
+            "Gleaming",
+            "Tempered",
+            "Flaring",
+            "Acuminate",
+            "Glinting",
+            "Gleaming",
+            "Tempered",
+            "Flaring",
+            "Acuminate",
+            "Glinting",
+            "Gleaming",
+            "Tempered",
+            "Flaring",
+            "Acuminate",
+            "Glinting",
+            "Gleaming",
+            "Tempered",
+            "Flaring",
+            "Acuminate",
+            "Glinting",
+            "Gleaming",
+            "Tempered",
+            "Flaring",
+            "Acuminate"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Effect of Cold Ailments",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Chilling"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Effect of Lightning Ailments",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shocking"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Chaos Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Malevolence",
+            "of Malice",
+            "of Sin"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Cold Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Sleet",
+            "of Ice",
+            "of Rime",
+            "of Floe",
+            "of Glaciation"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Fire Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Coals",
+            "of Cinders",
+            "of Flames",
+            "of Immolation",
+            "of Ashes"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Lightning Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Static",
+            "of Electricity",
+            "of Voltage",
+            "of Discharge",
+            "of Arcing"
+        ]
+    },
+    {
+        "itemModHeader": "Adds # to # Physical Damage to Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Weight",
+            "of Impact",
+            "of Collision"
+        ]
+    },
+    {
+        "itemModHeader": "+# to all Attributes",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Adaption"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to all Elemental Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Resistance"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Attack Speed if you've dealt a Critical Strike Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Opportunity"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Ignited",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Extinguishing",
+            "of Extinguishing"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Stunned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Unwavering",
+            "of Unwavering"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Blind Enemies on Hit with Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Blinding",
+            "of Blinding"
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: BuffEnchantment",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Clouding",
+            "of the Sanctum",
+            "of Escape",
+            "of Enervation",
+            "of Daunting",
+            "of Mangling",
+            "of Languishing"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Cast Speed if you've dealt a Critical Strike Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Abuse"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid Bleeding",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Mending",
+            "of Mending"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Chilled, #% chance to Avoid being Frozen",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Warming",
+            "of Warming"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Poisoned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Tolerance",
+            "of Tolerance"
+        ]
+    },
+    {
+        "itemModHeader": "+#% Chance to Block Attack Damage if you were Damaged by a Hit Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Guarding"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Gain Unholy Might for # seconds on Melee Kill",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Unholy Might",
+            "of Unholy Might"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Chaos Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Order"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Cold and Lightning Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shelter"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Beast"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Preparation"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Global Critical Strike Chance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Menace"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Global Critical Strike Multiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Potency"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Critical Strike Multiplier if you've Killed Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Assassin"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage if you've Killed Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Slayer"
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Elemental Resistance if you haven't Killed Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Inquisitor"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage against Abyssal Monsters",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Banishing"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Dexterity"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Dexterity and Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Cunning"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Evasion Rating while moving",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Maneuvering"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire and Cold Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Hearth"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire and Lightning Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Insulation"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Dragon"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Accuracy Rating",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Steadiness",
+            "of the Marksman",
+            "of the Ranger",
+            "of the Deadeye"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Armour if you haven't Killed Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Guardian"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Attack Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Berserking"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Intelligence"
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate #% of Life per second while moving",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Vivaciousness"
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Grounding"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Mana Regeneration Rate while moving",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Praxis"
+        ]
+    },
+    {
+        "itemModHeader": "#% additional Physical Damage Reduction against Abyssal Monsters",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Warding"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Movement Speed if you've Killed Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Raider"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Movement Speed if you haven't taken Damage Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Momentum"
+        ]
+    },
+    {
+        "itemModHeader": "Gain #% of Physical Damage as Extra Fire Damage if you've dealt a Critical Strike Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Inferno"
+        ]
+    },
+    {
+        "itemModHeader": "#% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Confidence"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Shocked",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Insulating",
+            "of Insulating"
+        ]
+    },
+    {
+        "itemModHeader": "+#% Chance to Block Spell Damage if you were Damaged by a Hit Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Instinct",
+            "of Readiness"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Strength"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength and Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Athletics"
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength and Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Spirit"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Taunt Enemies on Hit with Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Taunting",
+            "of Taunting"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Area of Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AreaOfEffect"
+        ]
+    },
+    {
+        "itemModHeader": "Overwhelm #% Physical Damage Reduction",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ArmourPenetration"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Ignited",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidIgnite"
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Maimed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidMaimChance"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Shocked",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidShock"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Stunned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidStun"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid Bleeding",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidBleeding"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Chilled, #% chance to Avoid being Frozen",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidFreezeAndChill"
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Poisoned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidPoison"
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ColdResistancePenetration"
+        ]
+    },
+    {
+        "itemModHeader": "Corrupted Blood cannot be inflicted on you",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CorruptedBloodImmunity"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Global Critical Strike Chance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CriticalStrikeChance"
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Elemental Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ElementalPenetration"
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "FireResistancePenetration"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Effect of Non-Damaging Ailments",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedAilmentEffectOnEnemies"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedDamage"
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "LightningResistancePenetration"
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal #% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "MinionDamage"
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Cursed with Silence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ImmuneToSilence"
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Reservation Efficiency of Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ReservationEfficiencyForJewel"
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Hindered",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "YouCannotBeHindered"
+        ]
+    }
+]
