@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-let rawData = fs.readFileSync('schema/profileDataSchemaOld.json');
+let rawData = fs.readFileSync('schemaOld/profileDataSchemaOld.json');
 let schemaData = JSON.parse(rawData);
 
 const itemEquipment = schemaData.items.equipment;
@@ -71,7 +71,7 @@ function classSortMods(filename, path, data) {
         const itemClassModList = [];
         const itemMods = data.mods;
 
-        const dirname = `schema/exports/classes/${path}`;
+        const dirname = `schemaOld/exports/classes/${path}`;
         try {
             fs.mkdirSync(dirname);
         } catch (error) {
@@ -83,20 +83,22 @@ function classSortMods(filename, path, data) {
                 itemModHeader: itemMods[i].itemModHeader,
                 itemModClass: "",
                 itemModInfluence: null,
-                itemModTiers: []
+                itemModTiers: [],
+                itemModTierList: []
             }
     
             const itemModTierList = itemMods[i].itemModTiers;
 
             for (let j = 0; j < itemModTierList.length; j++) {
                 itemModObj.itemModTiers.push(itemModTierList[j].itemModName);
+                itemModObj.itemModTierList.push(itemModTierList[j]);
             }
     
             itemClassModList.push(itemModObj);
         }
     
         let exportData = JSON.stringify(itemClassModList, null, 4);
-        fs.writeFileSync(`schema/exports/classes/${path}/${filename}.json`, exportData);   
+        fs.writeFileSync(`schemaOld/exports/classes/${path}/${filename}.json`, exportData);   
     } catch (error) {
         console.log("Iteration or Export Failed...", error);
     }
@@ -110,7 +112,7 @@ function classSortArmourMods(filename, path, data) {
 
         for (let d = 0; d < itemDefences.length; d++) {
             const pathDefenceType = itemDefences[d].defenceType.replace(alphaRegex, "");
-            const dirname = `schema/exports/classes/${path}/${pathDefenceType.toLowerCase()}`;
+            const dirname = `schemaOld/exports/classes/${path}/${pathDefenceType.toLowerCase()}`;
             try {
                 fs.mkdirSync(dirname);
             } catch (error) {
@@ -125,13 +127,15 @@ function classSortArmourMods(filename, path, data) {
                     itemModHeader: itemMods[i].itemModHeader,
                     itemModClass: "",
                     itemModInfluence: null,
-                    itemModTiers: []
+                    itemModTiers: [],
+                    itemModTierList: []
                 };
         
                 const itemModTierList = itemMods[i].itemModTiers;
 
                 for (let j = 0; j < itemModTierList.length; j++) {
                     itemModObj.itemModTiers.push(itemModTierList[j].itemModName);
+                    itemModObj.itemModTierList.push(itemModTierList[j]);
                 };
         
                 itemClassModList.push(itemModObj);
@@ -154,7 +158,7 @@ function classSortAmuletMods(filename, path, data) {
 
         for (let d = 0; d < itemDefences.length; d++) {
             const pathDefenceType = itemDefences[d].amuletType.replace(alphaRegex, "");
-            const dirname = `schema/exports/classes/${path}/${pathDefenceType.toLowerCase()}`;
+            const dirname = `schemaOld/exports/classes/${path}/${pathDefenceType.toLowerCase()}`;
             try {
                 fs.mkdirSync(dirname);
             } catch (error) {
@@ -169,13 +173,15 @@ function classSortAmuletMods(filename, path, data) {
                     itemModHeader: itemMods[i].itemModHeader,
                     itemModClass: "",
                     itemModInfluence: null,
-                    itemModTiers: []
+                    itemModTiers: [],
+                    itemModTierList: []
                 };
         
                 const itemModTierList = itemMods[i].itemModTiers;
 
                 for (let j = 0; j < itemModTierList.length; j++) {
                     itemModObj.itemModTiers.push(itemModTierList[j].itemModName);
+                    itemModObj.itemModTierList.push(itemModTierList[j]);
                 };
         
                 itemClassModList.push(itemModObj);
@@ -198,7 +204,7 @@ function classSortJewelMods(filename, path, data) {
 
         for (let d = 0; d < itemDefences.length; d++) {
             const pathDefenceType = itemDefences[d].jewelType.replace(alphaRegex, "");
-            const dirname = `schema/exports/classes/${path}/${pathDefenceType.toLowerCase()}`;
+            const dirname = `schemaOld/exports/classes/${path}/${pathDefenceType.toLowerCase()}`;
             try {
                 fs.mkdirSync(dirname);
             } catch (error) {
@@ -213,13 +219,15 @@ function classSortJewelMods(filename, path, data) {
                     itemModHeader: itemMods[i].itemModHeader,
                     itemModClass: "",
                     itemModInfluence: null,
-                    itemModTiers: []
+                    itemModTiers: [],
+                    itemModTierList: []
                 };
         
                 const itemModTierList = itemMods[i].itemModTiers;
 
                 for (let j = 0; j < itemModTierList.length; j++) {
                     itemModObj.itemModTiers.push(itemModTierList[j].itemModName);
+                    itemModObj.itemModTierList.push(itemModTierList[j]);
                 };
         
                 itemClassModList.push(itemModObj);
@@ -258,7 +266,7 @@ for (let i = 0; i < equipment.length; i++) {
                     classSortJewelMods(filename, 'jewels', itemClassMods);
                 } else {
                     console.log('Unexpected Data Exported...');
-                    fs.writeFileSync(`schema/exports/classes/${filename}.json`, data);
+                    fs.writeFileSync(`schemaOld/exports/classes/${filename}.json`, data);
                 }
             }; 
         }
@@ -270,4 +278,4 @@ for (let i = 0; i < equipment.length; i++) {
 
 
 // let data = JSON.stringify(itemClasses, null, 4);
-// fs.writeFileSync('schema/exports/classes/data_export.json', data);
+// fs.writeFileSync('schemaOld/exports/classes/data_export.json', data);

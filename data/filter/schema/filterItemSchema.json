@@ -117,7 +117,7 @@
                             "Rigwald's Savagery",
                             "Dyadus"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/oneHandAxes.json"
                     },
                     {
                         "classType": "One Hand Maces",
@@ -171,7 +171,7 @@
                             "Callinellus Malleus",
                             "Nebuloch"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/oneHandMaces.json"
                     },
                     {
                         "classType": "One Hand Swords",
@@ -246,7 +246,7 @@
                             "Rigwald's Command",
                             "United in Dream"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/oneHandSwords.json"
                     },
                     {
                         "classType": "Thrusting One Hand Swords",
@@ -294,7 +294,7 @@
                             "Replica Paradoxica",
                             "Cospri's Malice"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/thrustingOneHandSword.json"
                     },
                     {
                         "classType": "Claws",
@@ -357,7 +357,7 @@
                             "Rive",
                             "The Scourge"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/claws.json"
                     },
                     {
                         "classType": "Daggers",
@@ -391,7 +391,7 @@
                             "Taproot",
                             "The Hidden Blade"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/daggers.json"
                     },
                     {
                         "classType": "Rune Daggers",
@@ -437,7 +437,7 @@
                             "White Wind",
                             "Vulconus"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/runeDaggers.json"
                     },
                     {
                         "classType": "Sceptres",
@@ -504,7 +504,7 @@
                             "Replica Nebulis",
                             "Doryani's Catalyst"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/sceptres.json"
                     },
                     {
                         "classType": "Wands",
@@ -566,7 +566,7 @@
                             "Relic of the Pact",
                             "Splinter of the Moon"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/wands.json"
                     },
                     {
                         "classType": "Bows",
@@ -638,7 +638,7 @@
                             "Nuro's Harp",
                             "Slivertongue"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/bows.json"
                     },
                     {
                         "classType": "Two Hand Axes",
@@ -696,7 +696,7 @@
                             "Kitava's Feast",
                             "Atziri's Disfavour"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/twoHandAxes.json"
                     },
                     {
                         "classType": "Two Hand Maces",
@@ -750,7 +750,7 @@
                             "Kongor's Undying Rage",
                             "Replica Kongor's Undying Rage"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/twoHandMaces.json"
                     },
                     {
                         "classType": "Two Hand Swords",
@@ -803,7 +803,7 @@
                             "Starforge",
                             "Voidforge"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/twoHandSwords.json"
                     },
                     {
                         "classType": "Staves",
@@ -850,7 +850,7 @@
                             "The Annihilating Light",
                             "Witchhunter's Judgment"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/staves.json"
                     },
                     {
                         "classType": "Warstaves",
@@ -895,12 +895,12 @@
                             "Pledge of Hands",
                             "The Grey Spire"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/weaponMods/warstaves.json"
                     }
                 ]
             },
             {
-                "armour": [
+                "gear": [
                     {
                         "classType": "Helmets",
                         "rarity": [
@@ -937,7 +937,7 @@
                                     "The Formless Inferno",
                                     "Usurper's Penance"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armour/helmets.json"
                             },
                             {
                                 "defenceType": "Evasion",
@@ -967,7 +967,7 @@
                                     "Replica Alpha's Howl",
                                     "Obscurantis"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasion/helmets.json"
                             },
                             {
                                 "defenceType": "Energy Shield",
@@ -1011,7 +1011,7 @@
                                     "Indigon",
                                     "Ylfeban's Trickery"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/energyshield/helmets.json"
                             },
                             {
                                 "defenceType": "Armour & Evasion",
@@ -1040,7 +1040,7 @@
                                     "Devoto's Devotion",
                                     "The Bringer of Rain"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourevasion/helmets.json"
                             },
                             {
                                 "defenceType": "Armour & Energy Shield",
@@ -1087,7 +1087,7 @@
                                     "Ancient Skull",
                                     "Maw of Mischief"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourenergyshield/helmets.json"
                             },
                             {
                                 "defenceType": "Evasion & Energy Shield",
@@ -1127,7 +1127,7 @@
                                     "The Vertex",
                                     "Heretic's Veil"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasionenergyshield/helmets.json"
                             },
                             {
                                 "defenceType": "Ward",
@@ -1140,7 +1140,7 @@
                                     "Cadigan's Crown",
                                     "Faithguard"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/ward/helmets.json"
                             }
                         ]
                     },
@@ -1188,7 +1188,7 @@
                                     "Perfidy",
                                     "Replica Kaom's Heart"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armour/bodyArmours.json"
                             },
                             {
                                 "defenceType": "Evasion",
@@ -1229,7 +1229,7 @@
                                     "The Perfect Form",
                                     "Cospri's Will"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasion/bodyArmours.json"
                             },
                             {
                                 "defenceType": "Energy Shield",
@@ -1270,7 +1270,7 @@
                                     "The Beast Fur Shawl",
                                     "The Queen's Hunger"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/energyshield/bodyArmours.json"
                             },
                             {
                                 "defenceType": "Armour & Evasion",
@@ -1303,7 +1303,7 @@
                                     "Farrul's Fur",
                                     "Replica Farrul's Fur"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourevasion/bodyArmours.json"
                             },
                             {
                                 "defenceType": "Armour & Energy Shield",
@@ -1343,7 +1343,7 @@
                                     "Chains of Command",
                                     "Incandescent Heart"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourenergyshield/bodyArmours.json"
                             },
                             {
                                 "defenceType": "Evasion & Energy Shield",
@@ -1387,7 +1387,7 @@
                                     "Stasis Prison",
                                     "The Restless Ward"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasionenergyshield/bodyArmours.json"
                             },
                             {
                                 "defenceType": "Evasion & Energy Shield & Armour",
@@ -1399,7 +1399,7 @@
                                     "Shadowstitch",
                                     "Atziri's Splendour"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasionenergyshieldarmour/bodyArmours.json"
                             },
                             {
                                 "defenceType": "misc",
@@ -1411,7 +1411,7 @@
                                     "Skin of the Loyal",
                                     "Tabula Rasa"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/misc/bodyArmours.json"
                             }
                         ]
                     },
@@ -1453,7 +1453,7 @@
                                     "Veruso's Battering Rams",
                                     "Ceaseless Feast"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armour/gloves.json"
                             },
                             {
                                 "defenceType": "Evasion",
@@ -1481,7 +1481,7 @@
                                     "Painseeker",
                                     "Mercenary's Lot"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasion/gloves.json"
                             },
                             {
                                 "defenceType": "Energy Shield",
@@ -1516,7 +1516,7 @@
                                     "Replica Allelopathy",
                                     "Black Zenith"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/energyshield/gloves.json"
                             },
                             {
                                 "defenceType": "Armour & Evasion",
@@ -1545,7 +1545,7 @@
                                     "Surgebinders",
                                     "Worldcarver"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourevasion/gloves.json"
                             },
                             {
                                 "defenceType": "Armour & Energy Shield",
@@ -1579,7 +1579,7 @@
                                     "Repentance",
                                     "Shaper's Touch"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourenergyshield/gloves.json"
                             },
                             {
                                 "defenceType": "Evasion & Energy Shield",
@@ -1611,7 +1611,7 @@
                                     "Malachai's Mark",
                                     "Thunderfist"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasionenergyshield/gloves.json"
                             },
                             {
                                 "defenceType": "Ward",
@@ -1624,7 +1624,7 @@
                                     "Medved's Challenge",
                                     "Nightgrip"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/ward/gloves.json"
                             }
                         ]
                     },
@@ -1666,7 +1666,7 @@
                                     "Replica Red Trail",
                                     "The Red Trail"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armour/boots.json"
                             },
                             {
                                 "defenceType": "Evasion",
@@ -1698,7 +1698,7 @@
                                     "Doryani's Delusion",
                                     "Farrul's Chase"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasion/boots.json"
                             },
                             {
                                 "defenceType": "Energy Shield",
@@ -1729,7 +1729,7 @@
                                     "Skyforth",
                                     "Steppan Eard"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/energyshield/boots.json"
                             },
                             {
                                 "defenceType": "Armour & Evasion",
@@ -1755,7 +1755,7 @@
                                     "Legacy of Fury",
                                     "Beacon of Madness"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourevasion/boots.json"
                             },
                             {
                                 "defenceType": "Armour & Energy Shield",
@@ -1780,7 +1780,7 @@
                                     "Death's Door",
                                     "Beacon of Madness"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourenergyshield/boots.json"
                             },
                             {
                                 "defenceType": "Evasion & Energy Shield",
@@ -1815,7 +1815,7 @@
                                     "Beacon of Madness",
                                     "Inextricable Fate"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasionenergyshield/boots.json"
                             },
                             {
                                 "defenceType": "Ward",
@@ -1828,7 +1828,7 @@
                                     "Olroth's Charge",
                                     "Vorana's March"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/"
                             }
                         ]
                     },
@@ -1879,7 +1879,7 @@
                                     "Dawnbreaker",
                                     "Lioneye's Remorse"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armour/shields.json"
                             },
                             {
                                 "defenceType": "Evasion",
@@ -1913,7 +1913,7 @@
                                     "Replica Mistwall",
                                     "Thousand Teeth Temu"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasion/shields.json"
                             },
                             {
                                 "defenceType": "Energy Shield",
@@ -1956,7 +1956,7 @@
                                     "Bitterbind Point",
                                     "Rathpith Globe"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/energyshield/shields.json"
                             },
                             {
                                 "defenceType": "Armour & Evasion",
@@ -1985,7 +1985,7 @@
                                     "The Oppressor",
                                     "The Squire"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourevasion/shields.json"
                             },
                             {
                                 "defenceType": "Armour & Energy Shield",
@@ -2019,7 +2019,7 @@
                                     "The Unshattered Will",
                                     "Unyielding Flame"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/armourenergyshield/shields.json"
                             },
                             {
                                 "defenceType": "Evasion & Energy Shield",
@@ -2050,7 +2050,7 @@
                                     "Atziri's Reflection",
                                     "Jaws of Agony"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasionenergyshield/shields.json"
                             },
                             {
                                 "defenceType": "Evasion & Energy Shield & Armour",
@@ -2060,7 +2060,7 @@
                                 "uniques": [
                                     "Magna Eclipsis"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/gearMods/evasionenergyshieldarmour/shields.json"
                             }
                         ]
                     },
@@ -2112,7 +2112,7 @@
                             "Soul Strike",
                             "Voidfletcher"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/accessoryMods/quivers.json"
                     }
                 ]
             },
@@ -2238,7 +2238,7 @@
                             "Polaric Devastation",
                             "Stormfire"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/accessoryMods/rings.json"
                     },
                     {
                         "classType": "Amulets",
@@ -2336,7 +2336,7 @@
                                     "Bloodgrip",
                                     "Gloomfang"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/accessoryMods/amulets.json"
                             },
                             {
                                 "amuletType": "talisman",
@@ -2378,7 +2378,7 @@
                                     "Natural Hierarchy",
                                     "Eyes of the Greatwolf"
                                 ],
-                                "mods": "data/filter/schema/filterItemMods/"
+                                "modPath": "data/filter/schema/filterItemMods/accessoryMods/talismans.json"
                             }
                         ]
                     },
@@ -2458,7 +2458,7 @@
                             "Auxium",
                             "The Burden of Truth"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/accessoryMods/belts.json"
                     }
                 ]
             },
@@ -2516,7 +2516,7 @@
                             "Rumi's Concoction",
                             "Vessel of Vinktar"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/flaskMods/utilityFlasks.json"
                     },
                     {
                         "classType": "Life Flask",
@@ -2545,7 +2545,7 @@
                         "uniques": [
                             "Blood of the Karui"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/flaskMods/lifeFlasks.json"
                     },
                     {
                         "classType": "Mana Flask",
@@ -2579,7 +2579,7 @@
                             "Lavianga's Spirit",
                             "Replica Lavianga's Spirit"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/flaskMods/manaFlasks.json"
                     },
                     {
                         "classType": "Hybrid Flask",
@@ -2596,7 +2596,7 @@
                             "Divination Distillate",
                             "The Writhing Jar"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": "data/filter/schema/filterItemMods/flaskMods/hybridFlasks.json"
                     }
                 ]
             },
@@ -2758,7 +2758,19 @@
                             "Emperor's Might",
                             "Emperor's Wit"
                         ],
-                        "mods": "data/filter/schema/filterItemMods/"
+                        "modPath": [
+                            "data/filter/schema/filterItemMods/jewelMods/cobalt/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/crimson/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/ghastly/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/hypnotic/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/largecluster/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/mediumcluster/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/murderous/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/prismatic/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/searching/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/smallcluster/jewels.json",
+                            "data/filter/schema/filterItemMods/jewelMods/viridian/jewels.json"
+                        ]
                     }
                 ]
             },
@@ -3269,7 +3281,7 @@
                         ]
                     }
                 ]
-            },
+            }
         ],
         "drops": [
             {
@@ -4503,7 +4515,7 @@
                         "baseType": []
                     }
                 ]
-            },
+            }
         ]
     }
 }

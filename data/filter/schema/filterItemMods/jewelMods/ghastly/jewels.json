@@ -1,0 +1,1843 @@
+[
+    {
+        "itemModHeader": "+# to maximum Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hale",
+            "Healthy",
+            "Sanguine",
+            "Stalwart"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssJewelAddedLife1",
+                "itemModName": "Hale",
+                "itemModLevel": "1",
+                "itemModStat": "+(21-25) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssJewelAddedLife2",
+                "itemModName": "Healthy",
+                "itemModLevel": "35",
+                "itemModStat": "+(26-30) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssJewelAddedLife3",
+                "itemModName": "Sanguine",
+                "itemModLevel": "74",
+                "itemModStat": "+(31-35) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssJewelAddedLife4",
+                "itemModName": "Stalwart",
+                "itemModLevel": "82",
+                "itemModStat": "+(36-40) to maximum Life"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to maximum Mana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Beryl",
+            "Cobalt",
+            "Azure",
+            "Sapphire"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssJewelAddedMana1",
+                "itemModName": "Beryl",
+                "itemModLevel": "1",
+                "itemModStat": "+(21-25) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssJewelAddedMana2",
+                "itemModName": "Cobalt",
+                "itemModLevel": "40",
+                "itemModStat": "+(26-30) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssJewelAddedMana3",
+                "itemModName": "Azure",
+                "itemModLevel": "75",
+                "itemModStat": "+(31-35) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssJewelAddedMana4",
+                "itemModName": "Sapphire",
+                "itemModLevel": "83",
+                "itemModStat": "+(36-40) to maximum Mana"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Cooldown Recovery Rate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Facilitating",
+            "Expediting"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssCooldownRecoverySpeed1~",
+                "itemModName": "Facilitating",
+                "itemModLevel": "75",
+                "itemModStat": "2% increased Cooldown Recovery Rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssCooldownRecoverySpeed2~~",
+                "itemModName": "Expediting",
+                "itemModLevel": "86",
+                "itemModStat": "3% increased Cooldown Recovery Rate"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Effect of your Curses",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Murmuring",
+            "Foul tongued"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssCurseEffectJewel1",
+                "itemModName": "Murmuring",
+                "itemModLevel": "75",
+                "itemModStat": "2% increased Effect of your Curses"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssCurseEffectJewel2",
+                "itemModName": "Foul tongued",
+                "itemModLevel": "86",
+                "itemModStat": "3% increased Effect of your Curses"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate # Energy Shield per second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Captivating",
+            "Beautiful",
+            "Breathtaking"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEnergyShieldRegenerationJewel1",
+                "itemModName": "Captivating",
+                "itemModLevel": "1",
+                "itemModStat": "Regenerate (9-12) Energy Shield per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEnergyShieldRegenerationJewel2",
+                "itemModName": "Beautiful",
+                "itemModLevel": "30",
+                "itemModStat": "Regenerate (13-16) Energy Shield per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEnergyShieldRegenerationJewel3",
+                "itemModName": "Breathtaking",
+                "itemModLevel": "60",
+                "itemModStat": "Regenerate (17-20) Energy Shield per second"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Impale Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Skewering",
+            "Lancing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssImpaleEffect1~",
+                "itemModName": "Skewering",
+                "itemModLevel": "75",
+                "itemModStat": "(3-4)% increased Impale Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssImpaleEffect2~",
+                "itemModName": "Lancing",
+                "itemModLevel": "86",
+                "itemModStat": "(5-6)% increased Impale Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to maximum Energy Shield",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Shining",
+            "Seething",
+            "Incandescent",
+            "Resplendent"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEnergyShieldJewel1",
+                "itemModName": "Shining",
+                "itemModLevel": "1",
+                "itemModStat": "+(21-25) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEnergyShieldJewel2",
+                "itemModName": "Seething",
+                "itemModLevel": "40",
+                "itemModStat": "+(26-30) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEnergyShieldJewel3",
+                "itemModName": "Incandescent",
+                "itemModLevel": "75",
+                "itemModStat": "+(31-35) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEnergyShieldJewel4",
+                "itemModName": "Resplendent",
+                "itemModLevel": "83",
+                "itemModStat": "+(36-40) to maximum Energy Shield"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Evasion Rating",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Agile",
+            "Fleet",
+            "Vaporous",
+            "Beclouded"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEvasionJewel1",
+                "itemModName": "Agile",
+                "itemModLevel": "1",
+                "itemModStat": "+(36-60) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEvasionJewel2",
+                "itemModName": "Fleet",
+                "itemModLevel": "40",
+                "itemModStat": "+(61-100) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEvasionJewel3",
+                "itemModName": "Vaporous",
+                "itemModLevel": "75",
+                "itemModStat": "+(101-180) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatEvasionJewel4~",
+                "itemModName": "Beclouded",
+                "itemModLevel": "83",
+                "itemModStat": "+(181-250) to Evasion Rating"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Armour",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Lacquered",
+            "Fortified",
+            "Carapaced",
+            "Encased"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatArmourJewel1",
+                "itemModName": "Lacquered",
+                "itemModLevel": "1",
+                "itemModStat": "+(36-60) to Armour"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatArmourJewel2",
+                "itemModName": "Fortified",
+                "itemModLevel": "40",
+                "itemModStat": "+(61-100) to Armour"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatArmourJewel3",
+                "itemModName": "Carapaced",
+                "itemModLevel": "75",
+                "itemModStat": "+(101-180) to Armour"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatArmourJewel4~~",
+                "itemModName": "Encased",
+                "itemModLevel": "83",
+                "itemModStat": "+(181-250) to Armour"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate # Life per second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Youthful",
+            "Spirited",
+            "Vivacious"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatLifeRegenerationJewel1",
+                "itemModName": "Youthful",
+                "itemModLevel": "1",
+                "itemModStat": "Regenerate (9-12) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatLifeRegenerationJewel2",
+                "itemModName": "Spirited",
+                "itemModLevel": "40",
+                "itemModStat": "Regenerate (13-16) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatLifeRegenerationJewel3~",
+                "itemModName": "Vivacious",
+                "itemModLevel": "80",
+                "itemModStat": "Regenerate (17-20) Life per second"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate # Mana per second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Energising",
+            "Inspirational",
+            "Resonating"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatManaShieldRegenerationJewel1",
+                "itemModName": "Energising",
+                "itemModLevel": "1",
+                "itemModStat": "Regenerate (1.1-2) Mana per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatManaShieldRegenerationJewel2",
+                "itemModName": "Inspirational",
+                "itemModLevel": "40",
+                "itemModStat": "Regenerate (2.1-3) Mana per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatManaShieldRegenerationJewel3",
+                "itemModName": "Resonating",
+                "itemModLevel": "75",
+                "itemModStat": "Regenerate (3.3-4) Mana per second"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal # to # additional Chaos Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Tainted",
+            "Clouded",
+            "Darkened",
+            "Malignant",
+            "Vile",
+            "Malicious"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedChaosDamageJewel1",
+                "itemModName": "Tainted",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal (1-2) to (3-5) additional Chaos Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedChaosDamageJewel2~",
+                "itemModName": "Clouded",
+                "itemModLevel": "42",
+                "itemModStat": "Minions deal (3-5) to (7-9) additional Chaos Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedChaosDamageJewel3",
+                "itemModName": "Darkened",
+                "itemModLevel": "54",
+                "itemModStat": "Minions deal (6-8) to (10-12) additional Chaos Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedChaosDamageJewel4",
+                "itemModName": "Malignant",
+                "itemModLevel": "65",
+                "itemModStat": "Minions deal (9-11) to (13-15) additional Chaos Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedChaosDamageJewel5~",
+                "itemModName": "Vile",
+                "itemModLevel": "75",
+                "itemModStat": "Minions deal (12-14) to (16-18) additional Chaos Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedChaosDamageJewel6",
+                "itemModName": "Malicious",
+                "itemModLevel": "84",
+                "itemModStat": "Minions deal (15-17) to (22-26) additional Chaos Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal # to # additional Cold Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Frosted",
+            "Freezing",
+            "Frozen",
+            "Glaciated",
+            "Polar",
+            "Entombing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedColdDamageJewel1",
+                "itemModName": "Frosted",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal (2-4) to (5-7) additional Cold Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedColdDamageJewel2",
+                "itemModName": "Freezing",
+                "itemModLevel": "39",
+                "itemModStat": "Minions deal (7-9) to (11-13) additional Cold Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedColdDamageJewel3",
+                "itemModName": "Frozen",
+                "itemModLevel": "48",
+                "itemModStat": "Minions deal (10-12) to (14-16) additional Cold Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedColdDamageJewel4",
+                "itemModName": "Glaciated",
+                "itemModLevel": "58",
+                "itemModStat": "Minions deal (13-15) to (17-21) additional Cold Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedColdDamageJewel5",
+                "itemModName": "Polar",
+                "itemModLevel": "70",
+                "itemModStat": "Minions deal (16-18) to (22-24) additional Cold Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedColdDamageJewel6~",
+                "itemModName": "Entombing",
+                "itemModLevel": "82",
+                "itemModStat": "Minions deal (19-25) to (26-34) additional Cold Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal # to # additional Fire Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Heated",
+            "Flaming",
+            "Scorching",
+            "Incinerating",
+            "Blasting",
+            "Cremating"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedFireDamageJewel1",
+                "itemModName": "Heated",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal (2-4) to (5-7) additional Fire Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedFireDamageJewel2",
+                "itemModName": "Flaming",
+                "itemModLevel": "39",
+                "itemModStat": "Minions deal (7-9) to (11-13) additional Fire Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedFireDamageJewel3",
+                "itemModName": "Scorching",
+                "itemModLevel": "48",
+                "itemModStat": "Minions deal (10-12) to (14-16) additional Fire Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedFireDamageJewel4~",
+                "itemModName": "Incinerating",
+                "itemModLevel": "58",
+                "itemModStat": "Minions deal (13-15) to (17-21) additional Fire Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedFireDamageJewel5",
+                "itemModName": "Blasting",
+                "itemModLevel": "70",
+                "itemModStat": "Minions deal (16-18) to (22-24) additional Fire Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedFireDamageJewel6~",
+                "itemModName": "Cremating",
+                "itemModLevel": "82",
+                "itemModStat": "Minions deal (19-25) to (26-34) additional Fire Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal # to # additional Lightning Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Humming",
+            "Sparking",
+            "Arcing",
+            "Shocking",
+            "Discharging",
+            "Electrocuting"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedLightningDamageJewel1~",
+                "itemModName": "Humming",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal 1 to (6-10) additional Lightning Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedLightningDamageJewel2",
+                "itemModName": "Sparking",
+                "itemModLevel": "39",
+                "itemModStat": "Minions deal (1-2) to (17-21) additional Lightning Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedLightningDamageJewel3~",
+                "itemModName": "Arcing",
+                "itemModLevel": "48",
+                "itemModStat": "Minions deal (1-3) to (22-26) additional Lightning Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedLightningDamageJewel4",
+                "itemModName": "Shocking",
+                "itemModLevel": "58",
+                "itemModStat": "Minions deal (1-4) to (29-33) additional Lightning Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedLightningDamageJewel5",
+                "itemModName": "Discharging",
+                "itemModLevel": "70",
+                "itemModStat": "Minions deal (1-5) to (34-36) additional Lightning Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedLightningDamageJewel6",
+                "itemModName": "Electrocuting",
+                "itemModLevel": "82",
+                "itemModStat": "Minions deal (1-6) to (43-51) additional Lightning Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal # to # additional Physical Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Glinting",
+            "Gleaming",
+            "Annealed",
+            "Razor sharp",
+            "Tempered",
+            "Flaring"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedPhysicalDamageJewel1",
+                "itemModName": "Glinting",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal (1-2) to (3-5) additional Physical Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedPhysicalDamageJewel2",
+                "itemModName": "Gleaming",
+                "itemModLevel": "42",
+                "itemModStat": "Minions deal (3-5) to (7-9) additional Physical Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedPhysicalDamageJewel3",
+                "itemModName": "Annealed",
+                "itemModLevel": "54",
+                "itemModStat": "Minions deal (6-8) to (10-12) additional Physical Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedPhysicalDamageJewel4",
+                "itemModName": "Razor sharp",
+                "itemModLevel": "63",
+                "itemModStat": "Minions deal (9-11) to (13-15) additional Physical Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedPhysicalDamageJewel5",
+                "itemModName": "Tempered",
+                "itemModLevel": "72",
+                "itemModStat": "Minions deal (12-14) to (16-18) additional Physical Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAddedPhysicalDamageJewel6",
+                "itemModName": "Flaring",
+                "itemModLevel": "83",
+                "itemModStat": "Minions deal (15-17) to (22-26) additional Physical Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: MinionLifeRegeneration",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Fuelling",
+            "Lively",
+            "Exuberant"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatMinionLifeRegenerationJewel1",
+                "itemModName": "Fuelling",
+                "itemModLevel": "1",
+                "itemModStat": "Minions Regenerate (11-15) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatMinionLifeRegenerationJewel2",
+                "itemModName": "Lively",
+                "itemModLevel": "30",
+                "itemModStat": "Minions Regenerate (16-20) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatMinionLifeRegenerationJewel3",
+                "itemModName": "Exuberant",
+                "itemModLevel": "60",
+                "itemModStat": "Minions Regenerate (21-30) Life per second"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% of Damage taken Recouped as Mana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Spurring",
+            "Motivating"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssDamageRecoupedAsMana1",
+                "itemModName": "Spurring",
+                "itemModLevel": "75",
+                "itemModStat": "2% of Damage taken Recouped as Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssDamageRecoupedAsMana2",
+                "itemModName": "Motivating",
+                "itemModLevel": "86",
+                "itemModStat": "3% of Damage taken Recouped as Mana"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to all Attributes",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Adaption"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAllAttributesJewel1",
+                "itemModName": "of Adaption",
+                "itemModLevel": "1",
+                "itemModStat": "+(6-8) to all Attributes"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to all Elemental Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Resistance"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAllResistancesJewel1",
+                "itemModName": "of Resistance",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-10)% to all Elemental Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Ignited",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Extinguishing",
+            "of Extinguishing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidIgniteJewel1~",
+                "itemModName": "of Extinguishing",
+                "itemModLevel": "1",
+                "itemModStat": "(21-24)% chance to Avoid being Ignited"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidIgniteJewel2",
+                "itemModName": "of Extinguishing",
+                "itemModLevel": "30",
+                "itemModStat": "(25-30)% chance to Avoid being Ignited"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Stunned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Unwavering",
+            "of Unwavering"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidStunJewel1",
+                "itemModName": "of Unwavering",
+                "itemModLevel": "1",
+                "itemModStat": "(21-24)% chance to Avoid being Stunned"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidStunJewel2",
+                "itemModName": "of Unwavering",
+                "itemModLevel": "20",
+                "itemModStat": "(25-30)% chance to Avoid being Stunned"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have #% chance to Blind on Hit with Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Stifling",
+            "of Stifling"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAttacksBlindOnHitChanceJewel1",
+                "itemModName": "of Stifling",
+                "itemModLevel": "32",
+                "itemModStat": "Minions have (3-4)% chance to Blind on Hit with Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAttacksBlindOnHitChanceJewel2",
+                "itemModName": "of Stifling",
+                "itemModLevel": "65",
+                "itemModStat": "Minions have (5-6)% chance to Blind on Hit with Attacks"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: BuffEnchantment",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Clouding",
+            "of the Sanctum",
+            "of Escape",
+            "of Enervation",
+            "of Daunting",
+            "of Mangling",
+            "of Languishing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssBlindedEnemiesCriticalStrikeChanceJewel1",
+                "itemModName": "of Clouding",
+                "itemModLevel": "84",
+                "itemModStat": "Enemies Blinded by you have (20-15)% reduced Critical Strike Chance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssSelfCurseEffectOnConsecratedGroundJewel1~~",
+                "itemModName": "of the Sanctum",
+                "itemModLevel": "84",
+                "itemModStat": "(15-10)% reduced Effect of Curses on you while on Consecrated Ground"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidElementalAilmentsWhileElusiveJewel1",
+                "itemModName": "of Escape",
+                "itemModLevel": "84",
+                "itemModStat": "(8-10)% chance to Avoid Elemental Ailments while you have Elusive"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssHinderedEnemiesLifeRegenerationRateJewel1",
+                "itemModName": "of Enervation",
+                "itemModLevel": "84",
+                "itemModStat": "Enemies Hindered by you have (20-15)% reduced Life Regeneration rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssIntimidatedEnemiesStunDurationJewel1",
+                "itemModName": "of Daunting",
+                "itemModLevel": "84",
+                "itemModStat": "Enemies Intimidated by you have (10-15)% increased duration of stuns against them"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMaimedEnemiesDamageOverTimeJewel1",
+                "itemModName": "of Mangling",
+                "itemModLevel": "84",
+                "itemModStat": "Enemies Maimed by you take (4-5)% increased Damage Over Time"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssWitheredEnemiesAllResistanceJewel1_~~_~~",
+                "itemModName": "of Languishing",
+                "itemModLevel": "84",
+                "itemModStat": "Enemies Withered by you have -2% to all Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Cast Speed if a Minion has been Killed Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Retaliation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssCastSpeedIfMinionKilledRecentlyJewel1",
+                "itemModName": "of Retaliation",
+                "itemModLevel": "30",
+                "itemModStat": "(7-10)% increased Cast Speed if a Minion has been Killed Recently"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid Bleeding",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Mending",
+            "of Mending"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidBleedingJewel1",
+                "itemModName": "of Mending",
+                "itemModLevel": "20",
+                "itemModStat": "(21-24)% chance to Avoid Bleeding"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidBleedingJewel2",
+                "itemModName": "of Mending",
+                "itemModLevel": "50",
+                "itemModStat": "(25-30)% chance to Avoid Bleeding"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Chilled, #% chance to Avoid being Frozen",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Warming",
+            "of Warming"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidFreezeAndChillJewel1",
+                "itemModName": "of Warming",
+                "itemModLevel": "1",
+                "itemModStat": "(21-24)% chance to Avoid being Chilled, (21-24)% chance to Avoid being Frozen"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidFreezeAndChillJewel2",
+                "itemModName": "of Warming",
+                "itemModLevel": "30",
+                "itemModStat": "(25-30)% chance to Avoid being Chilled, (25-30)% chance to Avoid being Frozen"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Poisoned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Tolerance",
+            "of Tolerance"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidPoisonJewel1~~",
+                "itemModName": "of Tolerance",
+                "itemModLevel": "20",
+                "itemModStat": "(21-24)% chance to Avoid being Poisoned"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidPoisonJewel2~~",
+                "itemModName": "of Tolerance",
+                "itemModLevel": "50",
+                "itemModStat": "(25-30)% chance to Avoid being Poisoned"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% Chance to Block Attack Damage if you were Damaged by a Hit Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Guarding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssChanceToBlockIfDamagedRecentlyJewel1~",
+                "itemModName": "of Guarding",
+                "itemModLevel": "1",
+                "itemModStat": "+2% Chance to Block Attack Damage if you were Damaged by a Hit Recently"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Chaos Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssChaosResistanceJewel1",
+                "itemModName": "of Order",
+                "itemModLevel": "1",
+                "itemModStat": "+(7-13)% to Chaos Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Cold and Lightning Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shelter"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssColdLightningResistanceJewel1",
+                "itemModName": "of Shelter",
+                "itemModLevel": "1",
+                "itemModStat": "+(10-12)% to Cold and Lightning Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Beast"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssColdResistanceJewel1",
+                "itemModName": "of the Beast",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-15)% to Cold Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Dexterity"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssDexterityJewel1~",
+                "itemModName": "of Dexterity",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-16) to Dexterity"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Dexterity and Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Cunning"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssDexterityIntelligenceJewel1",
+                "itemModName": "of Cunning",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-10) to Dexterity and Intelligence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Evasion Rating while moving",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Maneuvering"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssEvasionRatingWhileMovingJewel1",
+                "itemModName": "of Maneuvering",
+                "itemModLevel": "1",
+                "itemModStat": "(25-35)% increased Evasion Rating while moving"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire and Cold Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Hearth"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFireColdResistanceJewel1",
+                "itemModName": "of the Hearth",
+                "itemModLevel": "1",
+                "itemModStat": "+(10-12)% to Fire and Cold Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire and Lightning Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Insulation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFireLightningResistanceJewel1",
+                "itemModName": "of Insulation",
+                "itemModLevel": "1",
+                "itemModStat": "+(10-12)% to Fire and Lightning Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Dragon"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFireResistanceJewel1",
+                "itemModName": "of the Dragon",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-15)% to Fire Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have #% chance to Hinder Enemies on Hit with Spells",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Delaying",
+            "of Delaying"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionSpellsHinderOnHitChanceJewel1",
+                "itemModName": "of Delaying",
+                "itemModLevel": "32",
+                "itemModStat": "Minions have (3-5)% chance to Hinder Enemies on Hit with Spells"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionSpellsHinderOnHitChanceJewel2",
+                "itemModName": "of Delaying",
+                "itemModLevel": "65",
+                "itemModStat": "Minions have (6-8)% chance to Hinder Enemies on Hit with Spells"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Cast Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Enchanting"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssCastSpeedJewel1",
+                "itemModName": "of Enchanting",
+                "itemModLevel": "50",
+                "itemModStat": "(2-4)% increased Cast Speed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Intelligence"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssIntelligenceJewel1",
+                "itemModName": "of Intelligence",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-16) to Intelligence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate #% of Life per second while moving",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Vivaciousness"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssLifeRegenerationRateWhileMovingJewel1",
+                "itemModName": "of Vivaciousness",
+                "itemModLevel": "1",
+                "itemModStat": "Regenerate (0.5-1)% of Life per second while moving"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Grounding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssLightningResistanceJewel1",
+                "itemModName": "of Grounding",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-15)% to Lightning Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Mana Regeneration Rate while moving",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Praxis"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssManaRegenerationRateWhileMovingJewel1",
+                "itemModName": "of Praxis",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% increased Mana Regeneration Rate while moving"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have +# to Accuracy Rating",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Suggestion",
+            "of Instruction",
+            "of Command"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatMinionAccuracy1",
+                "itemModName": "of Suggestion",
+                "itemModLevel": "1",
+                "itemModStat": "Minions have +(95-125) to Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatMinionAccuracy2~",
+                "itemModName": "of Instruction",
+                "itemModLevel": "52",
+                "itemModStat": "Minions have +(126-180) to Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssFlatMinionAccuracy3",
+                "itemModName": "of Command",
+                "itemModLevel": "78",
+                "itemModStat": "Minions have +(181-250) to Accuracy Rating"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have #% increased Attack and Cast Speed if you or your Minions have Killed Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Rallying"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAttackAndCastSpeedIfEnemySlainRecentlyJewel1",
+                "itemModName": "of Rallying",
+                "itemModLevel": "1",
+                "itemModStat": "Minions have (6-8)% increased Attack and Cast Speed if you or your Minions have Killed Recently"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have #% increased Attack Speed, Minions have #% increased Cast Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Training"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAttackAndCastSpeedJewel1",
+                "itemModName": "of Training",
+                "itemModLevel": "1",
+                "itemModStat": "Minions have (4-6)% increased Attack Speed, Minions have (4-6)% increased Cast Speed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have +#% to Chaos Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Righteousness"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionChaosResistanceJewel1",
+                "itemModName": "of Righteousness",
+                "itemModLevel": "1",
+                "itemModStat": "Minions have +(7-11)% to Chaos Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal #% increased Damage if you've used a Minion Skill Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Authority"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionDamageIfMinionSkillUsedRecentlyJewel1",
+                "itemModName": "of Authority",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal (15-20)% increased Damage if you've used a Minion Skill Recently"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: MinionDamageVSAbyssMonsters",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Marshalling",
+            "of Warding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionDamageVSAbyssMonstersJewel1",
+                "itemModName": "of Marshalling",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal (30-40)% increased Damage against Abyssal Monsters"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssReducedPhysicalDamageTakenVsAbyssMonsterJewel1",
+                "itemModName": "of Warding",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% additional Physical Damage Reduction against Abyssal Monsters"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have +#% to all Elemental Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Acclimatisation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionElementalResistancesJewel1",
+                "itemModName": "of Acclimatisation",
+                "itemModLevel": "1",
+                "itemModStat": "Minions have +(6-10)% to all Elemental Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have #% increased maximum Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Fortitude"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionLifeJewel1~",
+                "itemModName": "of Fortitude",
+                "itemModLevel": "1",
+                "itemModStat": "Minions have (8-12)% increased maximum Life"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions Leech #% of Damage as Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Vampirism"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionLifeLeechJewel1",
+                "itemModName": "of Vampirism",
+                "itemModLevel": "1",
+                "itemModStat": "Minions Leech (0.3-0.5)% of Damage as Life"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: MinionLifeRegeneration",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Longevity"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionLifeRegenerationJewel1",
+                "itemModName": "of Longevity",
+                "itemModLevel": "1",
+                "itemModStat": "Minions Regenerate (0.4-0.8)% of Life per second"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have #% increased Movement Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Orchestration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionMovementSpeedJewel1",
+                "itemModName": "of Orchestration",
+                "itemModLevel": "1",
+                "itemModStat": "Minions have (6-10)% increased Movement Speed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Movement Speed if you haven't taken Damage Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Momentum"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMovementSpeedIfNotDamagedRecentlyJewel1",
+                "itemModName": "of Momentum",
+                "itemModLevel": "1",
+                "itemModStat": "(3-4)% increased Movement Speed if you haven't taken Damage Recently"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Confidence"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssReducedPhysicalDamageTakenIfNotHitRecentlyJewel1",
+                "itemModName": "of Confidence",
+                "itemModLevel": "1",
+                "itemModStat": "2% additional Physical Damage Reduction if you weren't Damaged by a Hit Recently"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Shocked",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Insulating",
+            "of Insulating"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidShockJewel1",
+                "itemModName": "of Insulating",
+                "itemModLevel": "1",
+                "itemModStat": "(21-24)% chance to Avoid being Shocked"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssAvoidShockJewel2",
+                "itemModName": "of Insulating",
+                "itemModLevel": "30",
+                "itemModStat": "(25-30)% chance to Avoid being Shocked"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% Chance to Block Spell Damage if you were Damaged by a Hit Recently",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Instinct",
+            "of Readiness"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssSpellBlockChanceIfHitRecentlyJewel1",
+                "itemModName": "of Instinct",
+                "itemModLevel": "1",
+                "itemModStat": "+2% Chance to Block Spell Damage if you were Damaged by a Hit Recently"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssSpellDodgeAndDodgeChanceIfHitRecentlyJewel1",
+                "itemModName": "of Readiness",
+                "itemModLevel": "1",
+                "itemModStat": "+2% Chance to Block Spell Damage if you were Damaged by a Hit Recently"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Strength"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssStrengthJewel1~",
+                "itemModName": "of Strength",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-16) to Strength"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength and Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Athletics"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssStrengthDexterityJewel1",
+                "itemModName": "of Athletics",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-10) to Strength and Dexterity"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength and Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Spirit"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssStrengthIntelligenceJewel1~",
+                "itemModName": "of Spirit",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-10) to Strength and Intelligence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions have #% chance to Taunt on Hit with Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Distraction",
+            "of Distraction"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAttacksTauntOnHitChanceJewel1",
+                "itemModName": "of Distraction",
+                "itemModLevel": "32",
+                "itemModStat": "Minions have (3-5)% chance to Taunt on Hit with Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AbyssMinionAttacksTauntOnHitChanceJewel2~",
+                "itemModName": "of Distraction",
+                "itemModLevel": "65",
+                "itemModStat": "Minions have (6-8)% chance to Taunt on Hit with Attacks"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Area of Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AreaOfEffect"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAreaOfEffectAbyssalJewelCorrupted",
+                "itemModName": "AreaOfEffect",
+                "itemModLevel": "1",
+                "itemModStat": "(4-5)% increased Area of Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Overwhelm #% Physical Damage Reduction",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ArmourPenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ArmourPenetrationAbyssalJewelCorrupted",
+                "itemModName": "ArmourPenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Overwhelm 2% Physical Damage Reduction"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Ignited",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidIgnite"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidIgniteAbyssalJewelCorrupted",
+                "itemModName": "AvoidIgnite",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Ignited"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Maimed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidMaimChance"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2MaimImmunityCorrupted~",
+                "itemModName": "AvoidMaimChance",
+                "itemModLevel": "40",
+                "itemModStat": "You cannot be Maimed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Shocked",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidShock"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidShockAbyssalJewelCorrupted",
+                "itemModName": "AvoidShock",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Shocked"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Stunned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidStun"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidStunAbyssalJewelCorrupted",
+                "itemModName": "AvoidStun",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Stunned"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid Bleeding",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidBleeding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidBleedAbyssalJewelCorrupted~",
+                "itemModName": "ChanceToAvoidBleeding",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid Bleeding"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Chilled, #% chance to Avoid being Frozen",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidFreezeAndChill"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidChillAndFreezeAbyssalJewelCorrupted~",
+                "itemModName": "ChanceToAvoidFreezeAndChill",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Chilled, (20-25)% chance to Avoid being Frozen"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Poisoned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidPoison"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidPoisonAbyssalJewelCorrupted",
+                "itemModName": "ChanceToAvoidPoison",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Poisoned"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ColdResistancePenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ColdPenetrationAbyssalJewelCorrupted",
+                "itemModName": "ColdResistancePenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Damage Penetrates 1% Cold Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Corrupted Blood cannot be inflicted on you",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CorruptedBloodImmunity"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2CorruptedBloodImmunityAbyssalJewelCorrupted",
+                "itemModName": "CorruptedBloodImmunity",
+                "itemModLevel": "33",
+                "itemModStat": "Corrupted Blood cannot be inflicted on you"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Global Critical Strike Chance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CriticalStrikeChance"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedCriticalStrikeChanceAbyssalJewelCorrupted",
+                "itemModName": "CriticalStrikeChance",
+                "itemModLevel": "1",
+                "itemModStat": "(8-10)% increased Global Critical Strike Chance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Elemental Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ElementalPenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ElementalPenetrationAbyssalJewelCorrupted~",
+                "itemModName": "ElementalPenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Damage Penetrates 1% Elemental Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "FireResistancePenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2FirePenetrationAbyssalJewelCorrupted",
+                "itemModName": "FireResistancePenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Damage Penetrates 1% Fire Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Effect of Non-Damaging Ailments",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedAilmentEffectOnEnemies"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAilmentEffectOnEnemiesAbyssalJewelCorrupted",
+                "itemModName": "IncreasedAilmentEffectOnEnemies",
+                "itemModLevel": "1",
+                "itemModStat": "(5-7)% increased Effect of Non-Damaging Ailments"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedDamage"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedDamageAbyssJewelCorrupted~",
+                "itemModName": "IncreasedDamage",
+                "itemModLevel": "1",
+                "itemModStat": "(4-5)% increased Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "LightningResistancePenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2LightningPenetrationAbyssalJewelCorrupted",
+                "itemModName": "LightningResistancePenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Damage Penetrates 1% Lightning Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal #% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "MinionDamage"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2MinionDamageCorrupted~~",
+                "itemModName": "MinionDamage",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal (4-5)% increased Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Cursed with Silence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ImmuneToSilence"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2SilenceImmunityJewelCorrupted~~",
+                "itemModName": "ImmuneToSilence",
+                "itemModLevel": "60",
+                "itemModStat": "You cannot be Cursed with Silence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Reservation Efficiency of Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ReservationEfficiencyForJewel"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ReducedManaReservationCorruptedEfficiency_~~_~~_~~",
+                "itemModName": "ReservationEfficiencyForJewel",
+                "itemModLevel": "1",
+                "itemModStat": "2% increased Reservation Efficiency of Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Hindered",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "YouCannotBeHindered"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2HinderImmunityAbyssalJewelCorrupted",
+                "itemModName": "YouCannotBeHindered",
+                "itemModLevel": "40",
+                "itemModStat": "You cannot be Hindered"
+            }
+        ]
+    }
+]

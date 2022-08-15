@@ -1,0 +1,535 @@
+[
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Armour",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Lacquered",
+            "Studded",
+            "Ribbed"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantArmour",
+                "itemModName": "Lacquered",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(11-20) to Armour"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantArmour2",
+                "itemModName": "Studded",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(21-30) to Armour"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantArmour3~",
+                "itemModName": "Ribbed",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(31-40) to Armour"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: #% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Harmful",
+            "Hazardous",
+            "Dangerous"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantDamage~",
+                "itemModName": "Harmful",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: 2% increased Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantDamage2~",
+                "itemModName": "Hazardous",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: 3% increased Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantDamage3",
+                "itemModName": "Dangerous",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: 4% increased Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Maximum Energy Shield",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Shining",
+            "Glimmering",
+            "Glowing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantES",
+                "itemModName": "Shining",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(4-5) to Maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantES2",
+                "itemModName": "Glimmering",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(6-9) to Maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantES3",
+                "itemModName": "Glowing",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(10-12) to Maximum Energy Shield"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Evasion",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Agile",
+            "Dancer's",
+            "Acrobat's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantEvasion",
+                "itemModName": "Agile",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(11-20) to Evasion"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantEvasion2~~",
+                "itemModName": "Dancer's",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(21-30) to Evasion"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantEvasion3",
+                "itemModName": "Acrobat's",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(31-40) to Evasion"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Maximum Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hale",
+            "Healthy",
+            "Sanguine"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLife~",
+                "itemModName": "Hale",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(2-3) to Maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLife2~",
+                "itemModName": "Healthy",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(4-7) to Maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLife3",
+                "itemModName": "Sanguine",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(8-10) to Maximum Life"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Maximum Mana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Beryl",
+            "Cobalt",
+            "Azure"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantMana",
+                "itemModName": "Beryl",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(2-5) to Maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantMana2",
+                "itemModName": "Cobalt",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(6-8) to Maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantMana3",
+                "itemModName": "Azure",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(9-10) to Maximum Mana"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills have #% increased Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Potent",
+            "Powerful"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesHaveIncreasedEffect",
+                "itemModName": "Potent",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills have 25% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesHaveIncreasedEffect2",
+                "itemModName": "Powerful",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills have 35% increased Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to All Attributes",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Cloud",
+            "of the Sky",
+            "of the Meteor"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantAttributes",
+                "itemModName": "of the Cloud",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +2 to All Attributes"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantAttributes2",
+                "itemModName": "of the Sky",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +3 to All Attributes"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantAttributes3",
+                "itemModName": "of the Meteor",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +4 to All Attributes"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Chaos Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Lost",
+            "of Banishment",
+            "of Eviction"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantChaosRes",
+                "itemModName": "of the Lost",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +3% to Chaos Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantChaosRes2",
+                "itemModName": "of Banishment",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +4% to Chaos Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantChaosRes3",
+                "itemModName": "of Eviction",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +5% to Chaos Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Inuit",
+            "of the Seal",
+            "of the Penguin"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantColdRes~",
+                "itemModName": "of the Inuit",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(2-3)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantColdRes2",
+                "itemModName": "of the Seal",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(4-5)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantColdRes3",
+                "itemModName": "of the Penguin",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(6-7)% to Cold Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Mongoose",
+            "of the Lynx",
+            "of the Fox"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantDex~",
+                "itemModName": "of the Mongoose",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(2-3) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantDex2",
+                "itemModName": "of the Lynx",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(4-5) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantDex3~",
+                "itemModName": "of the Fox",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(6-8) to Dexterity"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Elemental Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Crystal",
+            "of the Prism",
+            "of the Kaleidoscope"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantElementalRes",
+                "itemModName": "of the Crystal",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +2% to Elemental Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantElementalRes2",
+                "itemModName": "of the Prism",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +3% to Elemental Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantElementalRes3",
+                "itemModName": "of the Kaleidoscope",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +4% to Elemental Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Whelpling",
+            "of the Salamander",
+            "of the Drake"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantFireRes",
+                "itemModName": "of the Whelpling",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(2-3)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantFireRes2",
+                "itemModName": "of the Salamander",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(4-5)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantFireRes3",
+                "itemModName": "of the Drake",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(6-7)% to Fire Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Pupil",
+            "of the Student",
+            "of the Prodigy"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantInt~",
+                "itemModName": "of the Pupil",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(2-3) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantInt2~",
+                "itemModName": "of the Student",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(4-5) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantInt3",
+                "itemModName": "of the Prodigy",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(6-8) to Intelligence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: Regenerate #% of Life per Second",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Newt",
+            "of the Lizard",
+            "of the Flatworm"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLifeRegen_~~_~~",
+                "itemModName": "of the Newt",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: Regenerate 0.1% of Life per Second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLifeRegen2~",
+                "itemModName": "of the Lizard",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: Regenerate 0.15% of Life per Second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLifeRegen3",
+                "itemModName": "of the Flatworm",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: Regenerate 0.2% of Life per Second"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +#% to Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Cloud",
+            "of the Squall",
+            "of the Storm"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLightningRes",
+                "itemModName": "of the Cloud",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(2-3)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLightningRes2~",
+                "itemModName": "of the Squall",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(4-5)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantLightningRes3",
+                "itemModName": "of the Storm",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(6-7)% to Lightning Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: #% increased Mana Regeneration Rate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Excitement",
+            "of Joy",
+            "of Elation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantManaRegen",
+                "itemModName": "of Excitement",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: 4% increased Mana Regeneration Rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantManaRegen2",
+                "itemModName": "of Joy",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: 5% increased Mana Regeneration Rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantManaRegen3~",
+                "itemModName": "of Elation",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: 6% increased Mana Regeneration Rate"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Added Small Passive Skills also grant: +# to Strength",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Brute",
+            "of the Wrestler",
+            "of the Bear"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantStr",
+                "itemModName": "of the Brute",
+                "itemModLevel": "1",
+                "itemModStat": "Added Small Passive Skills also grant: +(2-3) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantStr2~",
+                "itemModName": "of the Wrestler",
+                "itemModLevel": "68",
+                "itemModStat": "Added Small Passive Skills also grant: +(4-5) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AfflictionJewelSmallPassivesGrantStr3~",
+                "itemModName": "of the Bear",
+                "itemModLevel": "84",
+                "itemModStat": "Added Small Passive Skills also grant: +(6-8) to Strength"
+            }
+        ]
+    }
+]

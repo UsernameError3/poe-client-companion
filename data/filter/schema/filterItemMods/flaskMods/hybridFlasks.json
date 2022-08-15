@@ -1,0 +1,992 @@
+[
+    {
+        "itemModHeader": "Instant Recovery, #% reduced Amount Recovered",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Seething"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskFullInstantRecovery1",
+                "itemModName": "Seething",
+                "itemModLevel": "7",
+                "itemModStat": "Instant Recovery, 66% reduced Amount Recovered"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Charges per use",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Apprentice's",
+            "Scholar's",
+            "Practitioner's",
+            "Brewer's",
+            "Chemist's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesUsed1",
+                "itemModName": "Apprentice's",
+                "itemModLevel": "14",
+                "itemModStat": "(16-14)% reduced Charges per use"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesUsed2",
+                "itemModName": "Scholar's",
+                "itemModLevel": "31",
+                "itemModStat": "(19-17)% reduced Charges per use"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesUsed3~~",
+                "itemModName": "Practitioner's",
+                "itemModLevel": "48",
+                "itemModStat": "(22-20)% reduced Charges per use"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesUsed4~~",
+                "itemModName": "Brewer's",
+                "itemModLevel": "65",
+                "itemModStat": "(25-23)% reduced Charges per use"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesUsed5",
+                "itemModName": "Chemist's",
+                "itemModLevel": "82",
+                "itemModStat": "(28-26)% reduced Charges per use"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Flask effect is not removed when Unreserved Mana is Filled Flask effect does not Queue, #% reduced Amount Recovered",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Enduring"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskEffectNotRemovedOnFullMana1",
+                "itemModName": "Enduring",
+                "itemModLevel": "16",
+                "itemModStat": "Flask effect is not removed when Unreserved Mana is Filled Flask effect does not Queue, 66% reduced Amount Recovered"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Amount Recovered, #% increased Charges per use",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Nitrate",
+            "Dolomite",
+            "Kieserite",
+            "Kainite",
+            "Gypsum"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedHealingCharges1",
+                "itemModName": "Nitrate",
+                "itemModLevel": "10",
+                "itemModStat": "(21-26)% increased Amount Recovered, (20-25)% increased Charges per use"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedHealingCharges2",
+                "itemModName": "Dolomite",
+                "itemModLevel": "28",
+                "itemModStat": "(27-32)% increased Amount Recovered, (20-25)% increased Charges per use"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedHealingCharges3",
+                "itemModName": "Kieserite",
+                "itemModLevel": "46",
+                "itemModStat": "(33-38)% increased Amount Recovered, (20-25)% increased Charges per use"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedHealingCharges4_~~_~~_~",
+                "itemModName": "Kainite",
+                "itemModLevel": "64",
+                "itemModStat": "(39-44)% increased Amount Recovered, (20-25)% increased Charges per use"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedHealingCharges5",
+                "itemModName": "Gypsum",
+                "itemModLevel": "82",
+                "itemModStat": "(45-50)% increased Amount Recovered, (20-25)% increased Charges per use"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mana Recovery occurs instantly at the end of the Flask effect, #% increased Amount Recovered",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Foreboding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskManaRecoveryAtEnd1~",
+                "itemModName": "Foreboding",
+                "itemModLevel": "16",
+                "itemModStat": "Mana Recovery occurs instantly at the end of the Flask effect, 66% increased Amount Recovered"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Maximum Charges",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Wide",
+            "Plentiful",
+            "Bountiful",
+            "Abundant",
+            "Ample"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskExtraCharges1",
+                "itemModName": "Wide",
+                "itemModLevel": "2",
+                "itemModStat": "+(16-19) to Maximum Charges"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskExtraCharges2~~",
+                "itemModName": "Plentiful",
+                "itemModLevel": "22",
+                "itemModStat": "+(20-23) to Maximum Charges"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskExtraCharges3~",
+                "itemModName": "Bountiful",
+                "itemModLevel": "42",
+                "itemModStat": "+(24-27) to Maximum Charges"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskExtraCharges4~~",
+                "itemModName": "Abundant",
+                "itemModLevel": "62",
+                "itemModStat": "+(28-31) to Maximum Charges"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskExtraCharges5",
+                "itemModName": "Ample",
+                "itemModLevel": "82",
+                "itemModStat": "+(32-35) to Maximum Charges"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskRechargeRate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Medic's",
+            "Physician's",
+            "Doctor's",
+            "Specialist's",
+            "Surgeon's",
+            "Delinquent's",
+            "Transgressor's",
+            "Sinner's",
+            "Masochist's",
+            "Flagellant's",
+            "Constant",
+            "Continuous",
+            "Endless",
+            "Bottomless",
+            "Perpetual"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChanceRechargeOnCrit1",
+                "itemModName": "Medic's",
+                "itemModLevel": "8",
+                "itemModStat": "(11-15)% chance to gain a Flask Charge when you deal a Critical Strike"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChanceRechargeOnCrit2",
+                "itemModName": "Physician's",
+                "itemModLevel": "26",
+                "itemModStat": "(16-20)% chance to gain a Flask Charge when you deal a Critical Strike"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChanceRechargeOnCrit3_~~_~~",
+                "itemModName": "Doctor's",
+                "itemModLevel": "44",
+                "itemModStat": "(21-25)% chance to gain a Flask Charge when you deal a Critical Strike"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChanceRechargeOnCrit4",
+                "itemModName": "Specialist's",
+                "itemModLevel": "62",
+                "itemModStat": "(26-30)% chance to gain a Flask Charge when you deal a Critical Strike"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChanceRechargeOnCrit5",
+                "itemModName": "Surgeon's",
+                "itemModLevel": "80",
+                "itemModStat": "(31-35)% chance to gain a Flask Charge when you deal a Critical Strike"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskFullRechargeOnHit1",
+                "itemModName": "Delinquent's",
+                "itemModLevel": "12",
+                "itemModStat": "Gain 3 Charges when you are Hit by an Enemy"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskFullRechargeOnHit2~",
+                "itemModName": "Transgressor's",
+                "itemModLevel": "29",
+                "itemModStat": "Gain 4 Charges when you are Hit by an Enemy"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskFullRechargeOnHit3~",
+                "itemModName": "Sinner's",
+                "itemModLevel": "46",
+                "itemModStat": "Gain 5 Charges when you are Hit by an Enemy"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskFullRechargeOnHit4~",
+                "itemModName": "Masochist's",
+                "itemModLevel": "63",
+                "itemModStat": "Gain 6 Charges when you are Hit by an Enemy"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskFullRechargeOnHit5_~~_~~",
+                "itemModName": "Flagellant's",
+                "itemModLevel": "80",
+                "itemModStat": "Gain 7 Charges when you are Hit by an Enemy"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesAddedIncreasePercent1",
+                "itemModName": "Constant",
+                "itemModLevel": "3",
+                "itemModStat": "(16-20)% increased Charge Recovery"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesAddedIncreasePercent2~",
+                "itemModName": "Continuous",
+                "itemModLevel": "23",
+                "itemModStat": "(21-25)% increased Charge Recovery"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesAddedIncreasePercent3~",
+                "itemModName": "Endless",
+                "itemModLevel": "43",
+                "itemModStat": "(26-30)% increased Charge Recovery"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesAddedIncreasePercent4~",
+                "itemModName": "Bottomless",
+                "itemModLevel": "63",
+                "itemModStat": "(31-45)% increased Charge Recovery"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChargesAddedIncreasePercent5~~",
+                "itemModName": "Perpetual",
+                "itemModLevel": "83",
+                "itemModStat": "(46-50)% increased Charge Recovery"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskRecoveryAmount",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Substantial",
+            "Opaque",
+            "Full bodied",
+            "Concentrated",
+            "Saturated",
+            "Prudent",
+            "Prepared",
+            "Wary",
+            "Careful",
+            "Cautious"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryAmount1",
+                "itemModName": "Substantial",
+                "itemModLevel": "1",
+                "itemModStat": "(41-46)% increased Amount Recovered, 33% reduced Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryAmount2~",
+                "itemModName": "Opaque",
+                "itemModLevel": "21",
+                "itemModStat": "(47-52)% increased Amount Recovered, 33% reduced Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryAmount3",
+                "itemModName": "Full bodied",
+                "itemModLevel": "41",
+                "itemModStat": "(53-58)% increased Amount Recovered, 33% reduced Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryAmount4",
+                "itemModName": "Concentrated",
+                "itemModLevel": "61",
+                "itemModStat": "(59-64)% increased Amount Recovered, 33% reduced Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryAmount5",
+                "itemModName": "Saturated",
+                "itemModLevel": "81",
+                "itemModStat": "(65-70)% increased Amount Recovered, 33% reduced Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryOnLowLife1",
+                "itemModName": "Prudent",
+                "itemModLevel": "6",
+                "itemModStat": "(101-106)% more Recovery if used while on Low Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryOnLowLife2~",
+                "itemModName": "Prepared",
+                "itemModLevel": "25",
+                "itemModStat": "(107-112)% more Recovery if used while on Low Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryOnLowLife3",
+                "itemModName": "Wary",
+                "itemModLevel": "44",
+                "itemModStat": "(113-118)% more Recovery if used while on Low Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryOnLowLife4",
+                "itemModName": "Careful",
+                "itemModLevel": "63",
+                "itemModStat": "(119-124)% more Recovery if used while on Low Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoveryOnLowLife5",
+                "itemModName": "Cautious",
+                "itemModLevel": "82",
+                "itemModStat": "(125-130)% more Recovery if used while on Low Life"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FlaskRecoverySpeed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Undiluted",
+            "Thickened",
+            "Viscous",
+            "Condensed",
+            "Catalysed",
+            "Startled",
+            "Frightened",
+            "Alarmed",
+            "Terrified",
+            "Panicked",
+            "Simmering",
+            "Ebullient",
+            "Effusive",
+            "Effervescent",
+            "Bubbling"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoverySpeed1",
+                "itemModName": "Undiluted",
+                "itemModLevel": "1",
+                "itemModStat": "(41-46)% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoverySpeed2",
+                "itemModName": "Thickened",
+                "itemModLevel": "21",
+                "itemModStat": "(47-52)% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoverySpeed3~",
+                "itemModName": "Viscous",
+                "itemModLevel": "41",
+                "itemModStat": "(53-58)% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoverySpeed4",
+                "itemModName": "Condensed",
+                "itemModLevel": "61",
+                "itemModStat": "(59-64)% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIncreasedRecoverySpeed5",
+                "itemModName": "Catalysed",
+                "itemModLevel": "81",
+                "itemModStat": "(65-70)% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskInstantRecoveryOnLowLife1",
+                "itemModName": "Startled",
+                "itemModLevel": "9",
+                "itemModStat": "Instant Recovery when on Low Life, (30-27)% reduced Amount Recovered"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskInstantRecoveryOnLowLife2",
+                "itemModName": "Frightened",
+                "itemModLevel": "27",
+                "itemModStat": "Instant Recovery when on Low Life, (26-23)% reduced Amount Recovered"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskInstantRecoveryOnLowLife3",
+                "itemModName": "Alarmed",
+                "itemModLevel": "45",
+                "itemModStat": "Instant Recovery when on Low Life, (22-19)% reduced Amount Recovered"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskInstantRecoveryOnLowLife4",
+                "itemModName": "Terrified",
+                "itemModLevel": "63",
+                "itemModStat": "Instant Recovery when on Low Life, (18-15)% reduced Amount Recovered"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskInstantRecoveryOnLowLife5~~",
+                "itemModName": "Panicked",
+                "itemModLevel": "81",
+                "itemModStat": "Instant Recovery when on Low Life, (14-11)% reduced Amount Recovered"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPartialInstantRecovery1",
+                "itemModName": "Simmering",
+                "itemModLevel": "3",
+                "itemModStat": "50% of Recovery applied Instantly, (55-52)% reduced Amount Recovered, 135% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPartialInstantRecovery2",
+                "itemModName": "Ebullient",
+                "itemModLevel": "22",
+                "itemModStat": "50% of Recovery applied Instantly, (51-48)% reduced Amount Recovered, 135% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPartialInstantRecovery3",
+                "itemModName": "Effusive",
+                "itemModLevel": "41",
+                "itemModStat": "50% of Recovery applied Instantly, (47-44)% reduced Amount Recovered, 135% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPartialInstantRecovery4",
+                "itemModName": "Effervescent",
+                "itemModLevel": "60",
+                "itemModStat": "50% of Recovery applied Instantly, (43-40)% reduced Amount Recovered, 135% increased Recovery rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPartialInstantRecovery5~",
+                "itemModName": "Bubbling",
+                "itemModLevel": "79",
+                "itemModStat": "50% of Recovery applied Instantly, (39-36)% reduced Amount Recovered, 135% increased Recovery rate"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Removes Curses on use",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Warding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskCurseImmunity1",
+                "itemModName": "of Warding",
+                "itemModLevel": "18",
+                "itemModStat": "Removes Curses on use"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Ignite for # seconds if used while Ignited Removes all Burning when used",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Damping",
+            "of Quashing",
+            "of Quelling",
+            "of Quenching"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIgniteImmunity1",
+                "itemModName": "of Damping",
+                "itemModLevel": "6",
+                "itemModStat": "Grants Immunity to Ignite for (6-8) seconds if used while Ignited Removes all Burning when used"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIgniteImmunity2~",
+                "itemModName": "of Quashing",
+                "itemModLevel": "30",
+                "itemModStat": "Grants Immunity to Ignite for (9-11) seconds if used while Ignited Removes all Burning when used"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIgniteImmunity3~",
+                "itemModName": "of Quelling",
+                "itemModLevel": "54",
+                "itemModStat": "Grants Immunity to Ignite for (12-14) seconds if used while Ignited Removes all Burning when used"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskIgniteImmunity4",
+                "itemModName": "of Quenching",
+                "itemModLevel": "78",
+                "itemModStat": "Grants Immunity to Ignite for (15-17) seconds if used while Ignited Removes all Burning when used"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Chill for # seconds if used while Chilled Grants Immunity to Freeze for # seconds if used while Frozen",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Convection",
+            "of Thermodynamics",
+            "of Entropy",
+            "of Thawing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChillFreezeImmunity1",
+                "itemModName": "of Convection",
+                "itemModLevel": "4",
+                "itemModStat": "Grants Immunity to Chill for (6-8) seconds if used while Chilled Grants Immunity to Freeze for (6-8) seconds if used while Frozen"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChillFreezeImmunity2",
+                "itemModName": "of Thermodynamics",
+                "itemModLevel": "28",
+                "itemModStat": "Grants Immunity to Chill for (9-11) seconds if used while Chilled Grants Immunity to Freeze for (9-11) seconds if used while Frozen"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChillFreezeImmunity3",
+                "itemModName": "of Entropy",
+                "itemModLevel": "52",
+                "itemModStat": "Grants Immunity to Chill for (12-14) seconds if used while Chilled Grants Immunity to Freeze for (12-14) seconds if used while Frozen"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskChillFreezeImmunity4",
+                "itemModName": "of Thawing",
+                "itemModLevel": "76",
+                "itemModStat": "Grants Immunity to Chill for (15-17) seconds if used while Chilled Grants Immunity to Freeze for (15-17) seconds if used while Frozen"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Poison for # seconds if used while Poisoned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Antitoxin",
+            "of the Remedy",
+            "of the Cure",
+            "of the Antidote"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPoisonImmunity1~~",
+                "itemModName": "of the Antitoxin",
+                "itemModLevel": "16",
+                "itemModStat": "Grants Immunity to Poison for (6-8) seconds if used while Poisoned"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPoisonImmunity2",
+                "itemModName": "of the Remedy",
+                "itemModLevel": "38",
+                "itemModStat": "Grants Immunity to Poison for (9-11) seconds if used while Poisoned"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPoisonImmunity3",
+                "itemModName": "of the Cure",
+                "itemModLevel": "60",
+                "itemModStat": "Grants Immunity to Poison for (12-14) seconds if used while Poisoned"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskPoisonImmunity4",
+                "itemModName": "of the Antidote",
+                "itemModLevel": "82",
+                "itemModStat": "Grants Immunity to Poison for (15-17) seconds if used while Poisoned"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Grants #% of Life Recovery to Minions",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Novice",
+            "of the Acolyte",
+            "of the Summoner",
+            "of the Conjurer",
+            "of the Necromancer"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskHealsMinions1",
+                "itemModName": "of the Novice",
+                "itemModLevel": "10",
+                "itemModStat": "Grants (51-56)% of Life Recovery to Minions"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskHealsMinions2",
+                "itemModName": "of the Acolyte",
+                "itemModLevel": "28",
+                "itemModStat": "Grants (57-62)% of Life Recovery to Minions"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskHealsMinions3",
+                "itemModName": "of the Summoner",
+                "itemModLevel": "46",
+                "itemModStat": "Grants (63-68)% of Life Recovery to Minions"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskHealsMinions4_~~_~~_~",
+                "itemModName": "of the Conjurer",
+                "itemModLevel": "64",
+                "itemModStat": "Grants (69-74)% of Life Recovery to Minions"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskHealsMinions5",
+                "itemModName": "of the Necromancer",
+                "itemModLevel": "82",
+                "itemModStat": "Grants (75-80)% of Life Recovery to Minions"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Bleeding for # seconds if used while Bleeding Grants Immunity to Corrupted Blood for # seconds if used while affected by Corrupted Blood",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Sealing",
+            "of Alleviation",
+            "of Allaying",
+            "of Assuaging"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBleedCorruptingBloodImmunity1",
+                "itemModName": "of Sealing",
+                "itemModLevel": "8",
+                "itemModStat": "Grants Immunity to Bleeding for (6-8) seconds if used while Bleeding Grants Immunity to Corrupted Blood for (6-8) seconds if used while affected by Corrupted Blood"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBleedCorruptingBloodImmunity2",
+                "itemModName": "of Alleviation",
+                "itemModLevel": "32",
+                "itemModStat": "Grants Immunity to Bleeding for (9-11) seconds if used while Bleeding Grants Immunity to Corrupted Blood for (9-11) seconds if used while affected by Corrupted Blood"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBleedCorruptingBloodImmunity3_~~_~~_~~_~~",
+                "itemModName": "of Allaying",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Immunity to Bleeding for (12-14) seconds if used while Bleeding Grants Immunity to Corrupted Blood for (12-14) seconds if used while affected by Corrupted Blood"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBleedCorruptingBloodImmunity4~",
+                "itemModName": "of Assuaging",
+                "itemModLevel": "80",
+                "itemModStat": "Grants Immunity to Bleeding for (15-17) seconds if used while Bleeding Grants Immunity to Corrupted Blood for (15-17) seconds if used while affected by Corrupted Blood"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Shock for # seconds if used while Shocked",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Earthing",
+            "of Grounding",
+            "of Insulation",
+            "of the Dielectric"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskShockImmunity1",
+                "itemModName": "of Earthing",
+                "itemModLevel": "6",
+                "itemModStat": "Grants Immunity to Shock for (6-8) seconds if used while Shocked"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskShockImmunity2",
+                "itemModName": "of Grounding",
+                "itemModLevel": "30",
+                "itemModStat": "Grants Immunity to Shock for (9-11) seconds if used while Shocked"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskShockImmunity3",
+                "itemModName": "of Insulation",
+                "itemModLevel": "54",
+                "itemModStat": "Grants Immunity to Shock for (12-14) seconds if used while Shocked"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskShockImmunity4~",
+                "itemModName": "of the Dielectric",
+                "itemModLevel": "78",
+                "itemModStat": "Grants Immunity to Shock for (15-17) seconds if used while Shocked"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Grants Immunity to Hinder for # seconds if used while Hindered, Grants Immunity to Maim for # seconds if used while Maimed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Movement",
+            "of Motion",
+            "of Freedom",
+            "of Liberation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalFlaskImmuneToMaimAndHinder1",
+                "itemModName": "of Movement",
+                "itemModLevel": "16",
+                "itemModStat": "Grants Immunity to Hinder for (6-8) seconds if used while Hindered, Grants Immunity to Maim for (6-8) seconds if used while Maimed"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalFlaskImmuneToMaimAndHinder2",
+                "itemModName": "of Motion",
+                "itemModLevel": "38",
+                "itemModStat": "Grants Immunity to Hinder for (9-11) seconds if used while Hindered, Grants Immunity to Maim for (9-11) seconds if used while Maimed"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalFlaskImmuneToMaimAndHinder3",
+                "itemModName": "of Freedom",
+                "itemModLevel": "60",
+                "itemModStat": "Grants Immunity to Hinder for (12-14) seconds if used while Hindered, Grants Immunity to Maim for (12-14) seconds if used while Maimed"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalFlaskImmuneToMaimAndHinder4",
+                "itemModName": "of Liberation",
+                "itemModLevel": "82",
+                "itemModStat": "Grants Immunity to Hinder for (15-17) seconds if used while Hindered, Grants Immunity to Maim for (15-17) seconds if used while Maimed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Mana Cost of Skills during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Pupil",
+            "of the Initiate",
+            "of the Mage",
+            "of the Arcanist",
+            "of the Sorcerer"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBuffReducedManaCostWhileHealing1~",
+                "itemModName": "of the Pupil",
+                "itemModLevel": "12",
+                "itemModStat": "(14-11)% reduced Mana Cost of Skills during Flask Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBuffReducedManaCostWhileHealing2~~",
+                "itemModName": "of the Initiate",
+                "itemModLevel": "29",
+                "itemModStat": "(18-15)% reduced Mana Cost of Skills during Flask Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBuffReducedManaCostWhileHealing3",
+                "itemModName": "of the Mage",
+                "itemModLevel": "46",
+                "itemModStat": "(21-19)% reduced Mana Cost of Skills during Flask Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBuffReducedManaCostWhileHealing4",
+                "itemModName": "of the Arcanist",
+                "itemModLevel": "63",
+                "itemModStat": "(25-22)% reduced Mana Cost of Skills during Flask Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FlaskBuffReducedManaCostWhileHealing5",
+                "itemModName": "of the Sorcerer",
+                "itemModLevel": "80",
+                "itemModStat": "(29-26)% reduced Mana Cost of Skills during Flask Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: LocalManaFlaskHinderNearbyEnemies",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Interference",
+            "of Obstruction",
+            "of Occlusion",
+            "of Restraint",
+            "of Interference",
+            "of Obstruction",
+            "of Occlusion",
+            "of Restraint"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalLifeFlaskHinderNearbyEnemies1~",
+                "itemModName": "of Interference",
+                "itemModLevel": "30",
+                "itemModStat": "Hinders nearby Enemies with (17-22)% reduced Movement Speed if used while not on Full Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalLifeFlaskHinderNearbyEnemies2~",
+                "itemModName": "of Obstruction",
+                "itemModLevel": "48",
+                "itemModStat": "Hinders nearby Enemies with (23-28)% reduced Movement Speed if used while not on Full Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalLifeFlaskHinderNearbyEnemies3~",
+                "itemModName": "of Occlusion",
+                "itemModLevel": "66",
+                "itemModStat": "Hinders nearby Enemies with (29-34)% reduced Movement Speed if used while not on Full Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalLifeFlaskHinderNearbyEnemies4",
+                "itemModName": "of Restraint",
+                "itemModLevel": "84",
+                "itemModStat": "Hinders nearby Enemies with (35-40)% reduced Movement Speed if used while not on Full Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalManaFlaskHinderNearbyEnemies1~",
+                "itemModName": "of Interference",
+                "itemModLevel": "30",
+                "itemModStat": "Hinders nearby Enemies with (17-22)% reduced Movement Speed if used while not on Full Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalManaFlaskHinderNearbyEnemies2",
+                "itemModName": "of Obstruction",
+                "itemModLevel": "48",
+                "itemModStat": "Hinders nearby Enemies with (23-28)% reduced Movement Speed if used while not on Full Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalManaFlaskHinderNearbyEnemies3",
+                "itemModName": "of Occlusion",
+                "itemModLevel": "66",
+                "itemModStat": "Hinders nearby Enemies with (29-34)% reduced Movement Speed if used while not on Full Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LocalManaFlaskHinderNearbyEnemies4",
+                "itemModName": "of Restraint",
+                "itemModLevel": "84",
+                "itemModStat": "Hinders nearby Enemies with (35-40)% reduced Movement Speed if used while not on Full Mana"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Reflected Damage taken during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledLocalFlaskReducedReflectDuringEffect",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "(80-60)% reduced Reflected Damage taken during Flask Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% Chance to Avoid being Stunned during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledLocalFlaskAvoidStunChanceDuringFlaskEffect",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "50% Chance to Avoid being Stunned during Flask Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Critical Strike Chance during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledLocalFlaskCriticalStrikeChanceDuringFlaskEffect~",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "(40-60)% increased Critical Strike Chance during Flask Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Rarity of Items found during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledLocalFlaskItemFoundRarityDuringFlaskEffect",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "(20-30)% increased Rarity of Items found during Flask Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% of Damage Taken from Hits is Leeched as Life during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledLocalFlaskLifeLeechOnDamageTakenPermyriadDuringFlaskEffect",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "15% of Damage Taken from Hits is Leeched as Life during Flask Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Regenerate #% of Life per second during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledLocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "Regenerate 3% of Life per second during Flask Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Mana Cost of Skills during Flask Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledLocalFlaskSkillManaCostDuringFlaskEffect",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "(25-20)% reduced Mana Cost of Skills during Flask Effect"
+            }
+        ]
+    }
+]

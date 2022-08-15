@@ -1,0 +1,1647 @@
+[
+    {
+        "itemModHeader": "#% increased Chaos Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chaotic"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChaosDamageJewel",
+                "itemModName": "Chaotic",
+                "itemModLevel": "1",
+                "itemModStat": "(9-13)% increased Chaos Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Critical Strike Chance with Cold Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Avalanching"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdCritChanceJewel",
+                "itemModName": "Avalanching",
+                "itemModLevel": "1",
+                "itemModStat": "(14-18)% increased Critical Strike Chance with Cold Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Critical Strike Multiplier with Cold Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Arctic"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdCritMultiplier",
+                "itemModName": "Arctic",
+                "itemModLevel": "1",
+                "itemModStat": "+(15-18)% to Critical Strike Multiplier with Cold Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Cold Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Chilling"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdDamageJewel",
+                "itemModName": "Chilling",
+                "itemModLevel": "1",
+                "itemModStat": "(14-16)% increased Cold Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damaging Ailments deal damage #% faster",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Decrepifying"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FasterAilmentDamageJewel",
+                "itemModName": "Decrepifying",
+                "itemModLevel": "1",
+                "itemModStat": "Damaging Ailments deal damage (4-6)% faster"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Critical Strike Chance with Fire Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Incinerating"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireCritChanceJewel",
+                "itemModName": "Incinerating",
+                "itemModLevel": "1",
+                "itemModStat": "(14-18)% increased Critical Strike Chance with Fire Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Critical Strike Multiplier with Fire Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Infernal"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireCritMultiplier",
+                "itemModName": "Infernal",
+                "itemModLevel": "1",
+                "itemModStat": "+(15-18)% to Critical Strike Multiplier with Fire Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Fire Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Flaming"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireDamageJewel",
+                "itemModName": "Flaming",
+                "itemModLevel": "1",
+                "itemModStat": "(14-16)% increased Fire Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FormBlock",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Parrying",
+            "Shielding",
+            "Deflecting"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BlockDualWieldingJewel",
+                "itemModName": "Parrying",
+                "itemModLevel": "1",
+                "itemModStat": "+1% Chance to Block Attack Damage while Dual Wielding"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BlockShieldJewel",
+                "itemModName": "Shielding",
+                "itemModLevel": "1",
+                "itemModStat": "+1% Chance to Block Attack Damage while holding a Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BlockStaffJewel",
+                "itemModName": "Deflecting",
+                "itemModLevel": "1",
+                "itemModStat": "+1% Chance to Block Attack Damage while wielding a Staff"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: FormSpellBlock",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Dissipating",
+            "Thwarting",
+            "Halting"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DualWieldingSpellBlockForJewel",
+                "itemModName": "Dissipating",
+                "itemModLevel": "1",
+                "itemModStat": "+1% Chance to Block Spell Damage while Dual Wielding"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ShieldSpellBlockJewel",
+                "itemModName": "Thwarting",
+                "itemModLevel": "1",
+                "itemModStat": "+1% Chance to Block Spell Damage while holding a Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:StaffSpellBlockJewel",
+                "itemModName": "Halting",
+                "itemModLevel": "1",
+                "itemModStat": "+1% Chance to Block Spell Damage while wielding a Staff"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Armour",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Armoured"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedArmourJewel",
+                "itemModName": "Armoured",
+                "itemModLevel": "1",
+                "itemModStat": "(14-18)% increased Armour"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Totem Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Carved"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:TotemLifeJewel",
+                "itemModName": "Carved",
+                "itemModLevel": "1",
+                "itemModStat": "(8-12)% increased Totem Life"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% of Physical Attack Damage Leeched as Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Hungering"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeLeechPermyriadJewel",
+                "itemModName": "Hungering",
+                "itemModLevel": "1",
+                "itemModStat": "(0.2-0.4)% of Physical Attack Damage Leeched as Life"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Critical Strike Chance with Lightning Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Thundering"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningCritChanceJewel",
+                "itemModName": "Thundering",
+                "itemModLevel": "1",
+                "itemModStat": "(14-18)% increased Critical Strike Chance with Lightning Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Critical Strike Multiplier with Lightning Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Surging"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningCritMultiplier",
+                "itemModName": "Surging",
+                "itemModLevel": "1",
+                "itemModStat": "+(15-18)% to Critical Strike Multiplier with Lightning Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Lightning Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Humming"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningDamageJewel",
+                "itemModName": "Humming",
+                "itemModLevel": "1",
+                "itemModStat": "(14-16)% increased Lightning Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Mana Regeneration Rate",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Energetic"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedManaRegenJewel",
+                "itemModName": "Energetic",
+                "itemModLevel": "1",
+                "itemModStat": "(12-15)% increased Mana Regeneration Rate"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased maximum Life",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Vivid"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PercentIncreasedLifeJewel",
+                "itemModName": "Vivid",
+                "itemModLevel": "1",
+                "itemModStat": "(5-7)% increased maximum Life"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased maximum Mana",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Enlightened"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PercentIncreasedManaJewel",
+                "itemModName": "Enlightened",
+                "itemModLevel": "1",
+                "itemModStat": "(8-10)% increased maximum Mana"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: MeleeTypeCritChance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Technical",
+            "Harming",
+            "Sundering"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DualWieldingCritChanceJewel",
+                "itemModName": "Technical",
+                "itemModLevel": "1",
+                "itemModStat": "(14-18)% increased Attack Critical Strike Chance while Dual Wielding"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:OneHandedCritChanceJewel",
+                "itemModName": "Harming",
+                "itemModLevel": "1",
+                "itemModStat": "(14-18)% increased Critical Strike Chance with One Handed Melee Weapons"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:TwoHandedCritChanceJewel",
+                "itemModName": "Sundering",
+                "itemModLevel": "1",
+                "itemModStat": "(14-18)% increased Critical Strike Chance with Two Handed Melee Weapons"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: MeleeTypeCritMultiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Puncturing",
+            "Piercing",
+            "Rupturing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DualWieldingCritMultiplierJewel",
+                "itemModName": "Puncturing",
+                "itemModLevel": "1",
+                "itemModStat": "+(15-18)% to Critical Strike Multiplier while Dual Wielding"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:OneHandCritMultiplierJewel~",
+                "itemModName": "Piercing",
+                "itemModLevel": "1",
+                "itemModStat": "+(15-18)% to Critical Strike Multiplier with One Handed Melee Weapons"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:TwoHandCritMultiplierJewel",
+                "itemModName": "Rupturing",
+                "itemModLevel": "1",
+                "itemModStat": "+(15-18)% to Critical Strike Multiplier with Two Handed Melee Weapons"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: MeleeTypeDamage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Flanking",
+            "Gladiator's",
+            "Soldier's",
+            "Champion's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PhysicalDamageWhileHoldingAShield",
+                "itemModName": "Flanking",
+                "itemModLevel": "1",
+                "itemModStat": "(12-14)% increased Attack Damage while holding a Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DualWieldingMeleeDamageJewel",
+                "itemModName": "Gladiator's",
+                "itemModLevel": "1",
+                "itemModStat": "(12-14)% increased Attack Damage while Dual Wielding"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:OneHandedMeleeDamageJewel",
+                "itemModName": "Soldier's",
+                "itemModLevel": "1",
+                "itemModStat": "(12-14)% increased Damage with One Handed Weapons"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:TwoHandedMeleeDamageJewel",
+                "itemModName": "Champion's",
+                "itemModLevel": "1",
+                "itemModStat": "(12-14)% increased Damage with Two Handed Weapons"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: MeleeTypeSpeed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Harmonic",
+            "Charging",
+            "Bandit's",
+            "Warrior's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DualWieldingAttackSpeedJewel",
+                "itemModName": "Harmonic",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% increased Attack Speed while Dual Wielding"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ShieldAttackSpeedJewel",
+                "itemModName": "Charging",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% increased Attack Speed while holding a Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:OneHandedMeleeAttackSpeedJewel",
+                "itemModName": "Bandit's",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% increased Attack Speed with One Handed Melee Weapons"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:TwoHandedMeleeAttackSpeedJewel",
+                "itemModName": "Warrior's",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% increased Attack Speed with Two Handed Melee Weapons"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Global Physical Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Sharpened"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PhysicalDamageJewel",
+                "itemModName": "Sharpened",
+                "itemModLevel": "1",
+                "itemModStat": "(14-16)% increased Global Physical Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SpecificWeaponDamage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Sinister",
+            "Brutal",
+            "Judging",
+            "Vicious"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AxeDamageJewel",
+                "itemModName": "Sinister",
+                "itemModLevel": "1",
+                "itemModStat": "(14-16)% increased Damage with Axes"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MaceDamageJewel",
+                "itemModName": "Brutal",
+                "itemModLevel": "1",
+                "itemModStat": "(14-16)% increased Damage with Maces or Sceptres"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:StaffDamageJewel",
+                "itemModName": "Judging",
+                "itemModLevel": "1",
+                "itemModStat": "(14-16)% increased Damage with Staves"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:SwordDamageJewel",
+                "itemModName": "Vicious",
+                "itemModLevel": "1",
+                "itemModStat": "(14-16)% increased Damage with Swords"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: SpecificWeaponSpeed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Cleaving",
+            "Beating",
+            "Blunt",
+            "Fencing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AxeAttackSpeedJewel",
+                "itemModName": "Cleaving",
+                "itemModLevel": "1",
+                "itemModStat": "(6-8)% increased Attack Speed with Axes"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MaceAttackSpeedJewel",
+                "itemModName": "Beating",
+                "itemModLevel": "1",
+                "itemModStat": "(6-8)% increased Attack Speed with Maces or Sceptres"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:StaffAttackSpeedJewel",
+                "itemModName": "Blunt",
+                "itemModLevel": "1",
+                "itemModStat": "(6-8)% increased Attack Speed with Staves"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:SwordAttackSpeedJewel",
+                "itemModName": "Fencing",
+                "itemModLevel": "1",
+                "itemModStat": "(6-8)% increased Attack Speed with Swords"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Totem Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "Shaman's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:TotemDamageJewel",
+                "itemModName": "Shaman's",
+                "itemModLevel": "1",
+                "itemModStat": "(12-16)% increased Totem Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: AilmentChanceAndDuration",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Bleeding",
+            "of Freezing",
+            "of Burning",
+            "of Poisoning",
+            "of Shocking"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BleedChanceAndDurationForJewel~~",
+                "itemModName": "of Bleeding",
+                "itemModLevel": "1",
+                "itemModStat": "Attacks have (3-5)% chance to cause Bleeding, (12-16)% increased Bleeding Duration"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FreezeChanceAndDurationJewel",
+                "itemModName": "of Freezing",
+                "itemModLevel": "1",
+                "itemModStat": "(3-5)% chance to Freeze, (12-16)% increased Freeze Duration on Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IgniteChanceAndDurationJewel",
+                "itemModName": "of Burning",
+                "itemModLevel": "1",
+                "itemModStat": "(3-5)% chance to Ignite, (6-8)% increased Ignite Duration on Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PoisonChanceAndDurationForJewel",
+                "itemModName": "of Poisoning",
+                "itemModLevel": "1",
+                "itemModStat": "(3-5)% chance to Poison on Hit, (6-8)% increased Poison Duration"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ShockChanceAndDurationJewel",
+                "itemModName": "of Shocking",
+                "itemModLevel": "1",
+                "itemModStat": "(3-5)% chance to Shock, (12-16)% increased Shock Duration on Enemies"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to all Attributes",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Adaption"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllAttributesJewel",
+                "itemModName": "of Adaption",
+                "itemModLevel": "1",
+                "itemModStat": "+(6-8) to all Attributes"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to all Elemental Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Resistance"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllResistancesJewel",
+                "itemModName": "of Resistance",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-10)% to all Elemental Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Area Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Blasting"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AreaDamageJewel",
+                "itemModName": "of Blasting",
+                "itemModLevel": "1",
+                "itemModStat": "(10-12)% increased Area Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Attack and Cast Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Zeal"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AttackAndCastSpeedJewel",
+                "itemModName": "of Zeal",
+                "itemModLevel": "1",
+                "itemModStat": "(2-4)% increased Attack and Cast Speed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage with Bleeding",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Haemophilia"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BleedDamageForJewel",
+                "itemModName": "of Haemophilia",
+                "itemModLevel": "1",
+                "itemModStat": "(16-20)% increased Damage with Bleeding"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Burning Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Combusting"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BurningDamageForJewel",
+                "itemModName": "of Combusting",
+                "itemModLevel": "1",
+                "itemModStat": "(16-20)% increased Burning Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Chaos Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChaosResistanceJewel",
+                "itemModName": "of Order",
+                "itemModLevel": "1",
+                "itemModStat": "+(7-13)% to Chaos Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Effect of Chill and Shock on you",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Insulation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChillAndShockEffectOnYouJewel",
+                "itemModName": "of Insulation",
+                "itemModLevel": "1",
+                "itemModStat": "15% reduced Effect of Chill and Shock on you"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Cold and Lightning Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Shelter"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdLightningResistanceJewel",
+                "itemModName": "of Shelter",
+                "itemModLevel": "1",
+                "itemModStat": "+(10-12)% to Cold and Lightning Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Beast"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResistanceJewel",
+                "itemModName": "of the Beast",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-15)% to Cold Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Global Critical Strike Chance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Menace"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeChanceJewel",
+                "itemModName": "of Menace",
+                "itemModLevel": "1",
+                "itemModStat": "(8-12)% increased Global Critical Strike Chance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Global Critical Strike Multiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Potency"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeMultiplierJewel",
+                "itemModName": "of Potency",
+                "itemModLevel": "1",
+                "itemModStat": "+(9-12)% to Global Critical Strike Multiplier"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: DamageForm",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Wounding",
+            "of Combat",
+            "of Archery"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DamageJewel",
+                "itemModName": "of Wounding",
+                "itemModLevel": "1",
+                "itemModStat": "(8-10)% increased Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MeleeDamageJewel~",
+                "itemModName": "of Combat",
+                "itemModLevel": "1",
+                "itemModStat": "(10-12)% increased Melee Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ProjectileDamageJewel",
+                "itemModName": "of Archery",
+                "itemModLevel": "1",
+                "itemModStat": "(10-12)% increased Projectile Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Mod group: DamageOverTimeMultiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Zealousness",
+            "of Exsanguinating"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JewelFireDamageOverTimeMultiplier1",
+                "itemModName": "of Zealousness",
+                "itemModLevel": "1",
+                "itemModStat": "+(6-8)% to Fire Damage over Time Multiplier"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JewelPhysicalDamageOverTimeMultiplier1",
+                "itemModName": "of Exsanguinating",
+                "itemModLevel": "1",
+                "itemModStat": "+(6-8)% to Physical Damage over Time Multiplier"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage over Time",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Entropy"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DamageOverTimeJewel",
+                "itemModName": "of Entropy",
+                "itemModLevel": "1",
+                "itemModStat": "(10-12)% increased Damage over Time"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Dexterity"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DexterityJewel",
+                "itemModName": "of Dexterity",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-16) to Dexterity"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Dexterity and Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Cunning"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DexterityIntelligenceJewel",
+                "itemModName": "of Cunning",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-10) to Dexterity and Intelligence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Critical Strike Chance with Elemental Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Apocalypse"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ElementalCritChanceJewel",
+                "itemModName": "of the Apocalypse",
+                "itemModLevel": "1",
+                "itemModStat": "(10-14)% increased Critical Strike Chance with Elemental Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Critical Strike Multiplier with Elemental Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Elements"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ElementalCritMultiplier",
+                "itemModName": "of the Elements",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-15)% to Critical Strike Multiplier with Elemental Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire and Cold Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Hearth"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireColdResistanceJewel",
+                "itemModName": "of the Hearth",
+                "itemModLevel": "1",
+                "itemModStat": "+(10-12)% to Fire and Cold Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire and Lightning Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Insulation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireLightningResistanceJewel",
+                "itemModName": "of Insulation",
+                "itemModLevel": "1",
+                "itemModStat": "+(10-12)% to Fire and Lightning Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of the Dragon"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResistanceJewel",
+                "itemModName": "of the Dragon",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-15)% to Fire Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Melee Critical Strike Chance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Weight"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MeleeCritChanceJewel",
+                "itemModName": "of Weight",
+                "itemModLevel": "1",
+                "itemModStat": "(10-14)% increased Melee Critical Strike Chance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Melee Critical Strike Multiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Demolishing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MeleeCritMultiplier",
+                "itemModName": "of Demolishing",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-15)% to Melee Critical Strike Multiplier"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Damage over Time Multiplier",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Acrimony"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JewelGlobalDamageOverTimeMultiplier1",
+                "itemModName": "of Acrimony",
+                "itemModLevel": "1",
+                "itemModStat": "+(4-6)% to Damage over Time Multiplier"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Impale Enemies on Hit with Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Impaling"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ImpaleChanceForJewel~",
+                "itemModName": "of Impaling",
+                "itemModLevel": "1",
+                "itemModStat": "(5-7)% chance to Impale Enemies on Hit with Attacks"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Attack Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Berserking"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AttackSpeedJewel",
+                "itemModName": "of Berserking",
+                "itemModLevel": "1",
+                "itemModStat": "(3-5)% increased Attack Speed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Intelligence"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IntelligenceJewel",
+                "itemModName": "of Intelligence",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-16) to Intelligence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Rarity of Items found",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Raiding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemRarityJewel",
+                "itemModName": "of Raiding",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% increased Rarity of Items found"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Knock Enemies Back on hit",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Fending"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:KnockbackChanceJewel~",
+                "itemModName": "of Fending",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% chance to Knock Enemies Back on hit"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# Life gained for each Enemy hit by your Attacks",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Rejuvenation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeOnHitJewel",
+                "itemModName": "of Rejuvenation",
+                "itemModLevel": "1",
+                "itemModStat": "+(2-3) Life gained for each Enemy hit by your Attacks"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+#% to Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Grounding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResistanceJewel",
+                "itemModName": "of Grounding",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-15)% to Lightning Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Mana Cost of Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Efficiency"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaCostReductionJewel",
+                "itemModName": "of Efficiency",
+                "itemModLevel": "1",
+                "itemModStat": "(3-5)% reduced Mana Cost of Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage with Poison",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Venom"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PoisonDamageForJewel",
+                "itemModName": "of Venom",
+                "itemModLevel": "1",
+                "itemModStat": "(16-20)% increased Damage with Poison"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Projectile Speed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Soaring"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ProjectileSpeedJewel",
+                "itemModName": "of Soaring",
+                "itemModLevel": "1",
+                "itemModStat": "(6-8)% increased Projectile Speed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% reduced Effect of Curses on you",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Hexwarding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseEffectOnYouJewel",
+                "itemModName": "of Hexwarding",
+                "itemModLevel": "1",
+                "itemModStat": "10% reduced Effect of Curses on you"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Strength"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:StrengthJewel",
+                "itemModName": "of Strength",
+                "itemModLevel": "1",
+                "itemModStat": "+(12-16) to Strength"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength and Dexterity",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Athletics"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:StrengthDexterityJewel",
+                "itemModName": "of Athletics",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-10) to Strength and Dexterity"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "+# to Strength and Intelligence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Spirit"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:StrengthIntelligenceJewel",
+                "itemModName": "of Spirit",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-10) to Strength and Intelligence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Stun Duration on Enemies",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Stunning"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:StunDurationJewel",
+                "itemModName": "of Stunning",
+                "itemModLevel": "1",
+                "itemModStat": "(10-14)% increased Stun Duration on Enemies"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Stun and Block Recovery",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Recovery"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:StunRecoveryJewel",
+                "itemModName": "of Recovery",
+                "itemModLevel": "1",
+                "itemModStat": "(10-14)% increased Stun and Block Recovery"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Totems gain +#% to all Elemental Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "of Runes"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:TotemElementalResistancesJewel",
+                "itemModName": "of Runes",
+                "itemModLevel": "1",
+                "itemModStat": "Totems gain +(6-10)% to all Elemental Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Area of Effect",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AreaOfEffect"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAreaOfEffectCorrupted",
+                "itemModName": "AreaOfEffect",
+                "itemModLevel": "1",
+                "itemModStat": "(4-5)% increased Area of Effect"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Overwhelm #% Physical Damage Reduction",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ArmourPenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ArmourPenetrationJewelCorrupted",
+                "itemModName": "ArmourPenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Overwhelm 2% Physical Damage Reduction"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Ignited",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidIgnite"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidIgniteJewelCorrupted",
+                "itemModName": "AvoidIgnite",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Ignited"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Maimed",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidMaimChance"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2MaimImmunityCorrupted",
+                "itemModName": "AvoidMaimChance",
+                "itemModLevel": "40",
+                "itemModStat": "You cannot be Maimed"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Shocked",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidShock"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidShockJewelCorrupted~",
+                "itemModName": "AvoidShock",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Shocked"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Stunned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "AvoidStun"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidStunJewelCorrupted~",
+                "itemModName": "AvoidStun",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Stunned"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid Bleeding",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidBleeding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidBleedJewelCorrupted~~",
+                "itemModName": "ChanceToAvoidBleeding",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid Bleeding"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Chilled, #% chance to Avoid being Frozen",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidFreezeAndChill"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidChillAndFreezeJewelCorrupted",
+                "itemModName": "ChanceToAvoidFreezeAndChill",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Chilled, (20-25)% chance to Avoid being Frozen"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% chance to Avoid being Poisoned",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ChanceToAvoidPoison"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidPoisonJewelCorrupted",
+                "itemModName": "ChanceToAvoidPoison",
+                "itemModLevel": "1",
+                "itemModStat": "(20-25)% chance to Avoid being Poisoned"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Cold Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ColdResistancePenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ColdPenetrationJewelCorrupted",
+                "itemModName": "ColdResistancePenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Damage Penetrates 1% Cold Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Corrupted Blood cannot be inflicted on you",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CorruptedBloodImmunity"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2CorruptedBloodImmunityCorrupted",
+                "itemModName": "CorruptedBloodImmunity",
+                "itemModLevel": "33",
+                "itemModStat": "Corrupted Blood cannot be inflicted on you"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Global Critical Strike Chance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "CriticalStrikeChance"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedCriticalStrikeChanceCorrupted~",
+                "itemModName": "CriticalStrikeChance",
+                "itemModLevel": "1",
+                "itemModStat": "(8-10)% increased Global Critical Strike Chance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Elemental Resistances",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ElementalPenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ElementalPenetrationJewelCorrupted~",
+                "itemModName": "ElementalPenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Damage Penetrates 1% Elemental Resistances"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Fire Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "FireResistancePenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2FirePenetrationJewelCorrupted",
+                "itemModName": "FireResistancePenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Damage Penetrates 1% Fire Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Effect of Non-Damaging Ailments",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedAilmentEffectOnEnemies"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAilmentEffectOnEnemiesCorrupted",
+                "itemModName": "IncreasedAilmentEffectOnEnemies",
+                "itemModLevel": "1",
+                "itemModStat": "(5-7)% increased Effect of Non-Damaging Ailments"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "IncreasedDamage"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedDamageJewelCorrupted_~~_~~",
+                "itemModName": "IncreasedDamage",
+                "itemModLevel": "1",
+                "itemModStat": "(4-5)% increased Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Damage Penetrates #% Lightning Resistance",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "LightningResistancePenetration"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2LightningPenetrationJewelCorrupted~~",
+                "itemModName": "LightningResistancePenetration",
+                "itemModLevel": "1",
+                "itemModStat": "Damage Penetrates 1% Lightning Resistance"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "Minions deal #% increased Damage",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "MinionDamage"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2MinionDamageCorrupted",
+                "itemModName": "MinionDamage",
+                "itemModLevel": "1",
+                "itemModStat": "Minions deal (4-5)% increased Damage"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Cursed with Silence",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ImmuneToSilence"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2SilenceImmunityJewelCorrupted",
+                "itemModName": "ImmuneToSilence",
+                "itemModLevel": "60",
+                "itemModStat": "You cannot be Cursed with Silence"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "#% increased Reservation Efficiency of Skills",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "ReservationEfficiencyForJewel"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ReducedManaReservationCorruptedEfficiency~~",
+                "itemModName": "ReservationEfficiencyForJewel",
+                "itemModLevel": "1",
+                "itemModStat": "2% increased Reservation Efficiency of Skills"
+            }
+        ]
+    },
+    {
+        "itemModHeader": "You cannot be Hindered",
+        "itemModClass": "",
+        "itemModInfluence": null,
+        "itemModTiers": [
+            "YouCannotBeHindered"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2HinderImmunityCorrupted",
+                "itemModName": "YouCannotBeHindered",
+                "itemModLevel": "40",
+                "itemModStat": "You cannot be Hindered"
+            }
+        ]
+    }
+]

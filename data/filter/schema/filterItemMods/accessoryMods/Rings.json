@@ -13,6 +13,62 @@
             "Glaciated",
             "Polar",
             "Entombing"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage1",
+                "itemModName": "Frosted",
+                "itemModLevel": "2",
+                "itemModStat": "Adds 1 to 2 Cold Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage2",
+                "itemModName": "Chilled",
+                "itemModLevel": "13",
+                "itemModStat": "Adds (3-4) to (7-8) Cold Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage3",
+                "itemModName": "Icy",
+                "itemModLevel": "21",
+                "itemModStat": "Adds (5-7) to (10-12) Cold Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage4",
+                "itemModName": "Frigid",
+                "itemModLevel": "29",
+                "itemModStat": "Adds (6-9) to (13-16) Cold Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage5",
+                "itemModName": "Freezing",
+                "itemModLevel": "36",
+                "itemModStat": "Adds (8-11) to (16-19) Cold Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage6",
+                "itemModName": "Frozen",
+                "itemModLevel": "45",
+                "itemModStat": "Adds (10-13) to (20-24) Cold Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage7",
+                "itemModName": "Glaciated",
+                "itemModLevel": "53",
+                "itemModStat": "Adds (12-16) to (24-28) Cold Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage8",
+                "itemModName": "Polar",
+                "itemModLevel": "65",
+                "itemModStat": "Adds (14-19) to (29-34) Cold Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamage9",
+                "itemModName": "Entombing",
+                "itemModLevel": "77",
+                "itemModStat": "Adds (17-22) to (34-40) Cold Damage to Attacks"
+            }
         ]
     },
     {
@@ -29,6 +85,62 @@
             "Incinerating",
             "Blasting",
             "Cremating"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage1",
+                "itemModName": "Heated",
+                "itemModLevel": "1",
+                "itemModStat": "Adds 1 to 2 Fire Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage2",
+                "itemModName": "Smouldering",
+                "itemModLevel": "12",
+                "itemModStat": "Adds (3-5) to (7-8) Fire Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage3",
+                "itemModName": "Smoking",
+                "itemModLevel": "20",
+                "itemModStat": "Adds (5-7) to (11-13) Fire Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage4",
+                "itemModName": "Burning",
+                "itemModLevel": "28",
+                "itemModStat": "Adds (7-10) to (15-18) Fire Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage5",
+                "itemModName": "Flaming",
+                "itemModLevel": "35",
+                "itemModStat": "Adds (9-12) to (19-22) Fire Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage6",
+                "itemModName": "Scorching",
+                "itemModLevel": "44",
+                "itemModStat": "Adds (11-15) to (23-27) Fire Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage7",
+                "itemModName": "Incinerating",
+                "itemModLevel": "52",
+                "itemModStat": "Adds (13-18) to (27-31) Fire Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage8",
+                "itemModName": "Blasting",
+                "itemModLevel": "64",
+                "itemModStat": "Adds (16-22) to (32-38) Fire Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamage9",
+                "itemModName": "Cremating",
+                "itemModLevel": "76",
+                "itemModStat": "Adds (19-25) to (39-45) Fire Damage to Attacks"
+            }
         ]
     },
     {
@@ -47,6 +159,74 @@
             "Scintillating",
             "Incandescent",
             "Resplendent"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield1",
+                "itemModName": "Shining",
+                "itemModLevel": "3",
+                "itemModStat": "+(1-3) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield2",
+                "itemModName": "Glimmering",
+                "itemModLevel": "11",
+                "itemModStat": "+(4-8) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield3",
+                "itemModName": "Glittering",
+                "itemModLevel": "17",
+                "itemModStat": "+(9-12) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield4",
+                "itemModName": "Glowing",
+                "itemModLevel": "23",
+                "itemModStat": "+(13-15) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield5",
+                "itemModName": "Radiating",
+                "itemModLevel": "29",
+                "itemModStat": "+(16-19) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield6",
+                "itemModName": "Pulsing",
+                "itemModLevel": "35",
+                "itemModStat": "+(20-22) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield7",
+                "itemModName": "Seething",
+                "itemModLevel": "42",
+                "itemModStat": "+(23-26) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield8",
+                "itemModName": "Blazing",
+                "itemModLevel": "50",
+                "itemModStat": "+(27-31) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield9",
+                "itemModName": "Scintillating",
+                "itemModLevel": "59",
+                "itemModStat": "+(32-37) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield10",
+                "itemModName": "Incandescent",
+                "itemModLevel": "68",
+                "itemModStat": "+(38-43) to maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEnergyShield11",
+                "itemModName": "Resplendent",
+                "itemModLevel": "74",
+                "itemModStat": "+(44-47) to maximum Energy Shield"
+            }
         ]
     },
     {
@@ -61,6 +241,50 @@
             "Blurred",
             "Phased",
             "Vaporous"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEvasionRating1",
+                "itemModName": "Agile",
+                "itemModLevel": "1",
+                "itemModStat": "+(3-10) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEvasionRating2",
+                "itemModName": "Dancer's",
+                "itemModLevel": "18",
+                "itemModStat": "+(11-35) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEvasionRating3",
+                "itemModName": "Acrobat's",
+                "itemModLevel": "29",
+                "itemModStat": "+(36-60) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEvasionRating4",
+                "itemModName": "Fleet",
+                "itemModLevel": "42",
+                "itemModStat": "+(61-80) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEvasionRating5",
+                "itemModName": "Blurred",
+                "itemModLevel": "58",
+                "itemModStat": "+(81-120) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEvasionRating6",
+                "itemModName": "Phased",
+                "itemModLevel": "72",
+                "itemModStat": "+(121-150) to Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedEvasionRating7",
+                "itemModName": "Vaporous",
+                "itemModLevel": "84",
+                "itemModStat": "+(151-170) to Evasion Rating"
+            }
         ]
     },
     {
@@ -76,6 +300,56 @@
             "Robust",
             "Rotund",
             "Virile"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLife0",
+                "itemModName": "Hale",
+                "itemModLevel": "1",
+                "itemModStat": "+(3-9) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLife1",
+                "itemModName": "Healthy",
+                "itemModLevel": "5",
+                "itemModStat": "+(10-19) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLife2",
+                "itemModName": "Sanguine",
+                "itemModLevel": "11",
+                "itemModStat": "+(20-29) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLife3",
+                "itemModName": "Stalwart",
+                "itemModLevel": "18",
+                "itemModStat": "+(30-39) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLife4",
+                "itemModName": "Stout",
+                "itemModLevel": "24",
+                "itemModStat": "+(40-49) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLife5",
+                "itemModName": "Robust",
+                "itemModLevel": "30",
+                "itemModStat": "+(50-59) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLife6",
+                "itemModName": "Rotund",
+                "itemModLevel": "36",
+                "itemModStat": "+(60-69) to maximum Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLife7",
+                "itemModName": "Virile",
+                "itemModLevel": "44",
+                "itemModStat": "+(70-79) to maximum Life"
+            }
         ]
     },
     {
@@ -96,6 +370,86 @@
             "Blue",
             "Zaffre",
             "Ultramarine"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana1",
+                "itemModName": "Beryl",
+                "itemModLevel": "1",
+                "itemModStat": "+(15-19) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana2",
+                "itemModName": "Cobalt",
+                "itemModLevel": "11",
+                "itemModStat": "+(20-24) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana3",
+                "itemModName": "Azure",
+                "itemModLevel": "17",
+                "itemModStat": "+(25-29) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana4",
+                "itemModName": "Sapphire",
+                "itemModLevel": "23",
+                "itemModStat": "+(30-34) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana5",
+                "itemModName": "Cerulean",
+                "itemModLevel": "29",
+                "itemModStat": "+(35-39) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana6",
+                "itemModName": "Aqua",
+                "itemModLevel": "35",
+                "itemModStat": "+(40-44) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana7",
+                "itemModName": "Opalescent",
+                "itemModLevel": "42",
+                "itemModStat": "+(45-49) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana8",
+                "itemModName": "Gentian",
+                "itemModLevel": "51",
+                "itemModStat": "+(50-54) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana9",
+                "itemModName": "Chalybeous",
+                "itemModLevel": "60",
+                "itemModStat": "+(55-59) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana10",
+                "itemModName": "Mazarine",
+                "itemModLevel": "69",
+                "itemModStat": "+(60-64) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana11",
+                "itemModName": "Blue",
+                "itemModLevel": "75",
+                "itemModStat": "+(65-68) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana12",
+                "itemModName": "Zaffre",
+                "itemModLevel": "81",
+                "itemModStat": "+(69-73) to maximum Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedMana13",
+                "itemModName": "Ultramarine",
+                "itemModLevel": "85",
+                "itemModStat": "+(74-78) to maximum Mana"
+            }
         ]
     },
     {
@@ -108,6 +462,38 @@
             "Empowering",
             "Unleashed",
             "Overpowering"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:WeaponElementalDamage1",
+                "itemModName": "Catalysing",
+                "itemModLevel": "4",
+                "itemModStat": "(5-10)% increased Elemental Damage with Attack Skills"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:WeaponElementalDamage2",
+                "itemModName": "Infusing",
+                "itemModLevel": "15",
+                "itemModStat": "(11-20)% increased Elemental Damage with Attack Skills"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:WeaponElementalDamage3",
+                "itemModName": "Empowering",
+                "itemModLevel": "30",
+                "itemModStat": "(21-30)% increased Elemental Damage with Attack Skills"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:WeaponElementalDamage4",
+                "itemModName": "Unleashed",
+                "itemModLevel": "60",
+                "itemModStat": "(31-36)% increased Elemental Damage with Attack Skills"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:WeaponElementalDamage5",
+                "itemModName": "Overpowering",
+                "itemModLevel": "81",
+                "itemModStat": "(37-42)% increased Elemental Damage with Attack Skills"
+            }
         ]
     },
     {
@@ -119,6 +505,32 @@
             "Pirate's",
             "Dragon's",
             "Perandus'"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemFoundRarityIncreasePrefix1",
+                "itemModName": "Magpie's",
+                "itemModLevel": "20",
+                "itemModStat": "(8-12)% increased Rarity of Items found"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemFoundRarityIncreasePrefix2",
+                "itemModName": "Pirate's",
+                "itemModLevel": "39",
+                "itemModStat": "(13-18)% increased Rarity of Items found"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemFoundRarityIncreasePrefix3",
+                "itemModName": "Dragon's",
+                "itemModLevel": "62",
+                "itemModStat": "(19-24)% increased Rarity of Items found"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemFoundRarityIncreasePrefix4~",
+                "itemModName": "Perandus'",
+                "itemModLevel": "84",
+                "itemModStat": "(25-28)% increased Rarity of Items found"
+            }
         ]
     },
     {
@@ -127,6 +539,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "Remora's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeLeechPermyriad1",
+                "itemModName": "Remora's",
+                "itemModLevel": "50",
+                "itemModStat": "(0.2-0.4)% of Physical Attack Damage Leeched as Life"
+            }
         ]
     },
     {
@@ -143,6 +563,62 @@
             "Shocking",
             "Discharging",
             "Electrocuting"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage1",
+                "itemModName": "Humming",
+                "itemModLevel": "3",
+                "itemModStat": "Adds 1 to 5 Lightning Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage2",
+                "itemModName": "Buzzing",
+                "itemModLevel": "13",
+                "itemModStat": "Adds 1 to (14-15) Lightning Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage3",
+                "itemModName": "Snapping",
+                "itemModLevel": "22",
+                "itemModStat": "Adds (1-2) to (22-23) Lightning Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage4",
+                "itemModName": "Crackling",
+                "itemModLevel": "28",
+                "itemModStat": "Adds (1-2) to (27-28) Lightning Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage5",
+                "itemModName": "Sparking",
+                "itemModLevel": "35",
+                "itemModStat": "Adds (1-3) to (33-34) Lightning Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage6",
+                "itemModName": "Arcing",
+                "itemModLevel": "44",
+                "itemModStat": "Adds (1-4) to (40-43) Lightning Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage7",
+                "itemModName": "Shocking",
+                "itemModLevel": "52",
+                "itemModStat": "Adds (2-5) to (47-50) Lightning Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage8",
+                "itemModName": "Discharging",
+                "itemModLevel": "64",
+                "itemModStat": "Adds (3-6) to (57-61) Lightning Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamage9",
+                "itemModName": "Electrocuting",
+                "itemModLevel": "76",
+                "itemModStat": "Adds (3-7) to (68-72) Lightning Damage to Attacks"
+            }
         ]
     },
     {
@@ -151,6 +627,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "Thirsty"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaLeechPermyriad1",
+                "itemModName": "Thirsty",
+                "itemModLevel": "50",
+                "itemModStat": "(0.2-0.4)% of Physical Attack Damage Leeched as Mana"
+            }
         ]
     },
     {
@@ -164,6 +648,44 @@
             "Honed",
             "Gleaming",
             "Annealed"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedPhysicalDamage1",
+                "itemModName": "Glinting",
+                "itemModLevel": "5",
+                "itemModStat": "Adds 1 to 2 Physical Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedPhysicalDamage2",
+                "itemModName": "Burnished",
+                "itemModLevel": "13",
+                "itemModStat": "Adds (2-3) to (4-5) Physical Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedPhysicalDamage3",
+                "itemModName": "Polished",
+                "itemModLevel": "19",
+                "itemModStat": "Adds (3-4) to (6-7) Physical Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedPhysicalDamage4",
+                "itemModName": "Honed",
+                "itemModLevel": "28",
+                "itemModStat": "Adds (4-6) to (9-10) Physical Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedPhysicalDamage5",
+                "itemModName": "Gleaming",
+                "itemModLevel": "35",
+                "itemModStat": "Adds (5-7) to (11-12) Physical Damage to Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedPhysicalDamage6",
+                "itemModName": "Annealed",
+                "itemModLevel": "44",
+                "itemModStat": "Adds (6-9) to (13-15) Physical Damage to Attacks"
+            }
         ]
     },
     {
@@ -175,6 +697,32 @@
             "of the Sky",
             "of the Meteor",
             "of the Comet"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllAttributes1",
+                "itemModName": "of the Clouds",
+                "itemModLevel": "1",
+                "itemModStat": "+(1-4) to all Attributes"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllAttributes2",
+                "itemModName": "of the Sky",
+                "itemModLevel": "11",
+                "itemModStat": "+(5-8) to all Attributes"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllAttributes3",
+                "itemModName": "of the Meteor",
+                "itemModLevel": "22",
+                "itemModStat": "+(9-12) to all Attributes"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllAttributes4",
+                "itemModName": "of the Comet",
+                "itemModLevel": "33",
+                "itemModStat": "+(13-16) to all Attributes"
+            }
         ]
     },
     {
@@ -187,6 +735,38 @@
             "of the Kaleidoscope",
             "of Variegation",
             "of the Rainbow"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllResistances1",
+                "itemModName": "of the Crystal",
+                "itemModLevel": "12",
+                "itemModStat": "+(3-5)% to all Elemental Resistances"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllResistances2",
+                "itemModName": "of the Prism",
+                "itemModLevel": "24",
+                "itemModStat": "+(6-8)% to all Elemental Resistances"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllResistances3",
+                "itemModName": "of the Kaleidoscope",
+                "itemModLevel": "36",
+                "itemModStat": "+(9-11)% to all Elemental Resistances"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllResistances4",
+                "itemModName": "of Variegation",
+                "itemModLevel": "48",
+                "itemModStat": "+(12-14)% to all Elemental Resistances"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AllResistances5",
+                "itemModName": "of the Rainbow",
+                "itemModLevel": "60",
+                "itemModStat": "+(15-16)% to all Elemental Resistances"
+            }
         ]
     },
     {
@@ -200,6 +780,44 @@
             "of Expulsion",
             "of Exile",
             "of Bameth"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChaosResist1",
+                "itemModName": "of the Lost",
+                "itemModLevel": "16",
+                "itemModStat": "+(5-10)% to Chaos Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChaosResist2",
+                "itemModName": "of Banishment",
+                "itemModLevel": "30",
+                "itemModStat": "+(11-15)% to Chaos Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChaosResist3",
+                "itemModName": "of Eviction",
+                "itemModLevel": "44",
+                "itemModStat": "+(16-20)% to Chaos Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChaosResist4",
+                "itemModName": "of Expulsion",
+                "itemModLevel": "56",
+                "itemModStat": "+(21-25)% to Chaos Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChaosResist5",
+                "itemModName": "of Exile",
+                "itemModLevel": "65",
+                "itemModStat": "+(26-30)% to Chaos Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChaosResist6",
+                "itemModName": "of Bameth",
+                "itemModLevel": "81",
+                "itemModStat": "+(31-35)% to Chaos Resistance"
+            }
         ]
     },
     {
@@ -211,6 +829,32 @@
             "of Sleet",
             "of Ice",
             "of Rime"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdDamagePercent1",
+                "itemModName": "of Snow",
+                "itemModLevel": "12",
+                "itemModStat": "(3-7)% increased Cold Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdDamagePercent2",
+                "itemModName": "of Sleet",
+                "itemModLevel": "24",
+                "itemModStat": "(8-12)% increased Cold Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdDamagePercent3",
+                "itemModName": "of Ice",
+                "itemModLevel": "36",
+                "itemModStat": "(13-17)% increased Cold Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdDamagePercent4",
+                "itemModName": "of Rime",
+                "itemModLevel": "50",
+                "itemModStat": "(18-22)% increased Cold Damage"
+            }
         ]
     },
     {
@@ -226,6 +870,56 @@
             "of the Polar Bear",
             "of the Ice",
             "of Haast"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResist1",
+                "itemModName": "of the Inuit",
+                "itemModLevel": "1",
+                "itemModStat": "+(6-11)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResist2",
+                "itemModName": "of the Seal",
+                "itemModLevel": "14",
+                "itemModStat": "+(12-17)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResist3",
+                "itemModName": "of the Penguin",
+                "itemModLevel": "26",
+                "itemModStat": "+(18-23)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResist4",
+                "itemModName": "of the Yeti",
+                "itemModLevel": "38",
+                "itemModStat": "+(24-29)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResist5",
+                "itemModName": "of the Walrus",
+                "itemModLevel": "50",
+                "itemModStat": "+(30-35)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResist6",
+                "itemModName": "of the Polar Bear",
+                "itemModLevel": "60",
+                "itemModStat": "+(36-41)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResist7",
+                "itemModName": "of the Ice",
+                "itemModLevel": "72",
+                "itemModStat": "+(42-45)% to Cold Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ColdResist8",
+                "itemModName": "of Haast",
+                "itemModLevel": "84",
+                "itemModStat": "+(46-48)% to Cold Resistance"
+            }
         ]
     },
     {
@@ -237,6 +931,32 @@
             "of Stitching",
             "of Suturing",
             "of Fleshbinding"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DamageTakenGainedAsLife1_~~_~~",
+                "itemModName": "of Bandaging",
+                "itemModLevel": "44",
+                "itemModStat": "(4-6)% of Damage taken Recouped as Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DamageTakenGainedAsLife2",
+                "itemModName": "of Stitching",
+                "itemModLevel": "56",
+                "itemModStat": "(7-9)% of Damage taken Recouped as Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DamageTakenGainedAsLife3",
+                "itemModName": "of Suturing",
+                "itemModLevel": "68",
+                "itemModStat": "(10-12)% of Damage taken Recouped as Life"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:DamageTakenGainedAsLife4~",
+                "itemModName": "of Fleshbinding",
+                "itemModLevel": "79",
+                "itemModStat": "(13-15)% of Damage taken Recouped as Life"
+            }
         ]
     },
     {
@@ -253,6 +973,62 @@
             "of the Jaguar",
             "of the Phantom",
             "of the Wind"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity1",
+                "itemModName": "of the Mongoose",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-12) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity2",
+                "itemModName": "of the Lynx",
+                "itemModLevel": "11",
+                "itemModStat": "+(13-17) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity3",
+                "itemModName": "of the Fox",
+                "itemModLevel": "22",
+                "itemModStat": "+(18-22) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity4",
+                "itemModName": "of the Falcon",
+                "itemModLevel": "33",
+                "itemModStat": "+(23-27) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity5",
+                "itemModName": "of the Panther",
+                "itemModLevel": "44",
+                "itemModStat": "+(28-32) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity6",
+                "itemModName": "of the Leopard",
+                "itemModLevel": "55",
+                "itemModStat": "+(33-37) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity7",
+                "itemModName": "of the Jaguar",
+                "itemModLevel": "66",
+                "itemModStat": "+(38-42) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity8",
+                "itemModName": "of the Phantom",
+                "itemModLevel": "74",
+                "itemModStat": "+(43-50) to Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Dexterity9",
+                "itemModName": "of the Wind",
+                "itemModLevel": "82",
+                "itemModStat": "+(51-55) to Dexterity"
+            }
         ]
     },
     {
@@ -264,6 +1040,32 @@
             "of Coals",
             "of Cinders",
             "of Flames"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireDamagePercent1",
+                "itemModName": "of Embers",
+                "itemModLevel": "8",
+                "itemModStat": "(3-7)% increased Fire Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireDamagePercent2",
+                "itemModName": "of Coals",
+                "itemModLevel": "22",
+                "itemModStat": "(8-12)% increased Fire Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireDamagePercent3",
+                "itemModName": "of Cinders",
+                "itemModLevel": "36",
+                "itemModStat": "(13-17)% increased Fire Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireDamagePercent4",
+                "itemModName": "of Flames",
+                "itemModLevel": "50",
+                "itemModStat": "(18-22)% increased Fire Damage"
+            }
         ]
     },
     {
@@ -279,6 +1081,56 @@
             "of the Volcano",
             "of the Magma",
             "of Tzteosh"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResist1",
+                "itemModName": "of the Whelpling",
+                "itemModLevel": "1",
+                "itemModStat": "+(6-11)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResist2",
+                "itemModName": "of the Salamander",
+                "itemModLevel": "12",
+                "itemModStat": "+(12-17)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResist3",
+                "itemModName": "of the Drake",
+                "itemModLevel": "24",
+                "itemModStat": "+(18-23)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResist4",
+                "itemModName": "of the Kiln",
+                "itemModLevel": "36",
+                "itemModStat": "+(24-29)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResist5",
+                "itemModName": "of the Furnace",
+                "itemModLevel": "48",
+                "itemModStat": "+(30-35)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResist6",
+                "itemModName": "of the Volcano",
+                "itemModLevel": "60",
+                "itemModStat": "+(36-41)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResist7",
+                "itemModName": "of the Magma",
+                "itemModLevel": "72",
+                "itemModStat": "+(42-45)% to Fire Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:FireResist8",
+                "itemModName": "of Tzteosh",
+                "itemModLevel": "84",
+                "itemModStat": "+(46-48)% to Fire Resistance"
+            }
         ]
     },
     {
@@ -291,6 +1143,38 @@
             "of the Sniper",
             "of the Marksman",
             "of the Ranger"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyNew1~",
+                "itemModName": "of Steadiness",
+                "itemModLevel": "1",
+                "itemModStat": "+(50-100) to Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyNew2",
+                "itemModName": "of Precision",
+                "itemModLevel": "20",
+                "itemModStat": "+(100-165) to Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyNew3",
+                "itemModName": "of the Sniper",
+                "itemModLevel": "40",
+                "itemModStat": "+(166-250) to Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyNew4",
+                "itemModName": "of the Marksman",
+                "itemModLevel": "60",
+                "itemModStat": "+(251-350) to Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyNew5~",
+                "itemModName": "of the Ranger",
+                "itemModLevel": "75",
+                "itemModStat": "+(351-480) to Accuracy Rating"
+            }
         ]
     },
     {
@@ -299,6 +1183,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of Skill"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAttackSpeed1",
+                "itemModName": "of Skill",
+                "itemModLevel": "1",
+                "itemModStat": "(5-7)% increased Attack Speed"
+            }
         ]
     },
     {
@@ -309,6 +1201,26 @@
             "of Talent",
             "of Nimbleness",
             "of Expertise"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedCastSpeed1",
+                "itemModName": "of Talent",
+                "itemModLevel": "2",
+                "itemModStat": "(5-8)% increased Cast Speed"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedCastSpeed2",
+                "itemModName": "of Nimbleness",
+                "itemModLevel": "15",
+                "itemModStat": "(9-12)% increased Cast Speed"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedCastSpeed3",
+                "itemModName": "of Expertise",
+                "itemModLevel": "30",
+                "itemModStat": "(13-16)% increased Cast Speed"
+            }
         ]
     },
     {
@@ -325,6 +1237,62 @@
             "of the Savant",
             "of the Virtuoso",
             "of the Genius"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence1",
+                "itemModName": "of the Pupil",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-12) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence2",
+                "itemModName": "of the Student",
+                "itemModLevel": "11",
+                "itemModStat": "+(13-17) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence3",
+                "itemModName": "of the Prodigy",
+                "itemModLevel": "22",
+                "itemModStat": "+(18-22) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence4",
+                "itemModName": "of the Augur",
+                "itemModLevel": "33",
+                "itemModStat": "+(23-27) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence5",
+                "itemModName": "of the Philosopher",
+                "itemModLevel": "44",
+                "itemModStat": "+(28-32) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence6",
+                "itemModName": "of the Sage",
+                "itemModLevel": "55",
+                "itemModStat": "+(33-37) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence7",
+                "itemModName": "of the Savant",
+                "itemModLevel": "66",
+                "itemModStat": "+(38-42) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence8",
+                "itemModName": "of the Virtuoso",
+                "itemModLevel": "74",
+                "itemModStat": "+(43-50) to Intelligence"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Intelligence9",
+                "itemModName": "of the Genius",
+                "itemModLevel": "82",
+                "itemModStat": "+(51-55) to Intelligence"
+            }
         ]
     },
     {
@@ -336,6 +1304,32 @@
             "of Raiding",
             "of Archaeology",
             "of Excavation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemFoundRarityIncrease1",
+                "itemModName": "of Plunder",
+                "itemModLevel": "3",
+                "itemModStat": "(6-10)% increased Rarity of Items found"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemFoundRarityIncrease2",
+                "itemModName": "of Raiding",
+                "itemModLevel": "30",
+                "itemModStat": "(11-14)% increased Rarity of Items found"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemFoundRarityIncrease3",
+                "itemModName": "of Archaeology",
+                "itemModLevel": "53",
+                "itemModStat": "(15-20)% increased Rarity of Items found"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ItemFoundRarityIncrease4",
+                "itemModName": "of Excavation",
+                "itemModLevel": "75",
+                "itemModStat": "(21-26)% increased Rarity of Items found"
+            }
         ]
     },
     {
@@ -346,6 +1340,26 @@
             "of Success",
             "of Victory",
             "of Triumph"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainedFromEnemyDeath1",
+                "itemModName": "of Success",
+                "itemModLevel": "1",
+                "itemModStat": "+(3-6) Life gained on Kill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainedFromEnemyDeath2",
+                "itemModName": "of Victory",
+                "itemModLevel": "23",
+                "itemModStat": "+(7-10) Life gained on Kill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainedFromEnemyDeath3",
+                "itemModName": "of Triumph",
+                "itemModLevel": "40",
+                "itemModStat": "+(11-14) Life gained on Kill"
+            }
         ]
     },
     {
@@ -354,6 +1368,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of Rejuvenation"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainPerTarget1",
+                "itemModName": "of Rejuvenation",
+                "itemModLevel": "8",
+                "itemModStat": "+2 Life gained for each Enemy hit by your Attacks"
+            }
         ]
     },
     {
@@ -368,6 +1390,50 @@
             "of the Hydra",
             "of the Troll",
             "of Ryslatha"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeRegeneration1",
+                "itemModName": "of the Newt",
+                "itemModLevel": "1",
+                "itemModStat": "Regenerate (1-2) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeRegeneration2",
+                "itemModName": "of the Lizard",
+                "itemModLevel": "7",
+                "itemModStat": "Regenerate (2.1-8) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeRegeneration3",
+                "itemModName": "of the Flatworm",
+                "itemModLevel": "19",
+                "itemModStat": "Regenerate (8.1-16) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeRegeneration4",
+                "itemModName": "of the Starfish",
+                "itemModLevel": "31",
+                "itemModStat": "Regenerate (16.1-24) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeRegeneration5",
+                "itemModName": "of the Hydra",
+                "itemModLevel": "44",
+                "itemModStat": "Regenerate (24.1-32) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeRegeneration6",
+                "itemModName": "of the Troll",
+                "itemModLevel": "55",
+                "itemModStat": "Regenerate (32.1-48) Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeRegeneration7",
+                "itemModName": "of Ryslatha",
+                "itemModLevel": "68",
+                "itemModStat": "Regenerate (48.1-64) Life per second"
+            }
         ]
     },
     {
@@ -379,6 +1445,32 @@
             "of Static",
             "of Electricity",
             "of Voltage"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningDamagePercent1",
+                "itemModName": "of Sparks",
+                "itemModLevel": "10",
+                "itemModStat": "(3-7)% increased Lightning Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningDamagePercent2",
+                "itemModName": "of Static",
+                "itemModLevel": "23",
+                "itemModStat": "(8-12)% increased Lightning Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningDamagePercent3",
+                "itemModName": "of Electricity",
+                "itemModLevel": "36",
+                "itemModStat": "(13-17)% increased Lightning Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningDamagePercent4",
+                "itemModName": "of Voltage",
+                "itemModLevel": "50",
+                "itemModStat": "(18-22)% increased Lightning Damage"
+            }
         ]
     },
     {
@@ -394,6 +1486,56 @@
             "of the Maelstrom",
             "of the Lightning",
             "of Ephij"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResist1",
+                "itemModName": "of the Cloud",
+                "itemModLevel": "1",
+                "itemModStat": "+(6-11)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResist2",
+                "itemModName": "of the Squall",
+                "itemModLevel": "13",
+                "itemModStat": "+(12-17)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResist3",
+                "itemModName": "of the Storm",
+                "itemModLevel": "25",
+                "itemModStat": "+(18-23)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResist4",
+                "itemModName": "of the Thunderhead",
+                "itemModLevel": "37",
+                "itemModStat": "+(24-29)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResist5",
+                "itemModName": "of the Tempest",
+                "itemModLevel": "49",
+                "itemModStat": "+(30-35)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResist6",
+                "itemModName": "of the Maelstrom",
+                "itemModLevel": "60",
+                "itemModStat": "+(36-41)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResist7",
+                "itemModName": "of the Lightning",
+                "itemModLevel": "72",
+                "itemModStat": "+(42-45)% to Lightning Resistance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightningResist8",
+                "itemModName": "of Ephij",
+                "itemModLevel": "84",
+                "itemModStat": "+(46-48)% to Lightning Resistance"
+            }
         ]
     },
     {
@@ -404,6 +1546,26 @@
             "of Shining",
             "of Light",
             "of Radiance"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightRadiusAndAccuracyNew1",
+                "itemModName": "of Shining",
+                "itemModLevel": "8",
+                "itemModStat": "5% increased Light Radius, (9-11)% increased Global Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightRadiusAndAccuracyNew2",
+                "itemModName": "of Light",
+                "itemModLevel": "15",
+                "itemModStat": "10% increased Light Radius, (12-15)% increased Global Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LightRadiusAndAccuracy3",
+                "itemModName": "of Radiance",
+                "itemModLevel": "30",
+                "itemModStat": "15% increased Light Radius, (16-20)% increased Global Accuracy Rating"
+            }
         ]
     },
     {
@@ -414,6 +1576,26 @@
             "of Absorption",
             "of Osmosis",
             "of Consumption"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaGainedFromEnemyDeath1",
+                "itemModName": "of Absorption",
+                "itemModLevel": "1",
+                "itemModStat": "+1 Mana gained on Kill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaGainedFromEnemyDeath2",
+                "itemModName": "of Osmosis",
+                "itemModLevel": "24",
+                "itemModStat": "+(2-3) Mana gained on Kill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaGainedFromEnemyDeath3",
+                "itemModName": "of Consumption",
+                "itemModLevel": "40",
+                "itemModStat": "+(4-6) Mana gained on Kill"
+            }
         ]
     },
     {
@@ -427,6 +1609,44 @@
             "of Bliss",
             "of Euphoria",
             "of Nirvana"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaRegeneration1",
+                "itemModName": "of Excitement",
+                "itemModLevel": "2",
+                "itemModStat": "(10-19)% increased Mana Regeneration Rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaRegeneration2",
+                "itemModName": "of Joy",
+                "itemModLevel": "18",
+                "itemModStat": "(20-29)% increased Mana Regeneration Rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaRegeneration3",
+                "itemModName": "of Elation",
+                "itemModLevel": "29",
+                "itemModStat": "(30-39)% increased Mana Regeneration Rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaRegeneration4",
+                "itemModName": "of Bliss",
+                "itemModLevel": "42",
+                "itemModStat": "(40-49)% increased Mana Regeneration Rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaRegeneration5",
+                "itemModName": "of Euphoria",
+                "itemModLevel": "55",
+                "itemModStat": "(50-59)% increased Mana Regeneration Rate"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaRegeneration6",
+                "itemModName": "of Nirvana",
+                "itemModLevel": "79",
+                "itemModStat": "(60-69)% increased Mana Regeneration Rate"
+            }
         ]
     },
     {
@@ -443,6 +1663,62 @@
             "of the Leviathan",
             "of the Titan",
             "of the Gods"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength1",
+                "itemModName": "of the Brute",
+                "itemModLevel": "1",
+                "itemModStat": "+(8-12) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength2",
+                "itemModName": "of the Wrestler",
+                "itemModLevel": "11",
+                "itemModStat": "+(13-17) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength3",
+                "itemModName": "of the Bear",
+                "itemModLevel": "22",
+                "itemModStat": "+(18-22) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength4",
+                "itemModName": "of the Lion",
+                "itemModLevel": "33",
+                "itemModStat": "+(23-27) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength5",
+                "itemModName": "of the Gorilla",
+                "itemModLevel": "44",
+                "itemModStat": "+(28-32) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength6",
+                "itemModName": "of the Goliath",
+                "itemModLevel": "55",
+                "itemModStat": "+(33-37) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength7",
+                "itemModName": "of the Leviathan",
+                "itemModLevel": "66",
+                "itemModStat": "+(38-42) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength8",
+                "itemModName": "of the Titan",
+                "itemModLevel": "74",
+                "itemModStat": "+(43-50) to Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:Strength9",
+                "itemModName": "of the Gods",
+                "itemModLevel": "82",
+                "itemModStat": "+(51-55) to Strength"
+            }
         ]
     },
     {
@@ -452,6 +1728,20 @@
         "itemModTiers": [
             "The Elder's",
             "The Elder's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToIgniteAddedDamageUber1",
+                "itemModName": "The Elder's",
+                "itemModLevel": "68",
+                "itemModStat": "Adds (19-26) to (38-46) Fire Damage against Ignited Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToIgniteAddedDamageUber2~~",
+                "itemModName": "The Elder's",
+                "itemModLevel": "75",
+                "itemModStat": "Adds (23-30) to (47-54) Fire Damage against Ignited Enemies"
+            }
         ]
     },
     {
@@ -461,6 +1751,20 @@
         "itemModTiers": [
             "The Elder's",
             "The Elder's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainPerTargetUber1",
+                "itemModName": "The Elder's",
+                "itemModLevel": "68",
+                "itemModStat": "+(10-15) Life gained for each Enemy hit by your Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainPerTargetUber2",
+                "itemModName": "The Elder's",
+                "itemModLevel": "75",
+                "itemModStat": "+(16-20) Life gained for each Enemy hit by your Attacks"
+            }
         ]
     },
     {
@@ -469,6 +1773,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "The Elder's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaGainPerTargetUberElder1",
+                "itemModName": "The Elder's",
+                "itemModLevel": "68",
+                "itemModStat": "+(2-3) Mana gained for each Enemy hit by your Attacks"
+            }
         ]
     },
     {
@@ -478,6 +1790,20 @@
         "itemModTiers": [
             "The Elder's",
             "The Elder's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReducedPhysicalReflectTakenRingUber1",
+                "itemModName": "The Elder's",
+                "itemModLevel": "68",
+                "itemModStat": "You and your Minions take (45-31)% reduced Reflected Physical Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReducedPhysicalReflectTakenRingUber2",
+                "itemModName": "The Elder's",
+                "itemModLevel": "75",
+                "itemModStat": "You and your Minions take (55-46)% reduced Reflected Physical Damage"
+            }
         ]
     },
     {
@@ -488,6 +1814,26 @@
             "of the Elder",
             "of the Elder",
             "of the Elder"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeMultiplierUber1",
+                "itemModName": "of the Elder",
+                "itemModLevel": "68",
+                "itemModStat": "+(8-12)% to Global Critical Strike Multiplier"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeMultiplierUber2~",
+                "itemModName": "of the Elder",
+                "itemModLevel": "75",
+                "itemModStat": "+(13-16)% to Global Critical Strike Multiplier"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeMultiplierUber3",
+                "itemModName": "of the Elder",
+                "itemModLevel": "80",
+                "itemModStat": "+(17-20)% to Global Critical Strike Multiplier"
+            }
         ]
     },
     {
@@ -496,6 +1842,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Elder"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GrantsHeraldOfAshSkillUber1",
+                "itemModName": "of the Elder",
+                "itemModLevel": "68",
+                "itemModStat": "Grants Level 22 Herald of Ash Skill"
+            }
         ]
     },
     {
@@ -506,6 +1860,26 @@
             "of the Elder",
             "of the Elder",
             "of the Elder"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyPercentUber1~",
+                "itemModName": "of the Elder",
+                "itemModLevel": "68",
+                "itemModStat": "(6-10)% increased Global Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyPercentUber2",
+                "itemModName": "of the Elder",
+                "itemModLevel": "75",
+                "itemModStat": "(11-15)% increased Global Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyPercentUber3",
+                "itemModName": "of the Elder",
+                "itemModLevel": "82",
+                "itemModStat": "(16-20)% increased Global Accuracy Rating"
+            }
         ]
     },
     {
@@ -517,6 +1891,32 @@
             "The Shaper's",
             "The Shaper's",
             "The Shaper's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToFreezeAddedDamageUber1",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "68",
+                "itemModStat": "Adds (17-23) to (35-41) Cold Damage against Chilled or Frozen Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToFreezeAddedDamageUber2",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "75",
+                "itemModStat": "Adds (20-26) to (41-48) Cold Damage against Chilled or Frozen Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToShockAddedDamageUber1",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "68",
+                "itemModStat": "Adds (3-7) to (68-73) Lightning Damage against Shocked Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToShockAddedDamageUber2",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "75",
+                "itemModStat": "Adds (4-8) to (82-86) Lightning Damage against Shocked Enemies"
+            }
         ]
     },
     {
@@ -525,6 +1925,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "The Shaper's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedExperienceGainUber1",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "85",
+                "itemModStat": "(2-3)% increased Experience gain"
+            }
         ]
     },
     {
@@ -534,6 +1942,20 @@
         "itemModTiers": [
             "The Shaper's",
             "The Shaper's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainedOnSpellHitUber1",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "68",
+                "itemModStat": "+(8-12) Life gained for each Enemy hit by your Spells"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainedOnSpellHitUber2",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "75",
+                "itemModStat": "+(13-15) Life gained for each Enemy hit by your Spells"
+            }
         ]
     },
     {
@@ -542,6 +1964,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "The Shaper's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ManaGainedOnSpellHitUber1~",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "68",
+                "itemModStat": "+(2-3) Mana gained for each Enemy Hit by your Spells"
+            }
         ]
     },
     {
@@ -551,6 +1981,20 @@
         "itemModTiers": [
             "The Shaper's",
             "The Shaper's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReducedElementalReflectTakenRingUber1",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "68",
+                "itemModStat": "You and your Minions take (45-31)% reduced Reflected Elemental Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReducedElementalReflectTakenRingUber2",
+                "itemModName": "The Shaper's",
+                "itemModLevel": "75",
+                "itemModStat": "You and your Minions take (55-46)% reduced Reflected Elemental Damage"
+            }
         ]
     },
     {
@@ -561,6 +2005,26 @@
             "of Shaping",
             "of Shaping",
             "of Shaping"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeChanceUber1",
+                "itemModName": "of Shaping",
+                "itemModLevel": "68",
+                "itemModStat": "(10-15)% increased Global Critical Strike Chance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeChanceUber2",
+                "itemModName": "of Shaping",
+                "itemModLevel": "75",
+                "itemModStat": "(16-20)% increased Global Critical Strike Chance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeChanceUber3~",
+                "itemModName": "of Shaping",
+                "itemModLevel": "80",
+                "itemModStat": "(21-25)% increased Global Critical Strike Chance"
+            }
         ]
     },
     {
@@ -570,6 +2034,20 @@
         "itemModTiers": [
             "of Shaping",
             "of Shaping"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GrantsHeraldOfIceSkillUber1",
+                "itemModName": "of Shaping",
+                "itemModLevel": "68",
+                "itemModStat": "Grants Level 22 Herald of Ice Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GrantsHeraldOfThunderSkillUber1",
+                "itemModName": "of Shaping",
+                "itemModLevel": "68",
+                "itemModStat": "Grants Level 22 Herald of Thunder Skill"
+            }
         ]
     },
     {
@@ -578,6 +2056,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of Shaping"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReducedCurseEffectUber2",
+                "itemModName": "of Shaping",
+                "itemModLevel": "75",
+                "itemModStat": "(40-35)% reduced Effect of Curses on you"
+            }
         ]
     },
     {
@@ -587,6 +2073,20 @@
         "itemModTiers": [
             "Crusader's",
             "Crusader's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamagePerPowerChargeInfluence1~~",
+                "itemModName": "Crusader's",
+                "itemModLevel": "75",
+                "itemModStat": "1 to (6-8) Lightning Damage per Power Charge"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedLightningDamagePerPowerChargeInfluence2",
+                "itemModName": "Crusader's",
+                "itemModLevel": "80",
+                "itemModStat": "(1-2) to (9-11) Lightning Damage per Power Charge"
+            }
         ]
     },
     {
@@ -596,6 +2096,20 @@
         "itemModTiers": [
             "Crusader's",
             "Crusader's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToShockAddedDamageInfluence1",
+                "itemModName": "Crusader's",
+                "itemModLevel": "68",
+                "itemModStat": "Adds (3-7) to (68-73) Lightning Damage against Shocked Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToShockAddedDamageInfluence2",
+                "itemModName": "Crusader's",
+                "itemModLevel": "75",
+                "itemModStat": "Adds (4-8) to (82-86) Lightning Damage against Shocked Enemies"
+            }
         ]
     },
     {
@@ -606,6 +2120,26 @@
             "Crusader's",
             "Crusader's",
             "Crusader's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalEnergyShieldPercentInfluence1",
+                "itemModName": "Crusader's",
+                "itemModLevel": "68",
+                "itemModStat": "(7-9)% increased maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalEnergyShieldPercentInfluence2",
+                "itemModName": "Crusader's",
+                "itemModLevel": "78",
+                "itemModStat": "(10-12)% increased maximum Energy Shield"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalEnergyShieldPercentInfluence3",
+                "itemModName": "Crusader's",
+                "itemModLevel": "82",
+                "itemModStat": "(13-15)% increased maximum Energy Shield"
+            }
         ]
     },
     {
@@ -616,6 +2150,26 @@
             "Crusader's",
             "Crusader's",
             "Crusader's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLifeLeechRateInfluence1",
+                "itemModName": "Crusader's",
+                "itemModLevel": "68",
+                "itemModStat": "(35-40)% increased total Recovery per second from Life Leech"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLifeLeechRateInfluence2",
+                "itemModName": "Crusader's",
+                "itemModLevel": "75",
+                "itemModStat": "(41-45)% increased total Recovery per second from Life Leech"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedLifeLeechRateInfluence3",
+                "itemModName": "Crusader's",
+                "itemModLevel": "80",
+                "itemModStat": "(46-50)% increased total Recovery per second from Life Leech"
+            }
         ]
     },
     {
@@ -625,6 +2179,20 @@
         "itemModTiers": [
             "Crusader's",
             "Crusader's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainedOnSpellHitInfluence1",
+                "itemModName": "Crusader's",
+                "itemModLevel": "68",
+                "itemModStat": "+(8-12) Life gained for each Enemy hit by your Spells"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainedOnSpellHitInfluence2",
+                "itemModName": "Crusader's",
+                "itemModLevel": "75",
+                "itemModStat": "+(13-15) Life gained for each Enemy hit by your Spells"
+            }
         ]
     },
     {
@@ -635,6 +2203,26 @@
             "Crusader's",
             "Crusader's",
             "Crusader's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:SpellDamageRingInfluence1~",
+                "itemModName": "Crusader's",
+                "itemModLevel": "68",
+                "itemModStat": "(15-17)% increased Spell Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:SpellDamageRingInfluence2~",
+                "itemModName": "Crusader's",
+                "itemModLevel": "75",
+                "itemModStat": "(18-21)% increased Spell Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:SpellDamageRingInfluence3~~",
+                "itemModName": "Crusader's",
+                "itemModLevel": "80",
+                "itemModStat": "(22-25)% increased Spell Damage"
+            }
         ]
     },
     {
@@ -645,6 +2233,26 @@
             "of the Crusade",
             "of the Crusade",
             "of the Crusade"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalCriticalStrikeChanceRingInfluence1_~~_~~",
+                "itemModName": "of the Crusade",
+                "itemModLevel": "68",
+                "itemModStat": "(15-17)% increased Global Critical Strike Chance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalCriticalStrikeChanceRingInfluence2",
+                "itemModName": "of the Crusade",
+                "itemModLevel": "75",
+                "itemModStat": "(18-21)% increased Global Critical Strike Chance"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalCriticalStrikeChanceRingInfluence3",
+                "itemModName": "of the Crusade",
+                "itemModLevel": "80",
+                "itemModStat": "(22-25)% increased Global Critical Strike Chance"
+            }
         ]
     },
     {
@@ -654,6 +2262,20 @@
         "itemModTiers": [
             "of the Crusade",
             "of the Crusade"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitConductivityInfluence1",
+                "itemModName": "of the Crusade",
+                "itemModLevel": "75",
+                "itemModStat": "Curse Enemies with Conductivity on Hit, with 20% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitConductivityInfluence2_~~_~~",
+                "itemModName": "of the Crusade",
+                "itemModLevel": "80",
+                "itemModStat": "Curse Enemies with Conductivity on Hit, with 32% increased Effect"
+            }
         ]
     },
     {
@@ -662,6 +2284,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Crusade"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReducedCurseEffectInfluence2~",
+                "itemModName": "of the Crusade",
+                "itemModLevel": "75",
+                "itemModStat": "(40-35)% reduced Effect of Curses on you"
+            }
         ]
     },
     {
@@ -671,6 +2301,20 @@
         "itemModTiers": [
             "Redeemer's",
             "Redeemer's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamagePerFrenzyChargeInfluence1",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "75",
+                "itemModStat": "(2-3) to (4-5) Added Cold Damage per Frenzy Charge"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedColdDamagePerFrenzyChargeInfluence2~~",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "80",
+                "itemModStat": "(3-4) to (6-7) Added Cold Damage per Frenzy Charge"
+            }
         ]
     },
     {
@@ -680,6 +2324,20 @@
         "itemModTiers": [
             "Redeemer's",
             "Redeemer's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToFreezeAddedDamageInfluence1~",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "68",
+                "itemModStat": "Adds (17-23) to (35-41) Cold Damage against Chilled or Frozen Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToFreezeAddedDamageInfluence2",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "75",
+                "itemModStat": "Adds (20-26) to (41-48) Cold Damage against Chilled or Frozen Enemies"
+            }
         ]
     },
     {
@@ -690,6 +2348,26 @@
             "Redeemer's",
             "Redeemer's",
             "Redeemer's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalEvasionPercentInfluence1",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "68",
+                "itemModStat": "(7-9)% increased Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalEvasionPercentInfluence2",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "78",
+                "itemModStat": "(10-12)% increased Evasion Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalEvasionPercentInfluence3~",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "82",
+                "itemModStat": "(13-15)% increased Evasion Rating"
+            }
         ]
     },
     {
@@ -700,6 +2378,26 @@
             "Redeemer's",
             "Redeemer's",
             "Redeemer's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MinionDamageRingInfluence1",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "68",
+                "itemModStat": "Minions deal (15-17)% increased Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MinionDamageRingInfluence2~",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "75",
+                "itemModStat": "Minions deal (18-21)% increased Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MinionDamageRingInfluence3",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "80",
+                "itemModStat": "Minions deal (22-25)% increased Damage"
+            }
         ]
     },
     {
@@ -710,6 +2408,26 @@
             "Redeemer's",
             "Redeemer's",
             "Redeemer's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ProjectileAttackDamageRingInfluence1",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "68",
+                "itemModStat": "(15-17)% increased Projectile Attack Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ProjectileAttackDamageRingInfluence2_~~_~~",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "75",
+                "itemModStat": "(18-21)% increased Projectile Attack Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ProjectileAttackDamageRingInfluence3",
+                "itemModName": "Redeemer's",
+                "itemModLevel": "80",
+                "itemModStat": "(22-25)% increased Projectile Attack Damage"
+            }
         ]
     },
     {
@@ -718,6 +2436,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of Redemption"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AttackSpeedHitRecentlyInfluence1~",
+                "itemModName": "of Redemption",
+                "itemModLevel": "75",
+                "itemModStat": "(8-12)% increased Attack Speed if you've been Hit Recently"
+            }
         ]
     },
     {
@@ -727,6 +2453,20 @@
         "itemModTiers": [
             "of Redemption",
             "of Redemption"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitFrostbiteInfluence1~",
+                "itemModName": "of Redemption",
+                "itemModLevel": "75",
+                "itemModStat": "Curse Enemies with Frostbite on Hit, with 20% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitFrostbiteInfluence2",
+                "itemModName": "of Redemption",
+                "itemModLevel": "80",
+                "itemModStat": "Curse Enemies with Frostbite on Hit, with 32% increased Effect"
+            }
         ]
     },
     {
@@ -736,6 +2476,20 @@
         "itemModTiers": [
             "of Redemption",
             "of Redemption"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyPercentInfluence1",
+                "itemModName": "of Redemption",
+                "itemModLevel": "68",
+                "itemModStat": "(12-15)% increased Global Accuracy Rating"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAccuracyPercentInfluence2",
+                "itemModName": "of Redemption",
+                "itemModLevel": "80",
+                "itemModStat": "(16-20)% increased Global Accuracy Rating"
+            }
         ]
     },
     {
@@ -745,6 +2499,20 @@
         "itemModTiers": [
             "of Redemption",
             "of Redemption"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAilmentEffectLowInfluence1",
+                "itemModName": "of Redemption",
+                "itemModLevel": "68",
+                "itemModStat": "(15-20)% increased Effect of Non-Damaging Ailments"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedAilmentEffectLowInfluence2~",
+                "itemModName": "of Redemption",
+                "itemModLevel": "75",
+                "itemModStat": "(21-25)% increased Effect of Non-Damaging Ailments"
+            }
         ]
     },
     {
@@ -755,6 +2523,26 @@
             "Hunter's",
             "Hunter's",
             "Hunter's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ExertedAttackDamageInfluence1",
+                "itemModName": "Hunter's",
+                "itemModLevel": "68",
+                "itemModStat": "Exerted Attacks deal (25-27)% increased Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ExertedAttackDamageInfluence2~~",
+                "itemModName": "Hunter's",
+                "itemModLevel": "75",
+                "itemModStat": "Exerted Attacks deal (28-31)% increased Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ExertedAttackDamageInfluence3",
+                "itemModName": "Hunter's",
+                "itemModLevel": "80",
+                "itemModStat": "Exerted Attacks deal (32-35)% increased Damage"
+            }
         ]
     },
     {
@@ -763,6 +2551,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "Hunter's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:IncreasedExperienceGainInfluence1",
+                "itemModName": "Hunter's",
+                "itemModLevel": "85",
+                "itemModStat": "(2-3)% increased Experience gain"
+            }
         ]
     },
     {
@@ -772,6 +2568,20 @@
         "itemModTiers": [
             "Hunter's",
             "Hunter's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainPerTargetInfluence1",
+                "itemModName": "Hunter's",
+                "itemModLevel": "68",
+                "itemModStat": "+(10-15) Life gained for each Enemy hit by your Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:LifeGainPerTargetInfluence2~~",
+                "itemModName": "Hunter's",
+                "itemModLevel": "75",
+                "itemModStat": "+(16-20) Life gained for each Enemy hit by your Attacks"
+            }
         ]
     },
     {
@@ -783,6 +2593,32 @@
             "Hunter's",
             "Hunter's",
             "Hunter's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReflectedElementalDamageRingInfluence1",
+                "itemModName": "Hunter's",
+                "itemModLevel": "68",
+                "itemModStat": "You and your Minions take (45-31)% reduced Reflected Elemental Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReflectedElementalDamageRingInfluence2",
+                "itemModName": "Hunter's",
+                "itemModLevel": "75",
+                "itemModStat": "You and your Minions take (55-46)% reduced Reflected Elemental Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReflectedPhysicalDamageRingInfluence1",
+                "itemModName": "Hunter's",
+                "itemModLevel": "68",
+                "itemModStat": "You and your Minions take (45-31)% reduced Reflected Physical Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ReflectedPhysicalDamageRingInfluence2~",
+                "itemModName": "Hunter's",
+                "itemModLevel": "75",
+                "itemModStat": "You and your Minions take (55-46)% reduced Reflected Physical Damage"
+            }
         ]
     },
     {
@@ -794,6 +2630,32 @@
             "of the Hunt",
             "of the Hunt",
             "of the Hunt"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitDespairInfluence1",
+                "itemModName": "of the Hunt",
+                "itemModLevel": "75",
+                "itemModStat": "Curse Enemies with Despair on Hit, with 20% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitDespairInfluence2",
+                "itemModName": "of the Hunt",
+                "itemModLevel": "80",
+                "itemModStat": "Curse Enemies with Despair on Hit, with 32% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitElementalWeaknessInfluence1",
+                "itemModName": "of the Hunt",
+                "itemModLevel": "75",
+                "itemModStat": "Curse Enemies with Elemental Weakness on Hit, with 20% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitElementalWeaknessInfluence2",
+                "itemModName": "of the Hunt",
+                "itemModLevel": "80",
+                "itemModStat": "Curse Enemies with Elemental Weakness on Hit, with 32% increased Effect"
+            }
         ]
     },
     {
@@ -804,6 +2666,26 @@
             "of the Hunt",
             "of the Hunt",
             "of the Hunt"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PoisonDamageAndDurationInfluence1~",
+                "itemModName": "of the Hunt",
+                "itemModLevel": "68",
+                "itemModStat": "(8-12)% increased Damage with Poison, (5-6)% increased Poison Duration"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PoisonDamageAndDurationInfluence2",
+                "itemModName": "of the Hunt",
+                "itemModLevel": "75",
+                "itemModStat": "(13-17)% increased Damage with Poison, (7-8)% increased Poison Duration"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:PoisonDamageAndDurationInfluence3~~",
+                "itemModName": "of the Hunt",
+                "itemModLevel": "80",
+                "itemModStat": "(18-22)% increased Damage with Poison, (9-10)% increased Poison Duration"
+            }
         ]
     },
     {
@@ -813,6 +2695,20 @@
         "itemModTiers": [
             "Warlord's",
             "Warlord's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamagePerEnduranceChargeInfluence1",
+                "itemModName": "Warlord's",
+                "itemModLevel": "75",
+                "itemModStat": "(2-3) to (4-5) Fire Damage per Endurance Charge"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AddedFireDamagePerEnduranceChargeInfluence2~~",
+                "itemModName": "Warlord's",
+                "itemModLevel": "80",
+                "itemModStat": "(3-4) to (6-7) Fire Damage per Endurance Charge"
+            }
         ]
     },
     {
@@ -822,6 +2718,20 @@
         "itemModTiers": [
             "Warlord's",
             "Warlord's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToIgniteAddedDamageInfluence1",
+                "itemModName": "Warlord's",
+                "itemModLevel": "68",
+                "itemModStat": "Adds (19-26) to (38-46) Fire Damage against Ignited Enemies"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:ChanceToIgniteAddedDamageInfluence2",
+                "itemModName": "Warlord's",
+                "itemModLevel": "75",
+                "itemModStat": "Adds (23-30) to (47-54) Fire Damage against Ignited Enemies"
+            }
         ]
     },
     {
@@ -832,6 +2742,26 @@
             "Warlord's",
             "Warlord's",
             "Warlord's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AreaOfEffectInfluence1",
+                "itemModName": "Warlord's",
+                "itemModLevel": "68",
+                "itemModStat": "(7-9)% increased Area of Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AreaOfEffectInfluence2",
+                "itemModName": "Warlord's",
+                "itemModLevel": "75",
+                "itemModStat": "(10-12)% increased Area of Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:AreaOfEffectInfluence3",
+                "itemModName": "Warlord's",
+                "itemModLevel": "80",
+                "itemModStat": "(13-15)% increased Area of Effect"
+            }
         ]
     },
     {
@@ -842,6 +2772,26 @@
             "Warlord's",
             "Warlord's",
             "Warlord's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalArmourPercentInfluence1",
+                "itemModName": "Warlord's",
+                "itemModLevel": "68",
+                "itemModStat": "(7-9)% increased Armour"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalArmourPercentInfluence2_~~_~~",
+                "itemModName": "Warlord's",
+                "itemModLevel": "78",
+                "itemModStat": "(10-12)% increased Armour"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:GlobalArmourPercentInfluence3",
+                "itemModName": "Warlord's",
+                "itemModLevel": "82",
+                "itemModStat": "(13-15)% increased Armour"
+            }
         ]
     },
     {
@@ -852,6 +2802,26 @@
             "Warlord's",
             "Warlord's",
             "Warlord's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MeleeDamageRingInfluence1",
+                "itemModName": "Warlord's",
+                "itemModLevel": "68",
+                "itemModStat": "(15-17)% increased Melee Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MeleeDamageRingInfluence2",
+                "itemModName": "Warlord's",
+                "itemModLevel": "75",
+                "itemModStat": "(18-21)% increased Melee Damage"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:MeleeDamageRingInfluence3",
+                "itemModName": "Warlord's",
+                "itemModLevel": "80",
+                "itemModStat": "(22-25)% increased Melee Damage"
+            }
         ]
     },
     {
@@ -862,6 +2832,26 @@
             "of the Conquest",
             "of the Conquest",
             "of the Conquest"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BleedDamageAndDurationInfluence1~~",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "68",
+                "itemModStat": "(8-12)% increased Damage with Bleeding, (5-6)% increased Bleeding Duration"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BleedDamageAndDurationInfluence2~",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "75",
+                "itemModStat": "(13-17)% increased Damage with Bleeding, (7-8)% increased Bleeding Duration"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:BleedDamageAndDurationInfluence3",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "80",
+                "itemModStat": "(18-22)% increased Damage with Bleeding, (9-10)% increased Bleeding Duration"
+            }
         ]
     },
     {
@@ -872,6 +2862,26 @@
             "of the Conquest",
             "of the Conquest",
             "of the Conquest"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeMultiplierRingInfluence1",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "68",
+                "itemModStat": "+(14-16)% to Global Critical Strike Multiplier"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeMultiplierRingInfluence2~",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "75",
+                "itemModStat": "+(17-19)% to Global Critical Strike Multiplier"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CriticalStrikeMultiplierRingInfluence3~",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "80",
+                "itemModStat": "+(20-22)% to Global Critical Strike Multiplier"
+            }
         ]
     },
     {
@@ -883,6 +2893,32 @@
             "of the Conquest",
             "of the Conquest",
             "of the Conquest"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitVulnerabilityInfluence1",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "75",
+                "itemModStat": "Curse Enemies with Vulnerability on Hit, with 20% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitVulnerabilityInfluence2",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "80",
+                "itemModStat": "Curse Enemies with Vulnerability on Hit, with 32% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitFlammabilityInfluence1",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "75",
+                "itemModStat": "Curse Enemies with Flammability on Hit, with 20% increased Effect"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:CurseOnHitFlammabilityInfluence2",
+                "itemModName": "of the Conquest",
+                "itemModLevel": "80",
+                "itemModStat": "Curse Enemies with Flammability on Hit, with 32% increased Effect"
+            }
         ]
     },
     {
@@ -891,6 +2927,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "Chosen"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledAddedColdAndLightningDamage",
+                "itemModName": "Chosen",
+                "itemModLevel": "60",
+                "itemModStat": "Adds (14-16) to (20-22) Cold Damage, Adds (14-16) to (20-22) Lightning Damage"
+            }
         ]
     },
     {
@@ -899,6 +2943,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "Chosen"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledAddedFireAndColdDamage",
+                "itemModName": "Chosen",
+                "itemModLevel": "60",
+                "itemModStat": "Adds (14-16) to (20-22) Fire Damage, Adds (14-16) to (20-22) Cold Damage"
+            }
         ]
     },
     {
@@ -907,6 +2959,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "Chosen"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledAddedFireAndLightningDamage",
+                "itemModName": "Chosen",
+                "itemModLevel": "60",
+                "itemModStat": "Adds (14-16) to (20-22) Fire Damage, Adds (14-16) to (20-22) Lightning Damage"
+            }
         ]
     },
     {
@@ -915,6 +2975,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "Leo's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledAllDamage",
+                "itemModName": "Leo's",
+                "itemModLevel": "60",
+                "itemModStat": "(20-23)% increased Damage"
+            }
         ]
     },
     {
@@ -923,6 +2991,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "Chosen"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledBaseLifeAndManaRegen~",
+                "itemModName": "Chosen",
+                "itemModLevel": "60",
+                "itemModStat": "+(55-60) to maximum Life, Regenerate 5.3 Mana per second"
+            }
         ]
     },
     {
@@ -934,6 +3010,32 @@
             "Chosen",
             "Chosen",
             "Chosen"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledBaseManaAndLifeRegen~~",
+                "itemModName": "Chosen",
+                "itemModLevel": "60",
+                "itemModStat": "+(55-60) to maximum Mana, Regenerate 33.3 Life per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledIncreasedManaAndRegen",
+                "itemModName": "Chosen",
+                "itemModLevel": "60",
+                "itemModStat": "+(51-55) to maximum Mana, Regenerate 5.3 Mana per second"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledManaAndDamageTakenGoesToManaPercent",
+                "itemModName": "Chosen",
+                "itemModLevel": "60",
+                "itemModStat": "+(51-55) to maximum Mana, (7-8)% of Damage taken Recouped as Mana"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledManaAndManaCostPercent",
+                "itemModName": "Chosen",
+                "itemModLevel": "60",
+                "itemModStat": "+(51-55) to maximum Mana, (6-7)% reduced Mana Cost of Skills"
+            }
         ]
     },
     {
@@ -943,6 +3045,20 @@
         "itemModTiers": [
             "Elreon's",
             "Elreon's"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledReduceGlobalFlatManaCostChannelling~",
+                "itemModName": "Elreon's",
+                "itemModLevel": "60",
+                "itemModStat": "Channelling Skills have -4 to Total Mana Cost"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledReduceGlobalFlatManaCostNonChannelling",
+                "itemModName": "Elreon's",
+                "itemModLevel": "60",
+                "itemModStat": "Non-Channelling Skills have -(10-9) to Total Mana Cost"
+            }
         ]
     },
     {
@@ -951,6 +3067,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledColdAndChaosDamageResistance",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+(16-20)% to Cold and Chaos Resistances"
+            }
         ]
     },
     {
@@ -959,6 +3083,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of Cameria"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledCriticalMultiplierOnShatter~",
+                "itemModName": "of Cameria",
+                "itemModLevel": "60",
+                "itemModStat": "+(27-30)% to Critical Strike Multiplier if you've Shattered an Enemy Recently, (20-22)% increased Global Critical Strike Chance"
+            }
         ]
     },
     {
@@ -967,6 +3099,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledDexterityAndIntelligence",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+(31-35) to Dexterity and Intelligence"
+            }
         ]
     },
     {
@@ -975,6 +3115,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledFireAndChaosDamageResistance",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+(16-20)% to Fire and Chaos Resistances"
+            }
         ]
     },
     {
@@ -983,6 +3131,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of Aisling"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledIncreasedChaosAndPhysicalDamage",
+                "itemModName": "of Aisling",
+                "itemModLevel": "60",
+                "itemModStat": "(18-20)% increased Chaos Damage, (20-22)% increased Global Physical Damage"
+            }
         ]
     },
     {
@@ -991,6 +3147,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of Riker"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledIncreasedFireAndLightningDamage",
+                "itemModName": "of Riker",
+                "itemModLevel": "60",
+                "itemModStat": "(18-20)% increased Fire Damage, (20-22)% increased Lightning Damage"
+            }
         ]
     },
     {
@@ -999,6 +3163,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledLightningAndChaosDamageResistance",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+(16-20)% to Lightning and Chaos Resistances"
+            }
         ]
     },
     {
@@ -1007,6 +3179,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledMinimumEnduranceCharges~",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+1 to Minimum Endurance Charges, (3-4)% chance to gain an Endurance Charge on Kill"
+            }
         ]
     },
     {
@@ -1015,6 +3195,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledMinimumFrenzyCharges_~~_~~",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+1 to Minimum Frenzy Charges, (3-4)% chance to gain a Frenzy Charge on Kill"
+            }
         ]
     },
     {
@@ -1023,6 +3211,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledMinimumPowerCharges",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+1 to Minimum Power Charges, (3-4)% chance to gain a Power Charge on Kill"
+            }
         ]
     },
     {
@@ -1031,6 +3227,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledShockNearbyEnemiesOnFocus",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "Shock nearby Enemies for 4 Seconds when you Focus, Focus has (5-8)% increased Cooldown Recovery Rate"
+            }
         ]
     },
     {
@@ -1039,6 +3243,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledStrengthAndDexterity",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+(31-35) to Strength and Dexterity"
+            }
         ]
     },
     {
@@ -1047,6 +3259,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "of the Order"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:JunMasterVeiledStrengthAndIntelligence",
+                "itemModName": "of the Order",
+                "itemModLevel": "60",
+                "itemModStat": "+(31-35) to Strength and Intelligence"
+            }
         ]
     },
     {
@@ -1057,6 +3277,26 @@
             "AddedColdDamageToSpellsAndAttacks",
             "AddedColdDamageToSpellsAndAttacks",
             "AddedColdDamageToSpellsAndAttacks"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedColdDamageCorrupted1",
+                "itemModName": "AddedColdDamageToSpellsAndAttacks",
+                "itemModLevel": "1",
+                "itemModStat": "Adds (3-4) to (7-8) Cold Damage to Spells and Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedColdDamageCorrupted2",
+                "itemModName": "AddedColdDamageToSpellsAndAttacks",
+                "itemModLevel": "31",
+                "itemModStat": "Adds (6-9) to (13-16) Cold Damage to Spells and Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedColdDamageCorrupted3",
+                "itemModName": "AddedColdDamageToSpellsAndAttacks",
+                "itemModLevel": "81",
+                "itemModStat": "Adds (12-16) to (24-28) Cold Damage to Spells and Attacks"
+            }
         ]
     },
     {
@@ -1067,6 +3307,26 @@
             "AddedFireDamageSpellsAndAttacks",
             "AddedFireDamageSpellsAndAttacks",
             "AddedFireDamageSpellsAndAttacks"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedFireDamageCorrupted1",
+                "itemModName": "AddedFireDamageSpellsAndAttacks",
+                "itemModLevel": "1",
+                "itemModStat": "Adds (3-5) to (7-8) Fire Damage to Spells and Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedFireDamageCorrupted2",
+                "itemModName": "AddedFireDamageSpellsAndAttacks",
+                "itemModLevel": "31",
+                "itemModStat": "Adds (7-10) to (15-18) Fire Damage to Spells and Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedFireDamageCorrupted3",
+                "itemModName": "AddedFireDamageSpellsAndAttacks",
+                "itemModLevel": "82",
+                "itemModStat": "Adds (13-18) to (28-33) Fire Damage to Spells and Attacks"
+            }
         ]
     },
     {
@@ -1077,6 +3337,26 @@
             "AddedLightningDamageSpellsAndAttacks",
             "AddedLightningDamageSpellsAndAttacks",
             "AddedLightningDamageSpellsAndAttacks"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedLightningDamageCorrupted1",
+                "itemModName": "AddedLightningDamageSpellsAndAttacks",
+                "itemModLevel": "1",
+                "itemModStat": "Adds 1 to (14-15) Lightning Damage to Spells and Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedLightningDamageCorrupted2",
+                "itemModName": "AddedLightningDamageSpellsAndAttacks",
+                "itemModLevel": "31",
+                "itemModStat": "Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AddedLightningDamageCorrupted3",
+                "itemModName": "AddedLightningDamageSpellsAndAttacks",
+                "itemModLevel": "83",
+                "itemModStat": "Adds (1-5) to (50-52) Lightning Damage to Spells and Attacks"
+            }
         ]
     },
     {
@@ -1085,6 +3365,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "AllResistancesCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AllResistancesCorrupted",
+                "itemModName": "AllResistancesCorrupted",
+                "itemModLevel": "1",
+                "itemModStat": "+(14-16)% to all Elemental Resistances"
+            }
         ]
     },
     {
@@ -1093,6 +3381,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "AvoidIgniteCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AvoidIgniteCorrupted",
+                "itemModName": "AvoidIgniteCorrupted",
+                "itemModLevel": "40",
+                "itemModStat": "Cannot be Ignited"
+            }
         ]
     },
     {
@@ -1101,6 +3397,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "BleedingImmunity"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2CannotGainBleedingCorrupted~",
+                "itemModName": "BleedingImmunity",
+                "itemModLevel": "60",
+                "itemModStat": "Bleeding cannot be inflicted on you"
+            }
         ]
     },
     {
@@ -1109,6 +3413,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "CannotBePoisoned"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2CannotBePoisonedCorrupted",
+                "itemModName": "CannotBePoisoned",
+                "itemModLevel": "40",
+                "itemModStat": "Cannot be Poisoned"
+            }
         ]
     },
     {
@@ -1125,6 +3437,62 @@
             "PrideSkill",
             "WrathSkill",
             "ZealotrySkill"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2AngerSkillReducedCorrupted",
+                "itemModName": "AngerSkill",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Level 21 Anger Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ConductivitySkillCorrupted",
+                "itemModName": "ConductivitySkill",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Level 23 Conductivity Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2DespairSkillCorrupted",
+                "itemModName": "DespairSkill",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Level 23 Despair Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2FlammabilitySkillCorrupted",
+                "itemModName": "FlammabilitySkill",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Level 23 Flammability Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2FrostbiteSkillCorrupted",
+                "itemModName": "FrostbiteSkill",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Level 23 Frostbite Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2HatredSkillCorrupted",
+                "itemModName": "HatredSkill",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Level 21 Hatred Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2PrideSkillCorrupted",
+                "itemModName": "PrideSkill",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Level 21 Pride Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2WrathSkillCorrupted",
+                "itemModName": "WrathSkill",
+                "itemModLevel": "45",
+                "itemModStat": "Grants Level 21 Wrath Skill"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ZealotrySkillCorrupted~",
+                "itemModName": "ZealotrySkill",
+                "itemModLevel": "56",
+                "itemModStat": "Grants Level 23 Zealotry Skill"
+            }
         ]
     },
     {
@@ -1133,6 +3501,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAttackSpeed"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAttackSpeedCorrupted",
+                "itemModName": "IncreasedAttackSpeed",
+                "itemModLevel": "1",
+                "itemModStat": "(8-10)% increased Attack Speed"
+            }
         ]
     },
     {
@@ -1143,6 +3519,26 @@
             "IncreasedDexterityStrengthCorrupted",
             "IncreasedIntelligenceDexterityCorrupted",
             "IncreasedStrengthIntelligenceCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedDexterityStrengthCorrupted",
+                "itemModName": "IncreasedDexterityStrengthCorrupted",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% increased Dexterity, (4-6)% increased Strength"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedIntelligenceDexterityCorrupted",
+                "itemModName": "IncreasedIntelligenceDexterityCorrupted",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% increased Intelligence, (4-6)% increased Dexterity"
+            },
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedStrengthIntelligenceCorrupted~",
+                "itemModName": "IncreasedStrengthIntelligenceCorrupted",
+                "itemModLevel": "1",
+                "itemModStat": "(4-6)% increased Strength, (4-6)% increased Intelligence"
+            }
         ]
     },
     {
@@ -1151,6 +3547,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectAngerCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectAngerCorrupted",
+                "itemModName": "IncreasedAuraEffectAngerCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Anger has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1159,6 +3563,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectDeterminationCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectDeterminationCorrupted",
+                "itemModName": "IncreasedAuraEffectDeterminationCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Determination has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1167,6 +3579,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectDisciplineCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectDisciplineCorrupted",
+                "itemModName": "IncreasedAuraEffectDisciplineCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Discipline has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1175,6 +3595,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectGraceCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectGraceCorrupted",
+                "itemModName": "IncreasedAuraEffectGraceCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Grace has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1183,6 +3611,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectHatredCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectHatredCorrupted",
+                "itemModName": "IncreasedAuraEffectHatredCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Hatred has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1191,6 +3627,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectMalevolenceCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectMalevolenceCorrupted",
+                "itemModName": "IncreasedAuraEffectMalevolenceCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Malevolence has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1199,6 +3643,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectPrideCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectPrideCorrupted",
+                "itemModName": "IncreasedAuraEffectPrideCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Pride has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1207,6 +3659,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectWrathCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectWrathCorrupted",
+                "itemModName": "IncreasedAuraEffectWrathCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Wrath has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1215,6 +3675,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedAuraEffectZealotryCorrupted"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedAuraEffectZealotryCorrupted~",
+                "itemModName": "IncreasedAuraEffectZealotryCorrupted",
+                "itemModLevel": "45",
+                "itemModStat": "Zealotry has (15-20)% increased Aura Effect"
+            }
         ]
     },
     {
@@ -1223,6 +3691,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedCastSpeed"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedCastSpeedCorrupted~",
+                "itemModName": "IncreasedCastSpeed",
+                "itemModLevel": "1",
+                "itemModStat": "(8-10)% increased Cast Speed"
+            }
         ]
     },
     {
@@ -1231,6 +3707,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedItemQuantity"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ItemQuantityCorrupted~",
+                "itemModName": "IncreasedItemQuantity",
+                "itemModLevel": "84",
+                "itemModStat": "(3-5)% increased Quantity of Items found"
+            }
         ]
     },
     {
@@ -1239,6 +3723,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "IncreasedItemRarity"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ItemRarityCorrupted~",
+                "itemModName": "IncreasedItemRarity",
+                "itemModLevel": "60",
+                "itemModStat": "(20-30)% increased Rarity of Items found"
+            }
         ]
     },
     {
@@ -1247,6 +3739,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "ManaGainPerTarget"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2ManaOnHitCorrupted",
+                "itemModName": "ManaGainPerTarget",
+                "itemModLevel": "40",
+                "itemModStat": "+(4-6) Mana gained for each Enemy hit by your Attacks"
+            }
         ]
     },
     {
@@ -1255,6 +3755,14 @@
         "itemModInfluence": null,
         "itemModTiers": [
             "PhysicalDamagePercent"
+        ],
+        "itemModTierList": [
+            {
+                "itemModWikiLink": "https://www.poewiki.net/wiki/Modifier:V2IncreasedGlobalPhysicalDamageCorrupted",
+                "itemModName": "PhysicalDamagePercent",
+                "itemModLevel": "1",
+                "itemModStat": "(15-25)% increased Global Physical Damage"
+            }
         ]
     }
 ]
