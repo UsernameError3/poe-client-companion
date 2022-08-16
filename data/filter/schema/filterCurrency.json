@@ -1,0 +1,196 @@
+[
+    {
+        "classType": "Currency",
+        "currencyTypeList": [
+            {
+                "currencyTier": "T0",
+                "currencyCategory": "Legacy",
+                "baseType": [
+                    "Eternal Orb",
+                    "Infused Engineer's Orb",
+                    "Imprint"
+                ]
+            },
+            {
+                "currencyTier": "T1",
+                "currencyCategory": "Mirror",
+                "baseType": [
+                    "Mirror of Kalandra"
+                ]
+            },
+            {
+                "currencyTier": "T2",
+                "currencyCategory": "Mirror Shard",
+                "baseType": [
+                    "Mirror Shard"
+                ]
+            },
+            {
+                "currencyTier": "T2",
+                "currencyCategory": "Divine",
+                "baseType": [
+                    "Awakener's Orb",
+                    "Orb of Dominance",
+                    "Warlord's Exalted Orb",
+                    "Crusader's Exalted Orb",
+                    "Hunter's Exalted Orb",
+                    "Redeemer's Exalted Orb",
+                    "Divine Orb",
+                    "Prime Regrading Lens",
+                    "Secondary Regrading Lens",
+                    "Tailoring Orb",
+                    "Tempering Orb"
+                ]
+            },
+            {
+                "currencyTier": "T3",
+                "currencyCategory": "Exalted",
+                "baseType": [
+                    "Sacred Orb",
+                    "Exalted Orb",
+                    "Elevated Sextant",
+                    "Orb of Conflict",
+                    "Eldritch Exalted Orb",
+                    "Eldritch Orb of Annulment",
+                    "Eldritch Chaos Orb"
+                ]
+            },
+            {
+                "currencyTier": "T4",
+                "currencyCategory": "Eldritch",
+                "baseType": [
+                    "Lesser Eldritch Ember",
+                    "Lesser Eldritch Ichor",
+                    "Greater Eldritch Ember",
+                    "Greater Eldritch Ichor",
+                    "Grand Eldritch Ember",
+                    "Grand Eldritch Ichor"
+                ]
+            },
+            {
+                "currencyTier": "T4",
+                "currencyCategory": "Chaos",
+                "baseType": [
+                    "Veiled Chaos Orb",
+                    "Ancient Orb",
+                    "Orb of Annulment",
+                    "Awakened Sextant",
+                    "Charged Compass",
+                    "Exceptional Eldritch Ember",
+                    "Exceptional Eldritch Ichor",
+                    "Exalted Shard"
+                ]
+            },
+            {
+                "currencyTier": "T5",
+                "currencyCategory": "Rare",
+                "baseType": [
+                    "Surveyor's Compass",
+                    "Orb of Unmaking",
+                    "Orb of Regret",
+                    "Blessed Orb",
+                    "Chaos Orb",
+                    "Regal Orb",
+                    "Orb of Alchemy",
+                    "Orb of Scouring",
+                    "Vaal Orb",
+                    "Stacked Deck"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Magic",
+                "baseType": [
+                    "Orb of Chance",
+                    "Orb of Alteration",
+                    "Orb of Augmentation",
+                    "Orb of Transmutation"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Good Shards",
+                "baseType": [
+                    "Annulment Shard",
+                    "Ancient Shard"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Cheap Shards",
+                "baseType": [
+                    "Alchemy Shard",
+                    "Alteration Shard",
+                    "Binding Shard",
+                    "Chaos Shard",
+                    "Engineer's Shard",
+                    "Harbinger's Shard",
+                    "Horizon Shard",
+                    "Regal Shard",
+                    "Transmutation Shard"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Misc",
+                "baseType": [
+                    "Facetor's Lens",
+                    "Bestiary Orb",
+                    "Engineer's Orb",
+                    "Orb of Horizons",
+                    "Harbinger's Orb"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Sockets",
+                "baseType": [
+                    "Orb of Fusing",
+                    "Orb of Binding",
+                    "Chromatic Orb",
+                    "Jeweller's Orb"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Quality",
+                "baseType": [
+                    "Cartographer's Chisel",
+                    "Gemcutter's Prism",
+                    "Glassblower's Bauble",
+                    "Armourer's Scrap",
+                    "Blacksmith's Whetstone"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Flasks",
+                "baseType": [
+                    "Enkindling Orb",
+                    "Instilling Orb"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Wisdom",
+                "baseType": [
+                    "Scroll of Wisdom"
+                ]
+            },
+            {
+                "currencyTier": "T6",
+                "currencyCategory": "Portal",
+                "baseType": [
+                    "Portal Scroll"
+                ]
+            },
+            {
+                "currencyTier": "T7",
+                "currencyCategory": "Ignore",
+                "baseType": [
+                    "Scroll Fragment"
+                ]
+            }
+        ]
+    }
+]
