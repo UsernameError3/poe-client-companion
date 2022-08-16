@@ -1,0 +1,104 @@
+{
+    "rule": {
+        "visibility": [
+            "Show",
+            "Hide",
+            "Commented Out"
+        ],
+        "visibilitySeperator": "#",
+        "ruleName": [
+            "tiering"
+        ]
+    },
+    "ruleProperties": [
+        "ItemLevel",
+        "GemLevel",
+        "AreaLevel",
+        "DropLevel",
+        "Identified",
+        "Corrupted",
+        "CorruptedMods",
+        "Mirrored",
+        "LinkedSockets",
+        "SocketGroup",
+        "Sockets",
+        "Rarity",
+        "Class",
+        "BaseDefencePercentile",
+        "BaseType",
+        "HasExplicitMod",
+        "HasInfluence",
+        "HasSearingExarchImplicit",
+        "HasEaterOfWorldsImplicit",
+        "SynthesisedItem",
+        "FracturedItem",
+        "AnyEnchantment",
+        "EnchantmentPassiveNum",
+        "EnchantmentPassiveNode",
+        "GemQualityType",
+        "AlternateQuality",
+        "Quality",
+        "Replica",
+        "MapTier",
+        "BlightedMap",
+        "UberBlightedMap",
+        "Scourged",
+        "StackSize",
+        "Width",
+        "Height"
+    ],
+    "ruleStyleProperties": [
+        {
+            "SetTextColor": "255 0 198 255",
+            "SetBorderColor": "255 0 198 255",
+            "SetBackgroundColor": "0 0 0 255",
+            "SetFontSize": "45",
+            "PlayAlertSound": "10 300",
+            "PlayEffect": "Pink",
+            "DisableDropSound": "False",
+            "MinimapIcon": {
+                "size": "0",
+                "color": "Pink",
+                "shape": "Circle"
+            }
+        }
+    ],
+    "items": [
+        {
+            "equipment": [
+                {
+                    "equipmentPath": "data/filter/schema/filterEquipment.json"
+                }
+            ]
+        },
+        {
+            "drops": [
+                {
+                    "mapping": {
+                        "mappingPath": "data/filter/schema/filterMaps.json"
+                    } 
+                },
+                {
+                    "league": {
+                        "leaguePath": "data/filter/schema/filterLeagues.json"
+                    }
+                },
+                {
+                    "currency": {
+                        "currencyPath": "data/filter/schema/filterCurrency.json"
+                    }
+                },
+                {
+                    "cards": {
+                        "cardsPath": "data/filter/schema/filterDivinationCards.json"
+                    }
+                },
+                {
+                    "misc": {
+                        "miscPath": "data/filter/schema/filterMisc.json"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "classType": "Labyrinth",
+        "baseType": [
+            "Offering to the Goddess",
+            "Tribute to the Goddess",
+            "Dedication to the Goddess",
+            "Gift to the Goddess"
+        ]
+    },
+    {
+        "classType": null,
+        "baseType": [
+            "Ceremonial Voidstone",
+            "Decayed Voidstone",
+            "Grasping Voidstone",
+            "Omniscient Voidstone"
+        ]
+    },
+    {
+        "classType": "Quest",
+        "baseType": []
+    },
+    {
+        "classType": "Misc Map Items",
+        "baseType": []
+    }
+]
