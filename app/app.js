@@ -1,0 +1,1 @@
+require('./components/filter/filter.js');

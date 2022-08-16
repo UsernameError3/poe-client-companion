@@ -367,42 +367,24 @@
         "PlayEffect": "ruleStyleDefaultColors",
         "MinimapIcon": "ruleStyleMinimapIcon"
     },
-    "ruleItems": [
-        {
-            "equipment": [
-                {
-                    "path": "data/filter/schema/filterEquipment.json"
-                }
-            ]
+    "ruleItems": {
+        "equipment": {
+            "filename": "filterEquipment.json"
         },
-        {
-            "drops": [
-                {
-                    "mapping": {
-                        "path": "data/filter/schema/filterMaps.json"
-                    } 
-                },
-                {
-                    "league": {
-                        "path": "data/filter/schema/filterLeagues.json"
-                    }
-                },
-                {
-                    "currency": {
-                        "path": "data/filter/schema/filterCurrency.json"
-                    }
-                },
-                {
-                    "cards": {
-                        "path": "data/filter/schema/filterDivinationCards.json"
-                    }
-                },
-                {
-                    "misc": {
-                        "path": "data/filter/schema/filterMisc.json"
-                    }
-                }
-            ]
+        "mapping": {
+            "filename": "filterMaps.json"
+        },
+        "currency": {
+            "filename": "filterCurrency.json"
+        },
+        "cards": {
+            "filename": "filterDivinationCards.json"
+        },
+        "league": {
+            "filename": "filterLeagues.json"
+        },
+        "misc": {
+            "filename": "filterMisc.json"
         }
-    ]
+    }
 }
