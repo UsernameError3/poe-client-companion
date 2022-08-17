@@ -1,1 +1,13 @@
-{}
+{
+    "profileName": "testing",
+    "profileVersion": "1",
+    "profileLeague": "Kalandra",
+    "profileStrictness": "Strict",
+    "profileStyles": [],
+    "profileEquipmentPreferences": [],
+    "profileMappingPreferences": [],
+    "profileCurrencyPreferences": [],
+    "profileCardPreferences": [],
+    "profileLeaguePreferences": [],
+    "profileMiscPreferences": []
+}

@@ -355,18 +355,48 @@
             }
         }
     },
-    "ruleStyleProperties": {
-        "SetTextColor": "ruleStyleCustomColor",
-        "SetBorderColor": "ruleStyleCustomColor",
-        "SetBackgroundColor": "ruleStyleCustomColor",
-        "SetFontSize": "ruleStyleFontSize",
-        "PlayAlertSound": "ruleStyleDefaultSounds",
-        "PlayAlertSoundPositional": "ruleStyleDefaultSounds",
-        "CustomAlertSound": null,
-        "DisableDropSound": "ruleStyleBoolean",
-        "PlayEffect": "ruleStyleDefaultColors",
-        "MinimapIcon": "ruleStyleMinimapIcon"
-    },
+    "ruleStyleProperties": [
+        {
+            "styleProperty": "SetTextColor",
+            "styleValue": "ruleStyleCustomColor"
+        },
+        {
+            "styleProperty": "SetBorderColor",
+            "styleValue": "ruleStyleCustomColor"
+        },
+        {
+            "styleProperty": "SetBackgroundColor",
+            "styleValue": "ruleStyleCustomColor"
+        },
+        {
+            "styleProperty": "SetFontSize",
+            "styleValue": "ruleStyleFontSize"
+        },
+        {
+            "styleProperty": "PlayAlertSound",
+            "styleValue": "ruleStyleDefaultSounds"
+        },
+        {
+            "styleProperty": "PlayAlertSoundPositional",
+            "styleValue": "ruleStyleDefaultSounds"
+        },
+        {
+            "styleProperty": "CustomAlertSound",
+            "styleValue": null
+        },
+        {
+            "styleProperty": "DisableDropSound",
+            "styleValue": "ruleStyleBoolean"
+        },
+        {
+            "styleProperty": "PlayEffect",
+            "styleValue": "ruleStyleDefaultColors"
+        },
+        {
+            "styleProperty": "MinimapIcon",
+            "styleValue": "ruleStyleMinimapIcon"
+        }
+    ],
     "ruleItems": {
         "equipment": {
             "filename": "filterEquipment.json"
